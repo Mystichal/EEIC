@@ -5,8 +5,8 @@
 	"tech level": "",
 	"manufacturing time": "00:00:00",
 	"manufacturing cost": 0,
-	"material effinciency": 0,
-	"time effinciency": 0,
+	"material efficiency": 0,
+	"time efficiency": 0,
 	"pi requirements": {
 		"lustering alloy": 0,
 		"sheen compound": 0,

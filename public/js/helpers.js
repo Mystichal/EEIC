@@ -120,15 +120,48 @@ function addTimes(startTime, endTime) {
 }
 
 const multiplyTime = (time, factor) => {
-    let [hours, minutes, seconds] = time.split(':').map(part => parseInt(part) || 0)
-    let totalSeconds = hours * 3600 + minutes * 60 + seconds
-    totalSeconds *= factor
+	let [hours, minutes, seconds] = time.split(':').map(part => parseInt(part) || 0)
+	let totalSeconds = hours * 3600 + minutes * 60 + seconds
+	totalSeconds *= factor
 
-    let resultHours = Math.floor(totalSeconds / 3600) % 24
-    totalSeconds %= 3600
+	let resultHours = Math.floor(totalSeconds / 3600) % 24
+	totalSeconds %= 3600
 
-    let resultMinutes = Math.floor(totalSeconds / 60)
-    let resultSeconds = totalSeconds % 60
-    
-    return `${resultHours.toString().padStart(2, '0')}:${resultMinutes.toString().padStart(2, '0')}:${resultSeconds.toString().padStart(2, '0')}`
+	let resultMinutes = Math.floor(totalSeconds / 60)
+	let resultSeconds = totalSeconds % 60
+	
+	return `${resultHours.toString().padStart(2, '0')}:${resultMinutes.toString().padStart(2, '0')}:${resultSeconds.toString().padStart(2, '0')}`
+}
+
+function mergeObjects(obj1, obj2) {
+	const merged = { ...obj1 }
+
+	for (let key in obj2) {
+		if (obj2.hasOwnProperty(key)) {
+			if (obj2[key] && typeof obj2[key] === 'object' && !Array.isArray(obj2[key])) {
+				if (!obj1[key]) {
+					merged[key] = obj2[key]
+				} else {
+					merged[key] = mergeObjects(obj1[key], obj2[key])
+				}
+			} else {
+				merged[key] = obj2[key]
+			}
+		}
+	}
+
+	return merged;
+}
+
+const capitalize = (str, lower = false) =>
+	(lower ? str.toLowerCase() : str).replace(/(?:^|\s|["'([{])+\S/g, match => match.toUpperCase())
+
+const addClass = (element, ...classNames) => {
+	element.classList.add(...classNames)
+}
+
+const createCell = (row, content, classNames = []) => {
+	const cell = row.insertCell()
+	cell.innerHTML = content
+	addClass(cell, ...classNames)
 }

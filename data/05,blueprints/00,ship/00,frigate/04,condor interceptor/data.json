@@ -1,0 +1,24 @@
+{
+    "name": "Condor Interceptor Blueprint",
+    "volume": 0.01,
+    "products": "Condor Interceptor",
+    "tech level": 8,
+    "manufacturing time": "04:26:40",
+    "manufacturing cost": 9000000,
+    "pi requirements": {
+        "gleaming alloy": 6642,
+        "precious alloy": 5898,
+        "fiber composite": 7526,
+        "noble metals": 7526,
+        "reactive metals": 1872
+    },
+    "ore requirements": {
+        "tritanium": 2467871,
+        "pyrite": 854016,
+        "mexallon": 233964,
+        "isogen": 38498,
+        "noxium": 10814,
+        "zydrine": 4448,
+        "megacyte": 1812
+    }
+}

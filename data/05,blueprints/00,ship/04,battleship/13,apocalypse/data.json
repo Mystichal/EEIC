@@ -2,42 +2,15 @@
     "name": "Apocalypse Blueprint",
     "volume": 0.01,
     "products": "Apocalypse",
-    "tech level": "9",
-    "manufacturing time": "02:40:00",
+    "tech level": 9,
+    "manufacturing time": "26:40:00",
     "manufacturing cost": 95000000,
-    "material efficiency": 150,
-    "time efficiency": 100,
     "pi requirements": {
-        "lustering alloy": 0,
         "sheen compound": 110054,
-        "gleaming alloy": 0,
-        "condensed alloy": 0,
         "precious alloy": 91272,
-        "motley compound": 0,
-        "fiber composite": 0,
-        "lucent compound": 0,
-        "opulent compound": 0,
-        "glossy compound": 0,
         "crystal compound": 109148,
-        "dark compound": 0,
-        "reactive gas": 0,
-        "noble gas": 0,
-        "base metals": 0,
         "heavy mentals": 110054,
-        "noble metals": 0,
-        "reactive metals": 28963,
-        "toxic metals": 0,
-        "industrial fibers": 0,
-        "super tensile plastics": 0,
-        "polyaramids": 0,
-        "coolant": 0,
-        "condensates": 0,
-        "construction blocks": 0,
-        "nanites": 0,
-        "silicate glass": 0,
-        "smartfab units": 0,
-        "precious metals": 0,
-        "non-cs crystals": 0
+        "reactive metals": 28963
     },
     "ore requirements": {
         "tritanium": 28749683,
@@ -46,10 +19,6 @@
         "isogen": 457085,
         "noxium": 106037,
         "zydrine": 42281,
-        "megacyte": 25154,
-        "morphite": 0,
-        "compressed tritanium": 0
-    },
-    "obtainable": [],
-    "description": ""
+        "megacyte": 25154
+    }
 }

@@ -123,37 +123,11 @@
 			
 		</div>
 	</div>
-	
-	<? $oreRequirements = $props['blueprints']['griffin']['ore requirements']; ?>
-	<? $piRequirements = $props['blueprints']['griffin']['pi requirements']; ?>
 
 	<div class="details">
-		<table id="details-s1">
-			<? foreach ($oreRequirements as $name => $value): ?>
-				<? echo '<tr><td>' . ucwords($name) . '</td><td class="int ore">0</td></tr>'; ?>
-			<? endforeach; ?>
-			<? echo '<tr><td>Manufacturing cost</td><td class="int ore isk">0 ISK</td></tr>'; ?>
-			<? echo '<tr></tr>'; ?>
-		</table>
-		<table id="details-s2">
-			<? $i = 0; ?> 
-			<? foreach ($piRequirements as $name => $value): ?>
-				<? echo '<tr><td>' . ucwords($name) . '</td><td class="int pio">0</td></tr>'; ?>
-				<? if ($i === 14): ?>
-					<? break; ?>
-				<? endif ?>
-				<? $i++; ?>
-			<? endforeach; ?>
-		</table>
-		<table id="details-s3">
-			<? $i = 0; ?> 
-			<? foreach ($piRequirements as $name => $value): ?>
-				<? if ($i > 14): ?>
-					<? echo '<tr><td>' . ucwords($name) . '</td><td class="int pit">0</td></tr>'; ?>
-				<? endif ?>
-				<? $i++; ?>
-			<? endforeach; ?>	
-		</table>
+		<table id="details-s1"></table>
+		<table id="details-s2"></table>
+		<table id="details-s3"></table>
 	</div>
 
 	<div id="data-blueprints" class="hidden">

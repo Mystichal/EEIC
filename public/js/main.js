@@ -1,3 +1,5 @@
+import baseBluprint from './blueprint.js'
+
 const main = () => {
 	let state = {
 		blueprints: {},
@@ -39,7 +41,36 @@ const main = () => {
 	const advancedSkill = document.getElementById('advanced-skill')
 	const expertSkill = document.getElementById('expert-skill')
 
+	const oreTable = document.getElementById('details-s1')
+	const pioTable = document.getElementById('details-s2')
+	const pidTable = document.getElementById('details-s3')
+
 	let scrollEnabled = false;
+
+	let oreRequirements = baseBluprint['ore requirements']
+	let piRequirements = baseBluprint['pi requirements']
+
+	for (let [key, value] of Object.entries(oreRequirements)) {
+		let oreRow = oreTable.insertRow()
+		createCell(oreRow, capitalize(key), [])
+		createCell(oreRow, value, ['int', 'ore'])
+	}
+
+	let lastRow = oreTable.insertRow()
+	createCell(lastRow, 'Manufacturing Cost', [])
+	createCell(lastRow, '0 ISK', ['int', 'ore', 'isk'])
+
+	for (let [key, value] of Object.entries(piRequirements).slice(0, Math.ceil(Object.keys(piRequirements).length / 2))) {
+		let piRow = pioTable.insertRow()
+		createCell(piRow, capitalize(key), [])
+		createCell(piRow, value, ['int', 'pio'])
+	}
+
+	for (let [key, value] of Object.entries(piRequirements).slice(Math.ceil(Object.keys(piRequirements).length / 2))) {
+		let piRow = pidTable.insertRow()
+		createCell(piRow, capitalize(key), [])
+		createCell(piRow, value, ['int', 'pit'])
+	}
 
 	// define events handler functions
 	let handleTypeChange = (e) => {
@@ -158,7 +189,8 @@ const main = () => {
 		const matPro = state.mat / 100
 
 		if (!state.blueprints[target]) {
-			state.blueprints[target] = {...data[target]}
+			let merge = mergeObjects(baseBluprint, data[target])
+			state.blueprints[target] = {...merge}
 			state.blueprints[target].runs = run
 
 			state.blueprints[target]['manufacturing time'] = multiplyTime(data[target]['manufacturing time'], run)

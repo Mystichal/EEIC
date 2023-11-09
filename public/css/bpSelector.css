@@ -55,7 +55,7 @@ option, select, input, button {
 }
 
 .bp-selector select {
-	width: 200px;
+	width: 18rem;
 	margin-bottom: .2rem;
 	background-color: #93B1A6;
 	color: #040D12;

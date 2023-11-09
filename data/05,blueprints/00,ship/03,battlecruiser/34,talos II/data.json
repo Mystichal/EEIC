@@ -2,42 +2,15 @@
     "name": "Talos II Blueprint",
     "volume": 0.01,
     "products": "Talos II",
-    "tech level": "9",
+    "tech level": 9,
     "manufacturing time": "20:00:00",
     "manufacturing cost": 65000000,
-    "material efficiency": 150,
-    "time efficiency": 100,
     "pi requirements": {
-        "lustering alloy": 0,
         "sheen compound": 75405,
-        "gleaming alloy": 0,
-        "condensed alloy": 0,
         "precious alloy": 62537,
-        "motley compound": 0,
-        "fiber composite": 0,
-        "lucent compound": 0,
-        "opulent compound": 0,
         "glossy compound": 70439,
-        "crystal compound": 0,
-        "dark compound": 0,
-        "reactive gas": 0,
-        "noble gas": 0,
-        "base metals": 0,
         "heavy mentals": 75405,
-        "noble metals": 0,
-        "reactive metals": 19844,
-        "toxic metals": 0,
-        "industrial fibers": 0,
-        "super tensile plastics": 0,
-        "polyaramids": 0,
-        "coolant": 0,
-        "condensates": 0,
-        "construction blocks": 0,
-        "nanites": 0,
-        "silicate glass": 0,
-        "smartfab units": 0,
-        "precious metals": 0,
-        "non-cs crystals": 0
+        "reactive metals": 19844
     },
     "ore requirements": {
         "tritanium": 21925860,
@@ -46,10 +19,6 @@
         "isogen": 318203,
         "noxium": 77703,
         "zydrine": 30605,
-        "megacyte": 12567,
-        "morphite": 0,
-        "compressed tritanium": 0
-    },
-    "obtainable": [],
-    "description": ""
+        "megacyte": 12567
+    }
 }

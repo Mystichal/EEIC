@@ -2,42 +2,15 @@
     "name": "Purifier II Blueprint",
     "volume": 0.01,
     "products": "Purifier II",
-    "tech level": "9",
+    "tech level": 9,
     "manufacturing time": "06:40:00",
     "manufacturing cost": 15000000,
-    "material efficiency": 150,
-    "time efficiency": 100,
     "pi requirements": {
-        "lustering alloy": 0,
         "sheen compound": 16845,
-        "gleaming alloy": 0,
-        "condensed alloy": 0,
         "precious alloy": 13970,
-        "motley compound": 0,
         "fiber composite": 17828,
-        "lucent compound": 0,
-        "opulent compound": 0,
-        "glossy compound": 0,
-        "crystal compound": 0,
-        "dark compound": 0,
-        "reactive gas": 0,
-        "noble gas": 0,
-        "base metals": 0,
         "heavy mentals": 16845,
-        "noble metals": 0,
-        "reactive metals": 4434,
-        "toxic metals": 0,
-        "industrial fibers": 0,
-        "super tensile plastics": 0,
-        "polyaramids": 0,
-        "coolant": 0,
-        "condensates": 0,
-        "construction blocks": 0,
-        "nanites": 0,
-        "silicate glass": 0,
-        "smartfab units": 0,
-        "precious metals": 0,
-        "non-cs crystals": 0
+        "reactive metals": 4434
     },
     "ore requirements": {
         "tritanium": 4400255,
@@ -46,10 +19,6 @@
         "isogen": 69959,
         "noxium": 16230,
         "zydrine": 6473,
-        "megacyte": 3851,
-        "morphite": 0,
-        "compressed tritanium": 0
-    },
-    "obtainable": [],
-    "description": ""
+        "megacyte": 3851
+    }
 }
