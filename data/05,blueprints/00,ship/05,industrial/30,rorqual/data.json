@@ -5,7 +5,7 @@
 	"tech level": 10,
 	"manufacturing time": "2460:00:00",
 	"manufacturing cost": 3500000000,
-	"components requirements": {
+	"component requirements": {
 		"capital ship maintenance bay": 20,
 		"capital capacitor battery": 8,
 		"capital power generator": 8,
