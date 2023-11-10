@@ -1,0 +1,24 @@
+{
+    "name": "Structure Hangar Array Blueprint",
+    "volume": 0.01,
+    "products": "Structure Hangar Array",
+    "tech level": 6,
+    "manufacturing time": "00:00:00",
+    "manufacturing cost": 20000000,
+    "pi requirements": {
+        "reactive gas": 38897,
+        "polyaramids": 25181,
+        "coolant": 22599,
+        "construction blocks": 26762,
+        "silicate glass": 17109
+    },
+    "ore requirements": {
+        "tritanium": 5077048,
+        "pyrite": 1332086,
+        "mexallon": 381672,
+        "isogen": 84809,
+        "noxium": 17454,
+        "zydrine": 6996,
+        "megacyte": 4184
+    }
+}

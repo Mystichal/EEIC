@@ -1,0 +1,24 @@
+{
+    "name": "Structure Storage Bay Blueprint",
+    "volume": 0.01,
+    "products": "Structure Storage Bay",
+    "tech level": 6,
+    "manufacturing time": "00:00:00",
+    "manufacturing cost": 20000000,
+    "pi requirements": {
+        "noble gas": 27800,
+        "super tensile plastics": 22541,
+        "coolant": 25818,
+        "nanites": 9794,
+        "smartfab units": 21996
+    },
+    "ore requirements": {
+        "tritanium": 4705919,
+        "pyrite": 1432432,
+        "mexallon": 380368,
+        "isogen": 75218,
+        "noxium": 23382,
+        "zydrine": 7919,
+        "megacyte": 3115
+    }
+}

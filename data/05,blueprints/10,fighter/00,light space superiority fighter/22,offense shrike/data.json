@@ -1,0 +1,23 @@
+{
+    "name": "MK7 Large Shield Field Module Blueprint",
+    "volume": 0.01,
+    "products": "MK7 Large Shield Field Module",
+    "tech level": 7,
+    "manufacturing time": "00:35:00",
+    "manufacturing cost": 9500000,
+    "pi requirements": {
+        "sheen compound": 14246,
+        "motley compound": 12620,
+        "fiber composite": 12548,
+        "heavy mentals": 10937,
+        "noble metals": 14591
+    },
+    "ore requirements": {
+        "tritanium": 711635,
+        "pyrite": 180939,
+        "mexallon": 65897,
+        "isogen": 8853,
+        "noxium": 2936,
+        "zydrine": 852
+    }
+}

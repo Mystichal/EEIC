@@ -1,0 +1,24 @@
+{
+    "name": "Structure Office Center Blueprint",
+    "volume": 0.01,
+    "products": "Structure Office Center",
+    "tech level": 6,
+    "manufacturing time": "00:00:00",
+    "manufacturing cost": 20000000,
+    "pi requirements": {
+        "reactive gas": 37767,
+        "industrial fibers": 7491,
+        "condensates": 23640,
+        "nanites": 10065,
+        "smartfab units": 26702
+    },
+    "ore requirements": {
+        "tritanium": 5255190,
+        "pyrite": 1081223,
+        "mexallon": 433026,
+        "isogen": 76275,
+        "noxium": 17891,
+        "zydrine": 7457,
+        "megacyte": 4464
+    }
+}

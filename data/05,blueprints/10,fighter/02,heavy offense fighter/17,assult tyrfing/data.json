@@ -1,0 +1,23 @@
+{
+    "name": "MK7 Small Shield Field Module Blueprint",
+    "volume": 0.01,
+    "products": "MK7 Small Shield Field Module",
+    "tech level": 7,
+    "manufacturing time": "00:35:00",
+    "manufacturing cost": 2000000,
+    "pi requirements": {
+        "precious alloy": 1940,
+        "dark compound": 2606,
+        "base metals": 818,
+        "reactive metals": 777,
+        "toxic metals": 675
+    },
+    "ore requirements": {
+        "tritanium": 159915,
+        "pyrite": 35436,
+        "mexallon": 12237,
+        "isogen": 2144,
+        "noxium": 642,
+        "zydrine": 162
+    }
+}

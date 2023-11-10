@@ -1,0 +1,24 @@
+{
+    "name": "Structure Factory Blueprint",
+    "volume": 0.01,
+    "products": "Structure Factory",
+    "tech level": 6,
+    "manufacturing time": "00:00:00",
+    "manufacturing cost": 20000000,
+    "pi requirements": {
+        "reactive gas": 33443,
+        "industrial fibers": 10078,
+        "coolant": 24566,
+        "construction blocks": 30278,
+        "nanites": 9165
+    },
+    "ore requirements": {
+        "tritanium": 5611473,
+        "pyrite": 1212926,
+        "mexallon": 428675,
+        "isogen": 68573,
+        "noxium": 21801,
+        "zydrine": 6255,
+        "megacyte": 4131
+    }
+}

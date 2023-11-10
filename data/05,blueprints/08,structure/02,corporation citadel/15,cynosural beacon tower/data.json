@@ -1,0 +1,22 @@
+{
+    "name": "MK5 Hobgoblin Blueprint",
+    "volume": 0.01,
+    "products": "MK5 Hobgoblin",
+    "tech level": 5,
+    "manufacturing time": "00:25:00",
+    "manufacturing cost": 850000,
+    "pi requirements": {
+        "gleaming alloy": 1428,
+        "lucent compound": 1722,
+        "crystal compound": 1788,
+        "noble metals": 1779,
+        "toxic metals": 353
+    },
+    "ore requirements": {
+        "tritanium": 65316,
+        "pyrite": 15614,
+        "mexallon": 4200,
+        "isogen": 851,
+        "noxium": 275
+    }
+}

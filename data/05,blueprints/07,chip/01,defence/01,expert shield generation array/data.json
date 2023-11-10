@@ -1,0 +1,22 @@
+{
+    "name": "MK5 Acolyte Blueprint",
+    "volume": 0.01,
+    "products": "MK5 Acolyte",
+    "tech level": 5,
+    "manufacturing time": "00:25:00",
+    "manufacturing cost": 850000,
+    "pi requirements": {
+        "lustering alloy": 1748,
+        "motley compound": 1631,
+        "crystal compound": 1427,
+        "base metals": 381,
+        "reactive metals": 435
+    },
+    "ore requirements": {
+        "tritanium": 68979,
+        "pyrite": 13320,
+        "mexallon": 4580,
+        "isogen": 887,
+        "noxium": 269
+    }
+}

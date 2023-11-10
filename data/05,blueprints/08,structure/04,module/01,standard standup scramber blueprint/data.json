@@ -1,0 +1,24 @@
+{
+    "name": "Standard Standup Warp Disruptor Blueprint",
+    "volume": 0.01,
+    "products": "Standard Standup Warp Disruptor",
+    "tech level": 6,
+    "manufacturing time": "06:00:00",
+    "manufacturing cost": 15000000,
+    "pi requirements": {
+        "noble gas": 86798,
+        "polyaramids": 71210,
+        "coolant": 75084,
+        "silicate glass": 52325,
+        "smartfab units": 74172
+    },
+    "ore requirements": {
+        "tritanium": 2186979,
+        "pyrite": 463352,
+        "mexallon": 140396,
+        "isogen": 26748,
+        "noxium": 8360,
+        "zydrine": 2729,
+        "megacyte": 1121
+    }
+}

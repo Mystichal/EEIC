@@ -1,0 +1,24 @@
+{
+    "name": "Standard Standup Energy Neutralizer Blueprint",
+    "volume": 0.01,
+    "products": "Standard Standup Energy Neutralizer",
+    "tech level": 6,
+    "manufacturing time": "06:00:00",
+    "manufacturing cost": 15000000,
+    "pi requirements": {
+        "reactive gas": 116508,
+        "super tensile plastics": 68477,
+        "condensates": 64689,
+        "construction blocks": 70080,
+        "silicate glass": 56775
+    },
+    "ore requirements": {
+        "tritanium": 1928944,
+        "pyrite": 524472,
+        "mexallon": 198080,
+        "isogen": 25590,
+        "noxium": 7343,
+        "zydrine": 2483,
+        "megacyte": 1397
+    }
+}

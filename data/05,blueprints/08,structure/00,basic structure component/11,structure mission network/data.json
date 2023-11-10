@@ -1,0 +1,24 @@
+{
+    "name": "Structure Mission Network Blueprint",
+    "volume": 0.01,
+    "products": "Structure Mission Network",
+    "tech level": 6,
+    "manufacturing time": "00:00:00",
+    "manufacturing cost": 20000000,
+    "pi requirements": {
+        "reactive gas": 35375,
+        "polyaramids": 21287,
+        "coolant": 27639,
+        "silicate glass": 15453,
+        "smartfab units": 23697
+    },
+    "ore requirements": {
+        "tritanium": 4879112,
+        "pyrite": 1387275,
+        "mexallon": 385154,
+        "isogen": 74160,
+        "noxium": 20511,
+        "zydrine": 7538,
+        "megacyte": 3840
+    }
+}
