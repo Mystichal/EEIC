@@ -1,0 +1,12 @@
+{
+    "name": "Hyperspatial Velocity Optimizer I Blueprint",
+    "volume": 0.01,
+    "products": "Hyperspatial Velocity Optimizer I",
+    "tech level": 4,
+    "manufacturing time": "00:30:00",
+    "manufacturing cost": 15000,
+    "salvage part requirements": {
+        "charred micro circuit": 143,
+        "contaminated nanite polymer": 26
+    }
+}

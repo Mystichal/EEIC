@@ -1,0 +1,23 @@
+{
+    "name": "MK7 Ogre Blueprint",
+    "volume": 0.01,
+    "products": "MK7 Ogre",
+    "tech level": 7,
+    "manufacturing time": "00:35:00",
+    "manufacturing cost": 5000000,
+    "pi requirements": {
+        "lustering alloy": 7202,
+        "motley compound": 7437,
+        "crystal compound": 8454,
+        "base metals": 2342,
+        "reactive metals": 1989
+    },
+    "ore requirements": {
+        "tritanium": 302198,
+        "pyrite": 78050,
+        "mexallon": 28073,
+        "isogen": 3851,
+        "noxium": 1106,
+        "zydrine": 471
+    }
+}

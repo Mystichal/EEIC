@@ -1,0 +1,12 @@
+{
+    "name": "Anti-Kinetic Pump I Blueprint",
+    "volume": 0.01,
+    "products": "Anti-Kinetic Pump I",
+    "tech level": 4,
+    "manufacturing time": "00:30:00",
+    "manufacturing cost": 10000,
+    "salvage part requirements": {
+        "smashed trigger unit": 47,
+        "contaminated lorentz fluid": 15
+    }
+}

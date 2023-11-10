@@ -1,0 +1,24 @@
+{
+    "name": "MK9 Wasp Blueprint",
+    "volume": 0.01,
+    "products": "MK9 Wasp",
+    "tech level": 9,
+    "manufacturing time": "01:00:00",
+    "manufacturing cost": 8000000,
+    "pi requirements": {
+        "precious alloy": 11028,
+        "lucent compound": 10828,
+        "glossy compound": 11653,
+        "dark compound": 13994,
+        "toxic metals": 3323
+    },
+    "ore requirements": {
+        "tritanium": 545282,
+        "pyrite": 111902,
+        "mexallon": 36081,
+        "isogen": 7362,
+        "noxium": 1760,
+        "zydrine": 767,
+        "megacyte": 320
+    }
+}

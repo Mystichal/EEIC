@@ -1,0 +1,12 @@
+{
+    "name": "Core Defense Charge Economizer I Blueprint",
+    "volume": 0.01,
+    "products": "Core Defense Charge Economizer I",
+    "tech level": 4,
+    "manufacturing time": "00:30:00",
+    "manufacturing cost": 10000,
+    "salvage part requirements": {
+        "charred micro circuit": 93,
+        "defective current pump": 30
+    }
+}

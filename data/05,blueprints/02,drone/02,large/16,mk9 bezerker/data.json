@@ -1,0 +1,24 @@
+{
+    "name": "MK9 Berserker Blueprint",
+    "volume": 0.01,
+    "products": "MK9 Berserker",
+    "tech level": 9,
+    "manufacturing time": "01:00:00",
+    "manufacturing cost": 8000000,
+    "pi requirements": {
+        "sheen compound": 15007,
+        "fiber composite": 14676,
+        "dark compound": 10511,
+        "heavy mentals": 12537,
+        "toxic metals": 2975
+    },
+    "ore requirements": {
+        "tritanium": 463968,
+        "pyrite": 101465,
+        "mexallon": 43614,
+        "isogen": 6101,
+        "noxium": 2267,
+        "zydrine": 818,
+        "megacyte": 291
+    }
+}

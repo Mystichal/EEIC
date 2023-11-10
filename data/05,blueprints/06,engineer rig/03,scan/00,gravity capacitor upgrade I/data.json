@@ -1,0 +1,12 @@
+{
+    "name": "Gravity Capacitor Upgrade I Blueprint",
+    "volume": 0.01,
+    "products": "Gravity Capacitor Upgrade I",
+    "tech level": 4,
+    "manufacturing time": "00:30:00",
+    "manufacturing cost": 6500,
+    "salvage part requirements": {
+        "charred micro circuit": 68,
+        "contaminated nanite polymer": 12
+    }
+}

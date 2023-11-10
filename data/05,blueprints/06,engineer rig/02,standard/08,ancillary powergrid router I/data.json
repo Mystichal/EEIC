@@ -1,0 +1,12 @@
+{
+    "name": "Ancillary Powergrid Router I Blueprint",
+    "volume": 0.01,
+    "products": "Ancillary Powergrid Router I",
+    "tech level": 4,
+    "manufacturing time": "00:30:00",
+    "manufacturing cost": 8000,
+    "salvage part requirements": {
+        "smashed trigger unit": 30,
+        "conductive polymer": 85
+    }
+}

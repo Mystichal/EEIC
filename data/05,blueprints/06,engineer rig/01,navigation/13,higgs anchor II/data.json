@@ -1,0 +1,12 @@
+{
+    "name": "Higgs Anchor II Blueprint",
+    "volume": 0.01,
+    "products": "Higgs Anchor II",
+    "tech level": 6,
+    "manufacturing time": "02:30:00",
+    "manufacturing cost": 55000,
+    "salvage part requirements": {
+        "fried interface circuit": 206,
+        "contaminated nanite polymer": 111
+    }
+}

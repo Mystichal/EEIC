@@ -1,0 +1,23 @@
+{
+    "name": "MK7 Bouncer Blueprint",
+    "volume": 0.01,
+    "products": "MK7 Bouncer",
+    "tech level": 7,
+    "manufacturing time": "00:35:00",
+    "manufacturing cost": 6000000,
+    "pi requirements": {
+        "lustering alloy": 9470,
+        "motley compound": 9201,
+        "dark compound": 10303,
+        "base metals": 2492,
+        "noble metals": 11595
+    },
+    "ore requirements": {
+        "tritanium": 387228,
+        "pyrite": 90656,
+        "mexallon": 32729,
+        "isogen": 5592,
+        "noxium": 1443,
+        "zydrine": 560
+    }
+}

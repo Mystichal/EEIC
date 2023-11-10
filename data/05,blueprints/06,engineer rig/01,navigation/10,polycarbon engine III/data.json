@@ -1,0 +1,12 @@
+{
+    "name": "Polycarbon Engine Housing III Blueprint",
+    "volume": 0.01,
+    "products": "Polycarbon Engine Housing III",
+    "tech level": 8,
+    "manufacturing time": "12:30:00",
+    "manufacturing cost": 150000,
+    "salvage part requirements": {
+        "tripped power circuit": 318,
+        "contaminated nanite polymer": 131
+    }
+}

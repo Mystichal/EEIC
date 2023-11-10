@@ -1,4 +1,4 @@
-<?php $title = 'Home' ?>
+ <?php $title = 'Home' ?>
 <?php require_once __DIR__ . '/../general/header.php'; ?>
 
 <h1>Home</h1>
@@ -42,9 +42,7 @@
 			36 => 'construction blocks',
 			37 => 'nanites',
 			38 => 'silicate glass',
-			39 => 'smartfab units',
-			40 => 'precious metals',
-			41 => 'non-cs crystals',
+			39 => 'smartfab units'
 		];
 
 		// Mapping for the ore requirements
@@ -56,8 +54,20 @@
 			8 => 'noxium',
 			9 => 'zydrine',
 			10 => 'megacyte',
-			11 => 'morphite',
-			42=> 'compressed tritanium',
+			11 => 'morphite'
+		];
+
+		$salvageRequirementsMapping = [
+			40 => 'charred micro circuit',
+			41 => 'fried interface circuit',
+			42 => 'tripped power circuit',
+			43 => 'smashed trigger unit',
+			44 => 'damaged close-in weapon system',
+			45 => 'scorched telemetry processor',
+			46 => 'contaminated lorentz fluid',
+			47 => 'conductive polymer',
+			48 => 'contaminated nanite polymer',
+			49 => 'defective current pump'
 		];
 
 		// Creating the main JSON structure
@@ -65,20 +75,18 @@
 			'name' => $data[1] . ' Blueprint',
 			'volume' => 0.01,
 			'products' => $data[1],
-			'tech level' => $data[3],
+			'tech level' => (int) $data[3],
 			'manufacturing time' =>  gmdate("H:i:s", intval(preg_replace('/[^\d.]/', '', $data[51]))),
 			'manufacturing cost' => intval(preg_replace('/[^\d.]/', '', $data[50])),
-			'material efficiency' => 150,
-			'time efficiency' => 100,
 			'pi requirements' => [],
 			'ore requirements' => [],
-			'obtainable' => [],
-			'description' => '',
+			'salvage part requirements' => []
 		];
 
 		// Populate PI requirements
 		foreach ($piRequirementsMapping as $index => $piName) {
 			$value = $data[$index];
+			if (str_replace(',', '', $value) == 0) {continue;}
 			if (is_string($value)) {
 				$value = str_replace(',', '', $value);
 			}
@@ -88,10 +96,21 @@
 		// Populate ore requirements
 		foreach ($oreRequirementsMapping as $index => $oreName) {
 			$value = $data[$index];
+			if (str_replace(',', '', $value) == 0) {continue;}
 			if (is_string($value)) {
 				$value = str_replace(',', '', $value);
 			}
 			$jsonData['ore requirements'][$oreName] = ceil(((int) $value / 100) * 150);
+		}
+
+		// Populate PI requirements
+		foreach ($salvageRequirementsMapping as $index => $salvageName) {
+			$value = $data[$index];
+			if (str_replace(',', '', $value) == 0) {continue;}
+			if (is_string($value)) {
+				$value = str_replace(',', '', $value);
+			}
+			$jsonData['salvage part requirements'][$salvageName] = ceil(((int) $value / 100) * 150);
 		}
 
 		if ($headerPass) {
@@ -104,6 +123,7 @@
 			echo '<pre>';
 			echo $finalJson;
 			echo '</pre>';
+			echo '</br>';
 		}
 		
 

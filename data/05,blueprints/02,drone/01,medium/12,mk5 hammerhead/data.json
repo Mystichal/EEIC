@@ -1,0 +1,22 @@
+{
+    "name": "MK5 Hammerhead Blueprint",
+    "volume": 0.01,
+    "products": "MK5 Hammerhead",
+    "tech level": 5,
+    "manufacturing time": "00:25:00",
+    "manufacturing cost": 850000,
+    "pi requirements": {
+        "sheen compound": 1674,
+        "fiber composite": 1968,
+        "crystal compound": 1515,
+        "heavy mentals": 1601,
+        "toxic metals": 372
+    },
+    "ore requirements": {
+        "tritanium": 56466,
+        "pyrite": 16872,
+        "mexallon": 4428,
+        "isogen": 927,
+        "noxium": 257
+    }
+}

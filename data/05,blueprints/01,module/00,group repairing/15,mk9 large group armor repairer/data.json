@@ -2,42 +2,15 @@
     "name": "MK9 Large Group Armor Repairer Blueprint",
     "volume": 0.01,
     "products": "MK9 Large Group Armor Repairer",
-    "tech level": "9",
+    "tech level": 9,
     "manufacturing time": "01:00:00",
     "manufacturing cost": 15000000,
-    "material efficiency": 150,
-    "time efficiency": 100,
     "pi requirements": {
-        "lustering alloy": 0,
-        "sheen compound": 0,
         "gleaming alloy": 13436,
-        "condensed alloy": 0,
-        "precious alloy": 0,
-        "motley compound": 0,
-        "fiber composite": 0,
-        "lucent compound": 0,
         "opulent compound": 15338,
-        "glossy compound": 0,
         "crystal compound": 14801,
-        "dark compound": 0,
-        "reactive gas": 0,
-        "noble gas": 0,
-        "base metals": 0,
-        "heavy mentals": 0,
         "noble metals": 15452,
-        "reactive metals": 4554,
-        "toxic metals": 0,
-        "industrial fibers": 0,
-        "super tensile plastics": 0,
-        "polyaramids": 0,
-        "coolant": 0,
-        "condensates": 0,
-        "construction blocks": 0,
-        "nanites": 0,
-        "silicate glass": 0,
-        "smartfab units": 0,
-        "precious metals": 0,
-        "non-cs crystals": 0
+        "reactive metals": 4554
     },
     "ore requirements": {
         "tritanium": 706667,
@@ -46,10 +19,6 @@
         "isogen": 14729,
         "noxium": 3021,
         "zydrine": 1037,
-        "megacyte": 702,
-        "morphite": 0,
-        "compressed tritanium": 0
-    },
-    "obtainable": [],
-    "description": ""
+        "megacyte": 702
+    }
 }

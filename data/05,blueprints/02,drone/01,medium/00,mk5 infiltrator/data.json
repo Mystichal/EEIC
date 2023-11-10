@@ -1,0 +1,22 @@
+{
+    "name": "MK5 Infiltrator Blueprint",
+    "volume": 0.01,
+    "products": "MK5 Infiltrator",
+    "tech level": 5,
+    "manufacturing time": "00:25:00",
+    "manufacturing cost": 850000,
+    "pi requirements": {
+        "precious alloy": 1475,
+        "lucent compound": 1391,
+        "glossy compound": 1685,
+        "crystal compound": 1467,
+        "toxic metals": 426
+    },
+    "ore requirements": {
+        "tritanium": 56771,
+        "pyrite": 14504,
+        "mexallon": 4733,
+        "isogen": 1029,
+        "noxium": 252
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Anti-EM Transverse Bulkhead III Blueprint",
+    "volume": 0.01,
+    "products": "Anti-EM Transverse Bulkhead III",
+    "tech level": 8,
+    "manufacturing time": "12:30:00",
+    "manufacturing cost": 200000,
+    "salvage part requirements": {
+        "tripped power circuit": 402,
+        "contaminated lorentz fluid": 140
+    }
+}

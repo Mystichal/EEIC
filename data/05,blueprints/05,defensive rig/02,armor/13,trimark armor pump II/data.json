@@ -1,0 +1,12 @@
+{
+    "name": "Trimark Armor Pump II Blueprint",
+    "volume": 0.01,
+    "products": "Trimark Armor Pump II",
+    "tech level": 6,
+    "manufacturing time": "02:30:00",
+    "manufacturing cost": 45000,
+    "salvage part requirements": {
+        "damaged close-in weapon system": 120,
+        "contaminated lorentz fluid": 41
+    }
+}

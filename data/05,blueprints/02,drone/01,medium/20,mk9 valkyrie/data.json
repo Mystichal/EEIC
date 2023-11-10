@@ -1,0 +1,24 @@
+{
+    "name": "MK9 Valkyrie Blueprint",
+    "volume": 0.01,
+    "products": "MK9 Valkyrie",
+    "tech level": 9,
+    "manufacturing time": "01:00:00",
+    "manufacturing cost": 3500000,
+    "pi requirements": {
+        "gleaming alloy": 4979,
+        "motley compound": 5718,
+        "lucent compound": 5040,
+        "dark compound": 4881,
+        "noble metals": 5306
+    },
+    "ore requirements": {
+        "tritanium": 226222,
+        "pyrite": 50978,
+        "mexallon": 14622,
+        "isogen": 2849,
+        "noxium": 881,
+        "zydrine": 287,
+        "megacyte": 126
+    }
+}

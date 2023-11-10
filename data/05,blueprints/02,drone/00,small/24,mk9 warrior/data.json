@@ -1,0 +1,24 @@
+{
+    "name": "MK9 Warrior Blueprint",
+    "volume": 0.01,
+    "products": "MK9 Warrior",
+    "tech level": 9,
+    "manufacturing time": "01:00:00",
+    "manufacturing cost": 3500000,
+    "pi requirements": {
+        "sheen compound": 5726,
+        "condensed alloy": 4692,
+        "opulent compound": 6144,
+        "dark compound": 5304,
+        "reactive metals": 1347
+    },
+    "ore requirements": {
+        "tritanium": 177389,
+        "pyrite": 56777,
+        "mexallon": 17100,
+        "isogen": 2469,
+        "noxium": 827,
+        "zydrine": 348,
+        "megacyte": 120
+    }
+}

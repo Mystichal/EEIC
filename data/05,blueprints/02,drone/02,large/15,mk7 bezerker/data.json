@@ -1,0 +1,23 @@
+{
+    "name": "MK7 Berserker Blueprint",
+    "volume": 0.01,
+    "products": "MK7 Berserker",
+    "tech level": 7,
+    "manufacturing time": "00:35:00",
+    "manufacturing cost": 5000000,
+    "pi requirements": {
+        "sheen compound": 7680,
+        "fiber composite": 7788,
+        "dark compound": 8082,
+        "heavy mentals": 9047,
+        "toxic metals": 2099
+    },
+    "ore requirements": {
+        "tritanium": 276383,
+        "pyrite": 72527,
+        "mexallon": 26310,
+        "isogen": 4386,
+        "noxium": 1452,
+        "zydrine": 398
+    }
+}

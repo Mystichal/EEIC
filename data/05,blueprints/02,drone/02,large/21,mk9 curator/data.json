@@ -1,0 +1,24 @@
+{
+    "name": "MK9 Curator Blueprint",
+    "volume": 0.01,
+    "products": "MK9 Curator",
+    "tech level": 9,
+    "manufacturing time": "01:00:00",
+    "manufacturing cost": 10000000,
+    "pi requirements": {
+        "lustering alloy": 12488,
+        "gleaming alloy": 13308,
+        "lucent compound": 18125,
+        "crystal compound": 19232,
+        "noble metals": 14744
+    },
+    "ore requirements": {
+        "tritanium": 651704,
+        "pyrite": 160893,
+        "mexallon": 42872,
+        "isogen": 10122,
+        "noxium": 2786,
+        "zydrine": 720,
+        "megacyte": 348
+    }
+}

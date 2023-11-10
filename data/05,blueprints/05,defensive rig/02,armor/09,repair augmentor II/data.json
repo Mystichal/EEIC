@@ -1,0 +1,12 @@
+{
+    "name": "Repair Augmentor II Blueprint",
+    "volume": 0.01,
+    "products": "Repair Augmentor II",
+    "tech level": 6,
+    "manufacturing time": "02:30:00",
+    "manufacturing cost": 30000,
+    "salvage part requirements": {
+        "damaged close-in weapon system": 71,
+        "contaminated lorentz fluid": 30
+    }
+}

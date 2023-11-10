@@ -1,0 +1,24 @@
+{
+    "name": "MK9 Guard Blueprint",
+    "volume": 0.01,
+    "products": "MK9 Guard",
+    "tech level": 9,
+    "manufacturing time": "01:00:00",
+    "manufacturing cost": 10000000,
+    "pi requirements": {
+        "sheen compound": 17253,
+        "precious alloy": 9912,
+        "glossy compound": 15230,
+        "crystal compound": 16406,
+        "toxic metals": 4463
+    },
+    "ore requirements": {
+        "tritanium": 523157,
+        "pyrite": 131904,
+        "mexallon": 45597,
+        "isogen": 10122,
+        "noxium": 2834,
+        "zydrine": 980,
+        "megacyte": 365
+    }
+}

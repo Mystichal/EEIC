@@ -1,0 +1,12 @@
+{
+    "name": "Repair Augmentor I Blueprint",
+    "volume": 0.01,
+    "products": "Repair Augmentor I",
+    "tech level": 4,
+    "manufacturing time": "00:30:00",
+    "manufacturing cost": 9000,
+    "salvage part requirements": {
+        "smashed trigger unit": 44,
+        "contaminated lorentz fluid": 12
+    }
+}

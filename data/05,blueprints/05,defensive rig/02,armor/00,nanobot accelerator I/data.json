@@ -1,0 +1,12 @@
+{
+    "name": "Nanobot Accelerator I Blueprint",
+    "volume": 0.01,
+    "products": "Nanobot Accelerator I",
+    "tech level": 4,
+    "manufacturing time": "00:30:00",
+    "manufacturing cost": 7000,
+    "salvage part requirements": {
+        "smashed trigger unit": 24,
+        "contaminated lorentz fluid": 12
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "name": "MK7 Vespa Blueprint",
+    "volume": 0.01,
+    "products": "MK7 Vespa",
+    "tech level": 7,
+    "manufacturing time": "00:35:00",
+    "manufacturing cost": 2000000,
+    "pi requirements": {
+        "lustering alloy": 3375,
+        "motley compound": 3194,
+        "glossy compound": 2834,
+        "dark compound": 3603,
+        "base metals": 855
+    },
+    "ore requirements": {
+        "tritanium": 127187,
+        "pyrite": 34364,
+        "mexallon": 8760,
+        "isogen": 1976,
+        "noxium": 539,
+        "zydrine": 171
+    }
+}

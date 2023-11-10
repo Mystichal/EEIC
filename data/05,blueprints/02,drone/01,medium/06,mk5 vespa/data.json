@@ -1,0 +1,22 @@
+{
+    "name": "MK5 Vespa Blueprint",
+    "volume": 0.01,
+    "products": "MK5 Vespa",
+    "tech level": 5,
+    "manufacturing time": "00:25:00",
+    "manufacturing cost": 850000,
+    "pi requirements": {
+        "lustering alloy": 1665,
+        "motley compound": 1631,
+        "glossy compound": 1292,
+        "dark compound": 1472,
+        "base metals": 471
+    },
+    "ore requirements": {
+        "tritanium": 50972,
+        "pyrite": 17168,
+        "mexallon": 4656,
+        "isogen": 936,
+        "noxium": 260
+    }
+}

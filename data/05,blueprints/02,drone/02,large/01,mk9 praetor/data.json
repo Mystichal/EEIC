@@ -1,0 +1,24 @@
+{
+    "name": "MK9 Praetor Blueprint",
+    "volume": 0.01,
+    "products": "MK9 Praetor",
+    "tech level": 9,
+    "manufacturing time": "01:00:00",
+    "manufacturing cost": 8000000,
+    "pi requirements": {
+        "sheen compound": 14564,
+        "condensed alloy": 15146,
+        "opulent compound": 10857,
+        "crystal compound": 13626,
+        "reactive metals": 2750
+    },
+    "ore requirements": {
+        "tritanium": 471143,
+        "pyrite": 113061,
+        "mexallon": 39254,
+        "isogen": 7116,
+        "noxium": 1935,
+        "zydrine": 836,
+        "megacyte": 288
+    }
+}

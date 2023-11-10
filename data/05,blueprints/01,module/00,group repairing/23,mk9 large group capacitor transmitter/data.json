@@ -2,42 +2,15 @@
     "name": "MK9 Large Group Capacitor Transmitter Blueprint",
     "volume": 0.01,
     "products": "MK9 Large Group Capacitor Transmitter",
-    "tech level": "9",
+    "tech level": 9,
     "manufacturing time": "01:00:00",
     "manufacturing cost": 15000000,
-    "material efficiency": 150,
-    "time efficiency": 100,
     "pi requirements": {
-        "lustering alloy": 0,
-        "sheen compound": 0,
-        "gleaming alloy": 0,
         "condensed alloy": 17513,
-        "precious alloy": 0,
-        "motley compound": 0,
-        "fiber composite": 0,
         "lucent compound": 15897,
-        "opulent compound": 0,
-        "glossy compound": 0,
         "crystal compound": 15123,
-        "dark compound": 0,
-        "reactive gas": 0,
-        "noble gas": 0,
         "base metals": 3675,
-        "heavy mentals": 0,
-        "noble metals": 15682,
-        "reactive metals": 0,
-        "toxic metals": 0,
-        "industrial fibers": 0,
-        "super tensile plastics": 0,
-        "polyaramids": 0,
-        "coolant": 0,
-        "condensates": 0,
-        "construction blocks": 0,
-        "nanites": 0,
-        "silicate glass": 0,
-        "smartfab units": 0,
-        "precious metals": 0,
-        "non-cs crystals": 0
+        "noble metals": 15682
     },
     "ore requirements": {
         "tritanium": 772023,
@@ -46,10 +19,6 @@
         "isogen": 13950,
         "noxium": 3589,
         "zydrine": 1131,
-        "megacyte": 495,
-        "morphite": 0,
-        "compressed tritanium": 0
-    },
-    "obtainable": [],
-    "description": ""
+        "megacyte": 495
+    }
 }

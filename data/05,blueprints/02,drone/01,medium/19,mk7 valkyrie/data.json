@@ -1,0 +1,23 @@
+{
+    "name": "MK7 Valkyrie Blueprint",
+    "volume": 0.01,
+    "products": "MK7 Valkyrie",
+    "tech level": 7,
+    "manufacturing time": "00:35:00",
+    "manufacturing cost": 2000000,
+    "pi requirements": {
+        "gleaming alloy": 2975,
+        "motley compound": 2990,
+        "lucent compound": 3686,
+        "dark compound": 3318,
+        "noble metals": 3565
+    },
+    "ore requirements": {
+        "tritanium": 130350,
+        "pyrite": 35744,
+        "mexallon": 9180,
+        "isogen": 1578,
+        "noxium": 503,
+        "zydrine": 205
+    }
+}

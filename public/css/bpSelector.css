@@ -18,6 +18,12 @@ option, select, input, button {
 	font-weight: bold;
 }
 
+pre {
+    -moz-tab-size:    4;
+    -o-tab-size:      4;
+    tab-size:         4;
+}
+
 .nav-wrapper {
 	border: .1rem solid darkcyan;
 }

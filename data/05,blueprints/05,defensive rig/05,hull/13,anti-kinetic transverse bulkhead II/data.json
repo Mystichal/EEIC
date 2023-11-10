@@ -1,0 +1,12 @@
+{
+    "name": "Anti-Kinetic Transverse Bulkhead II Blueprint",
+    "volume": 0.01,
+    "products": "Anti-Kinetic Transverse Bulkhead II",
+    "tech level": 6,
+    "manufacturing time": "02:30:00",
+    "manufacturing cost": 50000,
+    "salvage part requirements": {
+        "fried interface circuit": 215,
+        "contaminated lorentz fluid": 57
+    }
+}

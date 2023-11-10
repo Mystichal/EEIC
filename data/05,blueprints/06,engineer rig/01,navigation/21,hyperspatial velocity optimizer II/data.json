@@ -1,0 +1,12 @@
+{
+    "name": "Hyperspatial Velocity Optimizer II Blueprint",
+    "volume": 0.01,
+    "products": "Hyperspatial Velocity Optimizer II",
+    "tech level": 6,
+    "manufacturing time": "02:30:00",
+    "manufacturing cost": 45000,
+    "salvage part requirements": {
+        "fried interface circuit": 237,
+        "contaminated nanite polymer": 62
+    }
+}
