@@ -3,6 +3,7 @@ const blueprint = JSON.parse(
 		"name": "",
 		"volume": 0,
 		"products": "",
+		"production amount": 1,
 		"tech level": 0,
 		"manufacturing time": "",
 		"manufacturing cost": 0,
@@ -123,6 +124,25 @@ const blueprint = JSON.parse(
 			"capital conductive polymer": 0,
 			"capital contaminated nanite compound": 0,
 			"capital defective current pump": 0
+		},
+		"modified device part requirements": {
+			"sansha device construction unit": 0,
+			"guristas device construction unit": 0,
+			"serpentis device construction unit": 0,
+			"angel device construction unit": 0,
+			"blood raider construction unit": 0,
+			"small device compilation optimization medium": 0,
+			"medium device compilation optimization medium": 0,
+			"large device compilation optimization medium": 0,
+			"x-large device compilation optimization medium": 0,
+			"amarr device construction unit": 0,
+			"caldari device construction unit": 0,
+			"minmatar device construction unit": 0,
+			"gallente device construction unit": 0,
+			"small device improvement device medium": 0,
+			"medium device improvement device medium": 0,
+			"large device improvement device medium": 0,
+			"x-large device improvement device medium": 0
 		},
 		"obtainable": ["industry", "market"],
 		"description": ""

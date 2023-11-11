@@ -1,0 +1,25 @@
+{
+	"name": "'Seal' Industrial Enhanced Module Blueprint",
+	"volume": 0.01,
+	"products": "'Seal' Industrial Enhanced Module",
+	"tech level": 10,
+	"manufacturing time": "192:00:00",
+	"manufacturing cost": 800000000,
+	"ore requirements": {
+		"morphite": 48587
+	},
+	"component requirements": {
+		"structure construction parts": 3,
+		"structure factory": 3,
+		"structure repair facility": 3,
+		"structure reprocessing": 3,
+		"structure office center": 3,
+		"structure mission network": 3,
+		"structure electromagnetic sensor": 3,
+		"structure acceleration coils": 3,
+		"capital power generator": 2,
+		"capital shield emitter": 2,
+		"capital computer system": 2,
+		"capital construction parts": 2
+	}
+}
