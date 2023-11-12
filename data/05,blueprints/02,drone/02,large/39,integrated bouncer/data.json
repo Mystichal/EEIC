@@ -1,24 +1,27 @@
 {
-    "name": "MK9 Large Armor Link Module Blueprint",
+    "name": "Integrated Bouncer Blueprint",
     "volume": 0.01,
-    "products": "MK9 Large Armor Link Module",
-    "tech level": 9,
-    "manufacturing time": "01:00:00",
-    "manufacturing cost": 15000000,
+    "products": "Integrated Bouncer",
+    "tech level": 10,
+    "manufacturing time": "06:00:00",
+    "manufacturing cost": 35000000,
     "pi requirements": {
-        "sheen compound": 17739,
-        "precious alloy": 13089,
-        "glossy compound": 14865,
-        "dark compound": 21261,
-        "heavy mentals": 20609
+        "sheen compound": 252899,
+        "fiber composite": 287249,
+        "dark compound": 245498,
+        "heavy mentals": 218357,
+        "toxic metals": 64073,
+        "precious metals": 30059,
+        "non-cs crystals": 32705
     },
     "ore requirements": {
-        "tritanium": 876966,
-        "pyrite": 263964,
-        "mexallon": 81680,
-        "isogen": 15887,
-        "noxium": 3201,
-        "zydrine": 1436,
-        "megacyte": 782
+        "tritanium": 7502475,
+        "pyrite": 1841432,
+        "mexallon": 784137,
+        "isogen": 150257,
+        "noxium": 43398,
+        "zydrine": 13302,
+        "megacyte": 7626,
+        "morphite": 2240
     }
 }

@@ -1,55 +1,24 @@
 {
-    "name": "Blackbird II Covert Ops Blueprint",
+    "name": "Lightweight Nemesis Blueprint",
     "volume": 0.01,
-    "products": "Blackbird II Covert Ops",
-    "tech level": "9",
-    "manufacturing time": "13:20:00",
-    "manufacturing cost": 45000000,
-    "material efficiency": 150,
-    "time efficiency": 100,
+    "products": "Lightweight Nemesis",
+    "tech level": 10,
+    "manufacturing time": "05:20:00",
+    "manufacturing cost": 10000000,
     "pi requirements": {
-        "lustering alloy": 0,
-        "sheen compound": 0,
-        "gleaming alloy": 50321,
-        "condensed alloy": 0,
-        "precious alloy": 44676,
-        "motley compound": 0,
-        "fiber composite": 0,
-        "lucent compound": 0,
-        "opulent compound": 57014,
-        "glossy compound": 0,
-        "crystal compound": 0,
-        "dark compound": 0,
-        "reactive gas": 0,
-        "noble gas": 0,
-        "base metals": 0,
-        "heavy mentals": 0,
-        "noble metals": 57014,
-        "reactive metals": 14177,
-        "toxic metals": 0,
-        "industrial fibers": 0,
-        "super tensile plastics": 0,
-        "polyaramids": 0,
-        "coolant": 0,
-        "condensates": 0,
-        "construction blocks": 0,
-        "nanites": 0,
-        "silicate glass": 0,
-        "smartfab units": 0,
-        "precious metals": 0,
-        "non-cs crystals": 0
+        "condensed alloy": 47996,
+        "toxic metals": 11837
     },
     "ore requirements": {
-        "tritanium": 12245633,
-        "pyrite": 3502206,
-        "mexallon": 1247435,
-        "isogen": 201990,
-        "noxium": 62726,
-        "zydrine": 18524,
-        "megacyte": 8936,
-        "morphite": 0,
-        "compressed tritanium": 0
+        "noxium": 6998,
+        "zydrine": 2471,
+        "megacyte": 1236,
+        "morphite": 824
     },
-    "obtainable": [],
-    "description": ""
+    "module requirements": {
+        "caldari navy large torpedo launcher": 12
+    },
+    "ship requirements": {
+        "nemesis": 2
+    }
 }

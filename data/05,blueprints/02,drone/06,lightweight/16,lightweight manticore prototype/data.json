@@ -1,22 +1,24 @@
 {
-    "name": "MK5 Small Shield Field Module Blueprint",
+    "name": "Lightweight Manticore Prototype Blueprint",
     "volume": 0.01,
-    "products": "MK5 Small Shield Field Module",
-    "tech level": 5,
-    "manufacturing time": "00:25:00",
-    "manufacturing cost": 950000,
+    "products": "Lightweight Manticore Prototype",
+    "tech level": 10,
+    "manufacturing time": "05:20:00",
+    "manufacturing cost": 7000000,
     "pi requirements": {
-        "precious alloy": 1226,
-        "dark compound": 1500,
-        "base metals": 410,
-        "reactive metals": 359,
-        "toxic metals": 428
+        "condensed alloy": 31998,
+        "base metals": 7892
     },
     "ore requirements": {
-        "tritanium": 70274,
-        "pyrite": 21613,
-        "mexallon": 7124,
-        "isogen": 1119,
-        "noxium": 327
+        "noxium": 4665,
+        "zydrine": 1647,
+        "megacyte": 824,
+        "morphite": 549
+    },
+    "module requirements": {
+        "caldari navy large torpedo launcher": 11
+    },
+    "ship requirements": {
+        "manticore": 2
     }
 }

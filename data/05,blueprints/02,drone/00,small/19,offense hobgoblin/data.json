@@ -1,22 +1,25 @@
 {
-    "name": "MK5 Medium Shield Field Module Blueprint",
+    "name": "Offense Hobgoblin Blueprint",
     "volume": 0.01,
-    "products": "MK5 Medium Shield Field Module",
-    "tech level": 5,
-    "manufacturing time": "00:25:00",
-    "manufacturing cost": 2000000,
+    "products": "Offense Hobgoblin",
+    "tech level": 10,
+    "manufacturing time": "05:00:00",
+    "manufacturing cost": 3000000,
     "pi requirements": {
-        "lustering alloy": 2762,
-        "condensed alloy": 3015,
-        "crystal compound": 2846,
-        "reactive metals": 824,
-        "toxic metals": 800
+        "gleaming alloy": 14931,
+        "lucent compound": 21510,
+        "crystal compound": 20550,
+        "noble metals": 23810,
+        "toxic metals": 4688
     },
     "ore requirements": {
-        "tritanium": 148502,
-        "pyrite": 43009,
-        "mexallon": 14707,
-        "isogen": 2295,
-        "noxium": 585
+        "tritanium": 670835,
+        "pyrite": 200580,
+        "mexallon": 69510,
+        "isogen": 12236,
+        "noxium": 2574,
+        "zydrine": 1092,
+        "megacyte": 476,
+        "morphite": 180
     }
 }

@@ -1,22 +1,25 @@
 {
-    "name": "MK5 Small Armor Link Module Blueprint",
+    "name": "Sniper Guard Blueprint",
     "volume": 0.01,
-    "products": "MK5 Small Armor Link Module",
-    "tech level": 5,
-    "manufacturing time": "00:25:00",
-    "manufacturing cost": 950000,
+    "products": "Sniper Guard",
+    "tech level": 10,
+    "manufacturing time": "04:00:00",
+    "manufacturing cost": 20000000,
     "pi requirements": {
-        "gleaming alloy": 1500,
-        "condensed alloy": 1408,
-        "opulent compound": 1757,
-        "crystal compound": 1635,
-        "reactive metals": 317
+        "lustering alloy": 123393,
+        "motley compound": 161718,
+        "crystal compound": 130403,
+        "base metals": 37233,
+        "reactive metals": 41907
     },
     "ore requirements": {
-        "tritanium": 68265,
-        "pyrite": 21515,
-        "mexallon": 6492,
-        "isogen": 1208,
-        "noxium": 344
+        "tritanium": 6180668,
+        "pyrite": 1244198,
+        "mexallon": 388826,
+        "isogen": 81690,
+        "noxium": 25247,
+        "zydrine": 7559,
+        "megacyte": 4058,
+        "morphite": 1326
     }
 }

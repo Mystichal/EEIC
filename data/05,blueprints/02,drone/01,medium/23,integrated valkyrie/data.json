@@ -1,23 +1,27 @@
 {
-    "name": "MK7 Large Shield Field Module Blueprint",
+    "name": "Integrated Valkyrie Blueprint",
     "volume": 0.01,
-    "products": "MK7 Large Shield Field Module",
-    "tech level": 7,
-    "manufacturing time": "00:35:00",
-    "manufacturing cost": 9500000,
+    "products": "Integrated Valkyrie",
+    "tech level": 10,
+    "manufacturing time": "06:00:00",
+    "manufacturing cost": 7000000,
     "pi requirements": {
-        "sheen compound": 14246,
-        "motley compound": 12620,
-        "fiber composite": 12548,
-        "heavy mentals": 10937,
-        "noble metals": 14591
+        "gleaming alloy": 51398,
+        "motley compound": 36647,
+        "lucent compound": 42932,
+        "dark compound": 51567,
+        "noble metals": 61368,
+        "precious metals": 6012,
+        "non-cs crystals": 6542
     },
     "ore requirements": {
-        "tritanium": 711635,
-        "pyrite": 180939,
-        "mexallon": 65897,
-        "isogen": 8853,
-        "noxium": 2936,
-        "zydrine": 852
+        "tritanium": 2041047,
+        "pyrite": 492555,
+        "mexallon": 161463,
+        "isogen": 24452,
+        "noxium": 8604,
+        "zydrine": 2393,
+        "megacyte": 1149,
+        "morphite": 449
     }
 }

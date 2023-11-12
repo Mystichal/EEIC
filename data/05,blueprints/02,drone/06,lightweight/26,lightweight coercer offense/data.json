@@ -1,24 +1,25 @@
 {
-    "name": "MK9 Small Armor Link Module Blueprint",
+    "name": "Lightweight Coercer Offense Blueprint",
     "volume": 0.01,
-    "products": "MK9 Small Armor Link Module",
-    "tech level": 9,
-    "manufacturing time": "01:00:00",
-    "manufacturing cost": 3000000,
+    "products": "Lightweight Coercer Offense",
+    "tech level": 10,
+    "manufacturing time": "12:00:00",
+    "manufacturing cost": 20000000,
     "pi requirements": {
-        "gleaming alloy": 3936,
-        "condensed alloy": 3281,
-        "opulent compound": 4460,
-        "crystal compound": 3236,
-        "reactive metals": 1116
+        "gleaming alloy": 44928,
+        "reactive metals": 12657
     },
     "ore requirements": {
-        "tritanium": 200204,
-        "pyrite": 54012,
-        "mexallon": 15915,
-        "isogen": 2844,
-        "noxium": 1053,
-        "zydrine": 281,
-        "megacyte": 128
+        "noxium": 14843,
+        "zydrine": 5240,
+        "megacyte": 2621,
+        "morphite": 875
+    },
+    "module requirements": {
+        "caldari navy small beam laser": 15,
+        "federation navy stasis webifier": 2
+    },
+    "ship requirements": {
+        "coercer interdictor": 2
     }
 }

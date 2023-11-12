@@ -1,23 +1,24 @@
 {
-    "name": "MK7 Medium Shield Field Module Blueprint",
+    "name": "Lightweight Corax Blueprint",
     "volume": 0.01,
-    "products": "MK7 Medium Shield Field Module",
-    "tech level": 7,
-    "manufacturing time": "00:35:00",
-    "manufacturing cost": 4000000,
+    "products": "Lightweight Corax",
+    "tech level": 10,
+    "manufacturing time": "12:00:00",
+    "manufacturing cost": 15000000,
     "pi requirements": {
-        "lustering alloy": 5297,
-        "condensed alloy": 6041,
-        "crystal compound": 5280,
-        "reactive metals": 1392,
-        "toxic metals": 1250
+        "sheen compound": 33668,
+        "reactive metals": 33668
     },
     "ore requirements": {
-        "tritanium": 263280,
-        "pyrite": 68037,
-        "mexallon": 24104,
-        "isogen": 4665,
-        "noxium": 1200,
-        "zydrine": 419
+        "noxium": 10389,
+        "zydrine": 3668,
+        "megacyte": 1835,
+        "morphite": 612
+    },
+    "module requirements": {
+        "caldari navy small missile launcher": 12
+    },
+    "ship requirements": {
+        "corax": 2
     }
 }

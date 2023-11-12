@@ -1,22 +1,27 @@
 {
-    "name": "MK5 Small Armor Link Module Blueprint",
+    "name": "Integrated Curator Blueprint",
     "volume": 0.01,
-    "products": "MK5 Small Armor Link Module",
-    "tech level": 5,
-    "manufacturing time": "00:25:00",
-    "manufacturing cost": 950000,
+    "products": "Integrated Curator",
+    "tech level": 10,
+    "manufacturing time": "06:00:00",
+    "manufacturing cost": 35000000,
     "pi requirements": {
-        "gleaming alloy": 1500,
-        "condensed alloy": 1408,
-        "opulent compound": 1757,
-        "crystal compound": 1635,
-        "reactive metals": 317
+        "sheen compound": 228227,
+        "condensed alloy": 272888,
+        "opulent compound": 258525,
+        "crystal compound": 243476,
+        "reactive metals": 67851,
+        "precious metals": 30059,
+        "non-cs crystals": 32705
     },
     "ore requirements": {
-        "tritanium": 68265,
-        "pyrite": 21515,
-        "mexallon": 6492,
-        "isogen": 1208,
-        "noxium": 344
+        "tritanium": 8714055,
+        "pyrite": 2361099,
+        "mexallon": 664392,
+        "isogen": 134547,
+        "noxium": 40542,
+        "zydrine": 14378,
+        "megacyte": 6987,
+        "morphite": 2240
     }
 }

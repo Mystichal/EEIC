@@ -1,23 +1,25 @@
 {
-    "name": "MK7 Large Armor Link Module Blueprint",
+    "name": "Offense Bouncer Blueprint",
     "volume": 0.01,
-    "products": "MK7 Large Armor Link Module",
-    "tech level": 7,
-    "manufacturing time": "00:35:00",
-    "manufacturing cost": 9500000,
+    "products": "Offense Bouncer",
+    "tech level": 10,
+    "manufacturing time": "05:00:00",
+    "manufacturing cost": 30000000,
     "pi requirements": {
-        "sheen compound": 12224,
-        "precious alloy": 11814,
-        "glossy compound": 9873,
-        "dark compound": 14522,
-        "heavy mentals": 12776
+        "sheen compound": 202260,
+        "fiber composite": 229733,
+        "dark compound": 196341,
+        "heavy mentals": 174635,
+        "toxic metals": 51245
     },
     "ore requirements": {
-        "tritanium": 669979,
-        "pyrite": 180098,
-        "mexallon": 53523,
-        "isogen": 10125,
-        "noxium": 2795,
-        "zydrine": 1056
+        "tritanium": 6000239,
+        "pyrite": 1472718,
+        "mexallon": 627128,
+        "isogen": 120170,
+        "noxium": 34709,
+        "zydrine": 10638,
+        "megacyte": 6099,
+        "morphite": 1791
     }
 }

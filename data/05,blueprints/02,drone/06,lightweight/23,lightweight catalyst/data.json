@@ -1,24 +1,24 @@
 {
-    "name": "MK9 Large Shield Field Module Blueprint",
+    "name": "Lightweight Catalyst Blueprint",
     "volume": 0.01,
-    "products": "MK9 Large Shield Field Module",
-    "tech level": 9,
-    "manufacturing time": "01:00:00",
+    "products": "Lightweight Catalyst",
+    "tech level": 10,
+    "manufacturing time": "12:00:00",
     "manufacturing cost": 15000000,
     "pi requirements": {
-        "sheen compound": 18000,
-        "motley compound": 19617,
-        "fiber composite": 15600,
-        "heavy mentals": 17348,
-        "noble metals": 21398
+        "sheen compound": 33668,
+        "reactive metals": 33668
     },
     "ore requirements": {
-        "tritanium": 980429,
-        "pyrite": 214994,
-        "mexallon": 77595,
-        "isogen": 14732,
-        "noxium": 4892,
-        "zydrine": 1280,
-        "megacyte": 725
+        "noxium": 10389,
+        "zydrine": 3668,
+        "megacyte": 1835,
+        "morphite": 612
+    },
+    "module requirements": {
+        "federation navy small rifled railgun": 12
+    },
+    "ship requirements": {
+        "catalyst": 2
     }
 }

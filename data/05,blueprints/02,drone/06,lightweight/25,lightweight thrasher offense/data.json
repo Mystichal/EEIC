@@ -1,23 +1,25 @@
 {
-    "name": "MK7 Small Armor Link Module Blueprint",
+    "name": "Lightweight Thrasher Offense Blueprint",
     "volume": 0.01,
-    "products": "MK7 Small Armor Link Module",
-    "tech level": 7,
-    "manufacturing time": "00:35:00",
-    "manufacturing cost": 2000000,
+    "products": "Lightweight Thrasher Offense",
+    "tech level": 10,
+    "manufacturing time": "12:00:00",
+    "manufacturing cost": 20000000,
     "pi requirements": {
-        "gleaming alloy": 2685,
-        "condensed alloy": 2697,
-        "opulent compound": 2393,
-        "crystal compound": 2813,
-        "reactive metals": 762
+        "gleaming alloy": 44928,
+        "reactive metals": 12657
     },
     "ore requirements": {
-        "tritanium": 115052,
-        "pyrite": 35787,
-        "mexallon": 11278,
-        "isogen": 2420,
-        "noxium": 563,
-        "zydrine": 242
+        "noxium": 14843,
+        "zydrine": 5240,
+        "megacyte": 2621,
+        "morphite": 875
+    },
+    "module requirements": {
+        "republic fleet small strike cannon": 15,
+        "federation navy stasis webifier": 2
+    },
+    "ship requirements": {
+        "thrasher interdictor": 2
     }
 }

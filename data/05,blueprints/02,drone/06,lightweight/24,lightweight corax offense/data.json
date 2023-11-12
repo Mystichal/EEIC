@@ -1,22 +1,25 @@
 {
-    "name": "MK5 Small Armor Link Module Blueprint",
+    "name": "Lightweight Corax Offense Blueprint",
     "volume": 0.01,
-    "products": "MK5 Small Armor Link Module",
-    "tech level": 5,
-    "manufacturing time": "00:25:00",
-    "manufacturing cost": 950000,
+    "products": "Lightweight Corax Offense",
+    "tech level": 10,
+    "manufacturing time": "12:00:00",
+    "manufacturing cost": 20000000,
     "pi requirements": {
-        "gleaming alloy": 1500,
-        "condensed alloy": 1408,
-        "opulent compound": 1757,
-        "crystal compound": 1635,
-        "reactive metals": 317
+        "gleaming alloy": 44928,
+        "reactive metals": 12657
     },
     "ore requirements": {
-        "tritanium": 68265,
-        "pyrite": 21515,
-        "mexallon": 6492,
-        "isogen": 1208,
-        "noxium": 344
+        "noxium": 14843,
+        "zydrine": 5240,
+        "megacyte": 2621,
+        "morphite": 875
+    },
+    "module requirements": {
+        "caldari navy small missile launcher": 15,
+        "federation navy stasis webifier": 2
+    },
+    "ship requirements": {
+        "corax sniper": 2
     }
 }

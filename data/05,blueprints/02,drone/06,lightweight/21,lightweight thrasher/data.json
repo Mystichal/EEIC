@@ -1,24 +1,24 @@
 {
-    "name": "MK9 Medium Shield Field Module Blueprint",
+    "name": "Lightweight Thrasher Blueprint",
     "volume": 0.01,
-    "products": "MK9 Medium Shield Field Module",
-    "tech level": 9,
-    "manufacturing time": "01:00:00",
-    "manufacturing cost": 6000000,
+    "products": "Lightweight Thrasher",
+    "tech level": 10,
+    "manufacturing time": "12:00:00",
+    "manufacturing cost": 15000000,
     "pi requirements": {
-        "lustering alloy": 8778,
-        "condensed alloy": 6846,
-        "crystal compound": 8733,
-        "reactive metals": 1631,
-        "toxic metals": 1859
+        "sheen compound": 33668,
+        "reactive metals": 33668
     },
     "ore requirements": {
-        "tritanium": 410586,
-        "pyrite": 104517,
-        "mexallon": 33354,
-        "isogen": 5507,
-        "noxium": 1469,
-        "zydrine": 599,
-        "megacyte": 347
+        "noxium": 10389,
+        "zydrine": 3668,
+        "megacyte": 1835,
+        "morphite": 612
+    },
+    "module requirements": {
+        "republic fleet small strike cannon": 12
+    },
+    "ship requirements": {
+        "thrasher": 2
     }
 }

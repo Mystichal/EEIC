@@ -1,23 +1,25 @@
 {
-    "name": "MK7 Medium Armor Link Module Blueprint",
+    "name": "Offense Warden Blueprint",
     "volume": 0.01,
-    "products": "MK7 Medium Armor Link Module",
-    "tech level": 7,
-    "manufacturing time": "00:35:00",
-    "manufacturing cost": 4000000,
+    "products": "Offense Warden",
+    "tech level": 10,
+    "manufacturing time": "05:00:00",
+    "manufacturing cost": 30000000,
     "pi requirements": {
-        "condensed alloy": 6162,
-        "precious alloy": 4320,
-        "motley compound": 5295,
-        "lucent compound": 5631,
-        "noble metals": 4743
+        "precious alloy": 138287,
+        "lucent compound": 205221,
+        "glossy compound": 200919,
+        "dark compound": 196341,
+        "toxic metals": 53046
     },
     "ore requirements": {
-        "tritanium": 283532,
-        "pyrite": 59970,
-        "mexallon": 26142,
-        "isogen": 3797,
-        "noxium": 1313,
-        "zydrine": 447
+        "tritanium": 6372924,
+        "pyrite": 1743770,
+        "mexallon": 537539,
+        "isogen": 116346,
+        "noxium": 33491,
+        "zydrine": 12788,
+        "megacyte": 5132,
+        "morphite": 1791
     }
 }

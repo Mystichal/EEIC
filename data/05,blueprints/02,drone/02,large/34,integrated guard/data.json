@@ -1,24 +1,27 @@
 {
-    "name": "MK9 Small Armor Link Module Blueprint",
+    "name": "Integrated Guard Blueprint",
     "volume": 0.01,
-    "products": "MK9 Small Armor Link Module",
-    "tech level": 9,
-    "manufacturing time": "01:00:00",
-    "manufacturing cost": 3000000,
+    "products": "Integrated Guard",
+    "tech level": 10,
+    "manufacturing time": "06:00:00",
+    "manufacturing cost": 35000000,
     "pi requirements": {
-        "gleaming alloy": 3936,
-        "condensed alloy": 3281,
-        "opulent compound": 4460,
-        "crystal compound": 3236,
-        "reactive metals": 1116
+        "lustering alloy": 208392,
+        "motley compound": 273117,
+        "crystal compound": 220230,
+        "base metals": 62880,
+        "reactive metals": 70773,
+        "precious metals": 30059,
+        "non-cs crystals": 32705
     },
     "ore requirements": {
-        "tritanium": 200204,
-        "pyrite": 54012,
-        "mexallon": 15915,
-        "isogen": 2844,
-        "noxium": 1053,
-        "zydrine": 281,
-        "megacyte": 128
+        "tritanium": 10438226,
+        "pyrite": 2101265,
+        "mexallon": 656667,
+        "isogen": 137963,
+        "noxium": 42636,
+        "zydrine": 12765,
+        "megacyte": 6854,
+        "morphite": 2240
     }
 }

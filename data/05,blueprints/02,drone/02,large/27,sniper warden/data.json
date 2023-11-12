@@ -1,22 +1,25 @@
 {
-    "name": "MK5 Medium Armor Link Module Blueprint",
+    "name": "Sniper Warden Blueprint",
     "volume": 0.01,
-    "products": "MK5 Medium Armor Link Module",
-    "tech level": 5,
-    "manufacturing time": "00:25:00",
-    "manufacturing cost": 2000000,
+    "products": "Sniper Warden",
+    "tech level": 10,
+    "manufacturing time": "04:00:00",
+    "manufacturing cost": 20000000,
     "pi requirements": {
-        "condensed alloy": 2768,
-        "precious alloy": 2327,
-        "motley compound": 2541,
-        "lucent compound": 3359,
-        "noble metals": 3578
+        "precious alloy": 102383,
+        "lucent compound": 151938,
+        "glossy compound": 148754,
+        "dark compound": 145364,
+        "toxic metals": 39273
     },
     "ore requirements": {
-        "tritanium": 158937,
-        "pyrite": 33861,
-        "mexallon": 14573,
-        "isogen": 2283,
-        "noxium": 705
+        "tritanium": 4718277,
+        "pyrite": 1291023,
+        "mexallon": 397974,
+        "isogen": 86139,
+        "noxium": 24795,
+        "zydrine": 9468,
+        "megacyte": 3800,
+        "morphite": 1326
     }
 }

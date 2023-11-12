@@ -1,24 +1,25 @@
 {
-    "name": "MK9 Small Armor Link Module Blueprint",
+    "name": "Offense Warrior Blueprint",
     "volume": 0.01,
-    "products": "MK9 Small Armor Link Module",
-    "tech level": 9,
-    "manufacturing time": "01:00:00",
+    "products": 10,
+    "tech level": "Offense Warrior",
+    "manufacturing time": "05:00:00",
     "manufacturing cost": 3000000,
     "pi requirements": {
-        "gleaming alloy": 3936,
-        "condensed alloy": 3281,
-        "opulent compound": 4460,
-        "crystal compound": 3236,
-        "reactive metals": 1116
+        "sheen compound": 18549,
+        "condensed alloy": 21408,
+        "opulent compound": 17544,
+        "dark compound": 22595,
+        "reactive metals": 5453
     },
     "ore requirements": {
-        "tritanium": 200204,
-        "pyrite": 54012,
-        "mexallon": 15915,
-        "isogen": 2844,
-        "noxium": 1053,
-        "zydrine": 281,
-        "megacyte": 128
+        "tritanium": 689469,
+        "pyrite": 143658,
+        "mexallon": 58698,
+        "isogen": 12072,
+        "noxium": 3456,
+        "zydrine": 1205,
+        "megacyte": 522,
+        "morphite": 180
     }
 }

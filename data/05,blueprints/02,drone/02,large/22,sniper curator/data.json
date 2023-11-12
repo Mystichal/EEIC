@@ -1,23 +1,25 @@
 {
-    "name": "MK7 Large Shield Field Module Blueprint",
+    "name": "Sniper Curator Blueprint",
     "volume": 0.01,
-    "products": "MK7 Large Shield Field Module",
-    "tech level": 7,
-    "manufacturing time": "00:35:00",
-    "manufacturing cost": 9500000,
+    "products": "Sniper Curator",
+    "tech level": 10,
+    "manufacturing time": "04:00:00",
+    "manufacturing cost": 20000000,
     "pi requirements": {
-        "sheen compound": 14246,
-        "motley compound": 12620,
-        "fiber composite": 12548,
-        "heavy mentals": 10937,
-        "noble metals": 14591
+        "sheen compound": 135137,
+        "condensed alloy": 161582,
+        "opulent compound": 153078,
+        "crystal compound": 144167,
+        "reactive metals": 40176
     },
     "ore requirements": {
-        "tritanium": 711635,
-        "pyrite": 180939,
-        "mexallon": 65897,
-        "isogen": 8853,
-        "noxium": 2936,
-        "zydrine": 852
+        "tritanium": 5159754,
+        "pyrite": 1398051,
+        "mexallon": 393399,
+        "isogen": 79668,
+        "noxium": 24006,
+        "zydrine": 8513,
+        "megacyte": 4137,
+        "morphite": 1326
     }
 }

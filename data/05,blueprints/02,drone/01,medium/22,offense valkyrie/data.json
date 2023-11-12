@@ -1,24 +1,25 @@
 {
-    "name": "MK9 Medium Shield Field Module Blueprint",
+    "name": "Offense Valkyrie Blueprint",
     "volume": 0.01,
-    "products": "MK9 Medium Shield Field Module",
-    "tech level": 9,
-    "manufacturing time": "01:00:00",
-    "manufacturing cost": 6000000,
+    "products": "Offense Valkyrie",
+    "tech level": 10,
+    "manufacturing time": "05:00:00",
+    "manufacturing cost": 5500000,
     "pi requirements": {
-        "lustering alloy": 8778,
-        "condensed alloy": 6846,
-        "crystal compound": 8733,
-        "reactive metals": 1631,
-        "toxic metals": 1859
+        "gleaming alloy": 41106,
+        "motley compound": 29309,
+        "lucent compound": 34335,
+        "dark compound": 41243,
+        "noble metals": 49080
     },
     "ore requirements": {
-        "tritanium": 410586,
-        "pyrite": 104517,
-        "mexallon": 33354,
-        "isogen": 5507,
-        "noxium": 1469,
-        "zydrine": 599,
-        "megacyte": 347
+        "tritanium": 1632363,
+        "pyrite": 393930,
+        "mexallon": 129134,
+        "isogen": 19556,
+        "noxium": 6882,
+        "zydrine": 1914,
+        "megacyte": 920,
+        "morphite": 359
     }
 }

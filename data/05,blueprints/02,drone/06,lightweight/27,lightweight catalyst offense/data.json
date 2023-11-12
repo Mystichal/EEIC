@@ -1,22 +1,25 @@
 {
-    "name": "MK5 Medium Armor Link Module Blueprint",
+    "name": "Lightweight Catalyst Offense Blueprint",
     "volume": 0.01,
-    "products": "MK5 Medium Armor Link Module",
-    "tech level": 5,
-    "manufacturing time": "00:25:00",
-    "manufacturing cost": 2000000,
+    "products": "Lightweight Catalyst Offense",
+    "tech level": 10,
+    "manufacturing time": "12:00:00",
+    "manufacturing cost": 20000000,
     "pi requirements": {
-        "condensed alloy": 2768,
-        "precious alloy": 2327,
-        "motley compound": 2541,
-        "lucent compound": 3359,
-        "noble metals": 3578
+        "gleaming alloy": 44928,
+        "reactive metals": 12657
     },
     "ore requirements": {
-        "tritanium": 158937,
-        "pyrite": 33861,
-        "mexallon": 14573,
-        "isogen": 2283,
-        "noxium": 705
+        "noxium": 14843,
+        "zydrine": 5240,
+        "megacyte": 2621,
+        "morphite": 875
+    },
+    "module requirements": {
+        "federation navy small rifled railgun": 15,
+        "federation navy stasis webifier": 2
+    },
+    "ship requirements": {
+        "catalyst interdictor": 2
     }
 }

@@ -1,24 +1,24 @@
 {
-    "name": "MK9 Medium Armor Link Module Blueprint",
+    "name": "Lightweight Thrasher Prototype Blueprint",
     "volume": 0.01,
-    "products": "MK9 Medium Armor Link Module",
-    "tech level": 9,
-    "manufacturing time": "01:00:00",
-    "manufacturing cost": 6000000,
+    "products": "Lightweight Thrasher Prototype",
+    "tech level": 10,
+    "manufacturing time": "06:00:00",
+    "manufacturing cost": 10000000,
     "pi requirements": {
-        "condensed alloy": 7593,
-        "precious alloy": 6131,
-        "motley compound": 6551,
-        "lucent compound": 9294,
-        "noble metals": 7593
+        "sheen compound": 23087,
+        "heavy metals": 23087
     },
     "ore requirements": {
-        "tritanium": 340787,
-        "pyrite": 106508,
-        "mexallon": 34886,
-        "isogen": 6230,
-        "noxium": 1410,
-        "zydrine": 647,
-        "megacyte": 330
+        "noxium": 7125,
+        "zydrine": 2516,
+        "megacyte": 1259,
+        "morphite": 420
+    },
+    "module requirements": {
+        "republic fleet small strike cannon": 11
+    },
+    "ship requirements": {
+        "thrasher": 2
     }
 }

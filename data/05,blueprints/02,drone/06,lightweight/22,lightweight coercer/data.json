@@ -1,23 +1,24 @@
 {
-    "name": "MK7 Large Shield Field Module Blueprint",
+    "name": "Lightweight Coercer Blueprint",
     "volume": 0.01,
-    "products": "MK7 Large Shield Field Module",
-    "tech level": 7,
-    "manufacturing time": "00:35:00",
-    "manufacturing cost": 9500000,
+    "products": "Lightweight Coercer",
+    "tech level": 10,
+    "manufacturing time": "12:00:00",
+    "manufacturing cost": 15000000,
     "pi requirements": {
-        "sheen compound": 14246,
-        "motley compound": 12620,
-        "fiber composite": 12548,
-        "heavy mentals": 10937,
-        "noble metals": 14591
+        "sheen compound": 33668,
+        "reactive metals": 33668
     },
     "ore requirements": {
-        "tritanium": 711635,
-        "pyrite": 180939,
-        "mexallon": 65897,
-        "isogen": 8853,
-        "noxium": 2936,
-        "zydrine": 852
+        "noxium": 10389,
+        "zydrine": 3668,
+        "megacyte": 1835,
+        "morphite": 612
+    },
+    "module requirements": {
+        "imperial navy small beam laser": 12
+    },
+    "ship requirements": {
+        "coercer": 2
     }
 }

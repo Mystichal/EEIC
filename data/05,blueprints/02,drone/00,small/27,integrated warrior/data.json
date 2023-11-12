@@ -1,22 +1,27 @@
 {
-    "name": "MK5 Medium Armor Link Module Blueprint",
+    "name": "Integrated Warrior Blueprint",
     "volume": 0.01,
-    "products": "MK5 Medium Armor Link Module",
-    "tech level": 5,
-    "manufacturing time": "00:25:00",
-    "manufacturing cost": 2000000,
+    "products": "Integrated Warrior",
+    "tech level": 10,
+    "manufacturing time": "06:00:00",
+    "manufacturing cost": 3500000,
     "pi requirements": {
-        "condensed alloy": 2768,
-        "precious alloy": 2327,
-        "motley compound": 2541,
-        "lucent compound": 3359,
-        "noble metals": 3578
+        "sheen compound": 23193,
+        "condensed alloy": 26768,
+        "opulent compound": 21936,
+        "dark compound": 28251,
+        "reactive metals": 6819,
+        "precious metals": 3006,
+        "non-cs crystals": 3272
     },
     "ore requirements": {
-        "tritanium": 158937,
-        "pyrite": 33861,
-        "mexallon": 14573,
-        "isogen": 2283,
-        "noxium": 705
+        "tritanium": 862086,
+        "pyrite": 179625,
+        "mexallon": 73394,
+        "isogen": 15095,
+        "noxium": 4322,
+        "zydrine": 1506,
+        "megacyte": 653,
+        "morphite": 225
     }
 }

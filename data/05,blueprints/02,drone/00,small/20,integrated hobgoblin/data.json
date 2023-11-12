@@ -1,23 +1,27 @@
 {
-    "name": "MK7 Medium Shield Field Module Blueprint",
+    "name": "Integrated Hobgoblin Blueprint",
     "volume": 0.01,
-    "products": "MK7 Medium Shield Field Module",
-    "tech level": 7,
-    "manufacturing time": "00:35:00",
-    "manufacturing cost": 4000000,
+    "products": "Integrated Hobgoblin",
+    "tech level": 10,
+    "manufacturing time": "06:00:00",
+    "manufacturing cost": 3500000,
     "pi requirements": {
-        "lustering alloy": 5297,
-        "condensed alloy": 6041,
-        "crystal compound": 5280,
-        "reactive metals": 1392,
-        "toxic metals": 1250
+        "gleaming alloy": 18669,
+        "lucent compound": 26895,
+        "crystal compound": 25694,
+        "noble metals": 29771,
+        "toxic metals": 5861,
+        "precious metals": 3006,
+        "non-cs crystals": 3272
     },
     "ore requirements": {
-        "tritanium": 263280,
-        "pyrite": 68037,
-        "mexallon": 24104,
-        "isogen": 4665,
-        "noxium": 1200,
-        "zydrine": 419
+        "tritanium": 838787,
+        "pyrite": 250797,
+        "mexallon": 86913,
+        "isogen": 15300,
+        "noxium": 3218,
+        "zydrine": 1365,
+        "megacyte": 596,
+        "morphite": 225
     }
 }
