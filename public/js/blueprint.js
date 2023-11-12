@@ -97,6 +97,12 @@ const blueprint = JSON.parse(
 			"fullero-ferrocene": 0,
 			"fullerene intercalated graphite": 0
 		},
+		"quantum neruon requirements": {
+			"mimetic neuron": 0,
+			"deep-chain neruon": 0,
+			"self-renovating neruon": 0,
+			"overloaded neruon": 0
+		},
 		"salvaged part requirements": {
 			"charred micro circuit": 0,
 			"fried interface circuit": 0,
