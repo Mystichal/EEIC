@@ -1,22 +1,12 @@
 {
-    "name": "MK5 Small Shield Field Module Blueprint",
+    "name": "Capital Remote Armor Repairer Stabilizer I Blueprint",
     "volume": 0.01,
-    "products": "MK5 Small Shield Field Module",
-    "tech level": 5,
-    "manufacturing time": "00:25:00",
-    "manufacturing cost": 950000,
-    "pi requirements": {
-        "precious alloy": 1226,
-        "dark compound": 1500,
-        "base metals": 410,
-        "reactive metals": 359,
-        "toxic metals": 428
-    },
-    "ore requirements": {
-        "tritanium": 70274,
-        "pyrite": 21613,
-        "mexallon": 7124,
-        "isogen": 1119,
-        "noxium": 327
+    "products": "Capital Remote Armor Repairer Stabilizer I",
+    "tech level": 10,
+    "manufacturing time": "62:30:00",
+    "manufacturing cost": 25000000,
+    "salvaged part requirements": {
+        "capital damaged artificial neural network": 675,
+        "capital contaminated lorentz fluid": 563
     }
 }

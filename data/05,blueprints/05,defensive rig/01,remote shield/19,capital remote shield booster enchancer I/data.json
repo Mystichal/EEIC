@@ -1,22 +1,12 @@
 {
-    "name": "MK5 Medium Shield Field Module Blueprint",
+    "name": "Capital Remote Shield Booster Enhancer I Blueprint",
     "volume": 0.01,
-    "products": "MK5 Medium Shield Field Module",
-    "tech level": 5,
-    "manufacturing time": "00:25:00",
-    "manufacturing cost": 2000000,
-    "pi requirements": {
-        "lustering alloy": 2762,
-        "condensed alloy": 3015,
-        "crystal compound": 2846,
-        "reactive metals": 824,
-        "toxic metals": 800
-    },
-    "ore requirements": {
-        "tritanium": 148502,
-        "pyrite": 43009,
-        "mexallon": 14707,
-        "isogen": 2295,
-        "noxium": 585
+    "products": "Capital Remote Shield Booster Enhancer I",
+    "tech level": 10,
+    "manufacturing time": "62:30:00",
+    "manufacturing cost": 25000000,
+    "salvaged part requirements": {
+        "capital burned logic circuit": 1350,
+        "capital defective current pump": 1125
     }
 }

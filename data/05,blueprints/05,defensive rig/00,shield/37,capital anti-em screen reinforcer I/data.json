@@ -1,24 +1,12 @@
 {
-    "name": "MK9 Medium Armor Link Module Blueprint",
+    "name": "Capital Anti-em Screen Reinforcer I Blueprint",
     "volume": 0.01,
-    "products": "MK9 Medium Armor Link Module",
-    "tech level": 9,
-    "manufacturing time": "01:00:00",
-    "manufacturing cost": 6000000,
-    "pi requirements": {
-        "condensed alloy": 7593,
-        "precious alloy": 6131,
-        "motley compound": 6551,
-        "lucent compound": 9294,
-        "noble metals": 7593
-    },
-    "ore requirements": {
-        "tritanium": 340787,
-        "pyrite": 106508,
-        "mexallon": 34886,
-        "isogen": 6230,
-        "noxium": 1410,
-        "zydrine": 647,
-        "megacyte": 330
+    "products": "Capital Anti-em Screen Reinforcer I",
+    "tech level": 10,
+    "manufacturing time": "62:30:00",
+    "manufacturing cost": 15000000,
+    "salvaged part requirements": {
+        "capital burned logic circuit": 1013,
+        "capital defective current pump": 845
     }
 }

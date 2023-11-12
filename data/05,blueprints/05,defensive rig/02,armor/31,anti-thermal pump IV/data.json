@@ -1,24 +1,15 @@
 {
-    "name": "MK9 Large Armor Link Module Blueprint",
+    "name": "Anti-Thermal Pump IV Blueprint",
     "volume": 0.01,
-    "products": "MK9 Large Armor Link Module",
-    "tech level": 9,
-    "manufacturing time": "01:00:00",
-    "manufacturing cost": 15000000,
-    "pi requirements": {
-        "sheen compound": 17739,
-        "precious alloy": 13089,
-        "glossy compound": 14865,
-        "dark compound": 21261,
-        "heavy mentals": 20609
-    },
-    "ore requirements": {
-        "tritanium": 876966,
-        "pyrite": 263964,
-        "mexallon": 81680,
-        "isogen": 15887,
-        "noxium": 3201,
-        "zydrine": 1436,
-        "megacyte": 782
+    "products": "Anti-Thermal Pump IV",
+    "tech level": 10,
+    "manufacturing time": "62:30:00",
+    "manufacturing cost": 550000,
+    "salvaged part requirements": {
+        "smashed trigger unit": 465,
+        "damaged close-in weapon system": 765,
+        "scorched telemetry processor": 1440,
+        "damaged artificial neural network": 288,
+        "contaminated lorentz fluid": 2310
     }
 }
