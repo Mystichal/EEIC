@@ -1,0 +1,12 @@
+{
+    "name": "4P Combat Integrated Module - Blueprint",
+    "volume": 0.01,
+    "products": "Frequency-reducing 4P Combat Integrated Module",
+    "tech level": 6,
+    "manufacturing time": "02:00:00",
+    "manufacturing cost": 350000,
+    "salvaged part requirements": {
+        "integrated hull modification device": 120,
+        "capacitor control center": 60
+    }
+}
