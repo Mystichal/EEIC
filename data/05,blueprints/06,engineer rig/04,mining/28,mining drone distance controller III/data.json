@@ -1,12 +1,13 @@
 {
-    "name": "Anti-Thermal Screen Reinforcer I Blueprint",
+    "name": "Mining Drone Distance Controller III Blueprint",
     "volume": 0.01,
-    "products": "Anti-Thermal Screen Reinforcer I",
-    "tech level": 4,
-    "manufacturing time": "00:30:00",
-    "manufacturing cost": 10000,
-    "salvage part requirements": {
-        "charred micro circuit": 93,
-        "defective current pump": 30
+    "products": "Mining Drone Distance Controller III",
+    "tech level": 8,
+    "manufacturing time": "12:30:00",
+    "manufacturing cost": 1500000,
+    "salvaged part requirements": {
+        "tripped power circuit": 3900,
+        "scorched telemetry processor": 1800,
+        "conductive polymer": 6000
     }
 }

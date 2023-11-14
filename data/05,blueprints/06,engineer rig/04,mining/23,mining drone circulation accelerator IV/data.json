@@ -1,24 +1,19 @@
 {
-    "name": "MK9 Large Shield Field Module Blueprint",
+    "name": "Mining Drone Circulation Accelerator IV Blueprint",
     "volume": 0.01,
-    "products": "MK9 Large Shield Field Module",
-    "tech level": 9,
-    "manufacturing time": "01:00:00",
-    "manufacturing cost": 15000000,
-    "pi requirements": {
-        "sheen compound": 18000,
-        "motley compound": 19617,
-        "fiber composite": 15600,
-        "heavy mentals": 17348,
-        "noble metals": 21398
-    },
-    "ore requirements": {
-        "tritanium": 980429,
-        "pyrite": 214994,
-        "mexallon": 77595,
-        "isogen": 14732,
-        "noxium": 4892,
-        "zydrine": 1280,
-        "megacyte": 725
+    "products": "Mining Drone Circulation Accelerator IV",
+    "tech level": 10,
+    "manufacturing time": "62:30:00",
+    "manufacturing cost": 3500000,
+    "salvaged part requirements": {
+        "charred micro circuit": 1230,
+        "fried interface circuit": 2055,
+        "tripped power circuit": 3840,
+        "burned logic circuit": 768,
+        "smashed trigger unit": 420,
+        "damaged close-in weapon system": 750,
+        "scorched telemetry processor": 1395,
+        "damaged artificial neural network": 279,
+        "conductive polymer": 17025
     }
 }

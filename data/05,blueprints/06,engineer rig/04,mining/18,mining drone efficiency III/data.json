@@ -1,12 +1,13 @@
 {
-    "name": "Anti-Explosive Screen Reinforcer III Blueprint",
+    "name": "Mining Drone Efficiency III Blueprint",
     "volume": 0.01,
-    "products": "Anti-Explosive Screen Reinforcer III",
+    "products": "Mining Drone Efficiency III",
     "tech level": 8,
     "manufacturing time": "12:30:00",
-    "manufacturing cost": 150000,
-    "salvage part requirements": {
-        "tripped power circuit": 288,
-        "defective current pump": 185
+    "manufacturing cost": 1500000,
+    "salvaged part requirements": {
+        "tripped power circuit": 3990,
+        "scorched telemetry processor": 2190,
+        "conductive polymer": 5355
     }
 }

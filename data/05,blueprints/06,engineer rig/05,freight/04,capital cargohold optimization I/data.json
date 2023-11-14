@@ -1,12 +1,12 @@
 {
-    "name": "Core Defense Charge Economizer I Blueprint",
+    "name": "Capital Cargohold Optimization I Blueprint",
     "volume": 0.01,
-    "products": "Core Defense Charge Economizer I",
-    "tech level": 4,
-    "manufacturing time": "00:30:00",
-    "manufacturing cost": 10000,
+    "products": "Capital Cargohold Optimization I",
+    "tech level": 10,
+    "manufacturing time": "62:30:00",
+    "manufacturing cost": 15000000,
     "salvage part requirements": {
-        "charred micro circuit": 93,
-        "defective current pump": 30
+        "capital burned logic circuit": 1140,
+        "capital contaminated nanite compound": 713
     }
 }

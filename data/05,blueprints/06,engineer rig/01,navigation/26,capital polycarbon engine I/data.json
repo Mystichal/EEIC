@@ -1,12 +1,12 @@
 {
-    "name": "Anti-Kinetic Screen Reinforcer III Blueprint",
+    "name": "Capital Polycarbon Engine Housing I Blueprint",
     "volume": 0.01,
-    "products": "Anti-Kinetic Screen Reinforcer III",
-    "tech level": 8,
-    "manufacturing time": "12:30:00",
-    "manufacturing cost": 150000,
-    "salvage part requirements": {
-        "tripped power circuit": 288,
-        "defective current pump": 185
+    "products": "Capital Polycarbon Engine Housing I",
+    "tech level": 10,
+    "manufacturing time": "62:30:00",
+    "manufacturing cost": 15000000,
+    "salvaged part requirements": {
+        "capital burned logic circuit": 1038,
+        "capital contaminated nanite compound": 650
     }
 }

@@ -1,12 +1,12 @@
 {
-    "name": "Anti-Explosive Screen Reinforcer I Blueprint",
+    "name": "Capital Semiconductor Memory Cell I Blueprint",
     "volume": 0.01,
-    "products": "Anti-Explosive Screen Reinforcer I",
-    "tech level": 4,
-    "manufacturing time": "00:30:00",
-    "manufacturing cost": 10000,
-    "salvage part requirements": {
-        "charred micro circuit": 93,
-        "defective current pump": 30
+    "products": "Capital Semiconductor Memory Cell I",
+    "tech level": 10,
+    "manufacturing time": "62:30:00",
+    "manufacturing cost": 15000000,
+    "salvaged part requirements": {
+        "capital damaged artificial neural network": 570,
+        "capital conductive polymer": 2849
     }
 }

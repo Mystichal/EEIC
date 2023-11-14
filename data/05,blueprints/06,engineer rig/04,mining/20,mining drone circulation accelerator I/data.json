@@ -1,12 +1,13 @@
 {
-    "name": "Anti-EM Screen Reinforcer I Blueprint",
+    "name": "Mining Drone Circulation Accelerator I Blueprint",
     "volume": 0.01,
-    "products": "Anti-EM Screen Reinforcer I",
+    "products": "Mining Drone Circulation Accelerator I",
     "tech level": 4,
     "manufacturing time": "00:30:00",
-    "manufacturing cost": 10000,
-    "salvage part requirements": {
-        "charred micro circuit": 93,
-        "defective current pump": 30
+    "manufacturing cost": 250000,
+    "salvaged part requirements": {
+        "charred micro circuit": 1230,
+        "smashed trigger unit": 450,
+        "conductive polymer": 1095,
     }
 }

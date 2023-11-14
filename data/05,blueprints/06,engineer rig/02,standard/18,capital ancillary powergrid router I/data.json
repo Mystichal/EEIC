@@ -1,12 +1,12 @@
 {
-    "name": "Anti-Explosive Screen Reinforcer III Blueprint",
+    "name": "Capital Ancillary Powergrid Current Router I Blueprint",
     "volume": 0.01,
-    "products": "Anti-Explosive Screen Reinforcer III",
-    "tech level": 8,
-    "manufacturing time": "12:30:00",
-    "manufacturing cost": 150000,
-    "salvage part requirements": {
-        "tripped power circuit": 288,
-        "defective current pump": 185
+    "products": "Capital Ancillary Powergrid Current Router I",
+    "tech level": 10,
+    "manufacturing time": "62:30:00",
+    "manufacturing cost": 9500000,
+    "salvaged part requirements": {
+        "capital damaged artificial neural network": 402,
+        "capital conductive polymer": 2004
     }
 }

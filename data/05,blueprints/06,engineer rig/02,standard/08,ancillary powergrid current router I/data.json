@@ -1,7 +1,7 @@
 {
-    "name": "Ancillary Powergrid Router I Blueprint",
+    "name": "Ancillary Powergrid Current Router I Blueprint",
     "volume": 0.01,
-    "products": "Ancillary Powergrid Router I",
+    "products": "Ancillary Powergrid Current Router I",
     "tech level": 4,
     "manufacturing time": "00:30:00",
     "manufacturing cost": 8000,

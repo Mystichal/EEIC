@@ -1,12 +1,12 @@
 {
-    "name": "Core Defense Charge Economizer II Blueprint",
+    "name": "Ore Hold Optimization I Blueprint",
     "volume": 0.01,
-    "products": "Core Defense Charge Economizer II",
-    "tech level": 6,
-    "manufacturing time": "02:30:00",
-    "manufacturing cost": 35000,
+    "products": "Ore Hold Optimization I",
+    "tech level": 10,
+    "manufacturing time": "00:30:00",
+    "manufacturing cost": 15000,
     "salvage part requirements": {
-        "fried interface circuit": 155,
-        "defective current pump": 75
+        "charred micro circuit": 102,
+        "contaminated nanite polymer": 26
     }
 }

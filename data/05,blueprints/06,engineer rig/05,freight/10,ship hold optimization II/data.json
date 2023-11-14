@@ -1,12 +1,12 @@
 {
-    "name": "Core Defense Capacitor Safeguard III Blueprint",
+    "name": "Ship Hold Optimization II Blueprint",
     "volume": 0.01,
-    "products": "Core Defense Capacitor Safeguard III",
-    "tech level": 8,
-    "manufacturing time": "12:30:00",
-    "manufacturing cost": 150000,
+    "products": "Ship Hold Optimization II",
+    "tech level": 10,
+    "manufacturing time": "02:30:00",
+    "manufacturing cost": 40000,
     "salvage part requirements": {
-        "tripped power circuit": 264,
-        "defective current pump": 144
+        "fried interface circuit": 170,
+        "contaminated nanite polymer": 65
     }
 }

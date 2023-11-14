@@ -1,12 +1,14 @@
 {
-    "name": "Anti-Kinetic Screen Reinforcer II Blueprint",
+    "name": "Exhumer Drone Circulation Accelerator I Blueprint",
     "volume": 0.01,
-    "products": "Anti-Kinetic Screen Reinforcer II",
-    "tech level": 6,
-    "manufacturing time": "02:30:00",
-    "manufacturing cost": 35000,
-    "salvage part requirements": {
-        "fried interface circuit": 153,
-        "defective current pump": 74
+    "products": "Exhumer Drone Circulation Accelerator I",
+    "tech level": 10,
+    "manufacturing time": "62:30:00",
+    "manufacturing cost": 25000000,
+    "salvaged part requirements": {
+        "capital contaminated lorentz fluid": 426,
+        "capital conductive polymer": 3017,
+        "capital contaminated nanite compound": 1055,
+        "capital defective current pump": 1125
     }
 }
