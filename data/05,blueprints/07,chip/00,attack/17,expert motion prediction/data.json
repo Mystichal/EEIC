@@ -1,24 +1,23 @@
 {
-    "name": "MK9 Hobgoblin Blueprint",
+    "name": "Expert Motion Prediction Blueprint",
     "volume": 0.01,
-    "products": "MK9 Hobgoblin",
-    "tech level": 9,
-    "manufacturing time": "01:00:00",
-    "manufacturing cost": 3500000,
+    "products": "Expert Motion Prediction",
+    "tech level": 8,
+    "manufacturing time": "24:00:00",
+    "manufacturing cost": 25000000,
     "pi requirements": {
-        "gleaming alloy": 4289,
-        "lucent compound": 5621,
-        "crystal compound": 5469,
-        "noble metals": 5195,
-        "toxic metals": 1502
+        "nanites": 506274
     },
-    "ore requirements": {
-        "tritanium": 201306,
-        "pyrite": 54843,
-        "mexallon": 15036,
-        "isogen": 3258,
-        "noxium": 770,
-        "zydrine": 252,
-        "megacyte": 146
+    "nanocore material requirements": {
+        "combat data stream computing chip III": 300,
+        "combat learning data bank III": 3000
+    },
+    "data requirements": {
+        "cannon experiment data": 300,
+        "railgun experiment data": 300
+    },
+    "implant component requirements": {
+        "willpower mimetic neuron": 450,
+        "perception mimetic neuron": 600
     }
 }

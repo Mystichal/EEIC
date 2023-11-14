@@ -1,7 +1,7 @@
 {
-    "name": "Expert Remote Shield Transmission Array Theory Blueprint",
+    "name": "Expert Mothership Defense Blueprint",
     "volume": 0.01,
-    "products": "Expert Remote Shield Transmission Array Theory",
+    "products": "Expert Mothership Defense",
     "tech level": 8,
     "manufacturing time": "24:00:00",
     "manufacturing cost": 25000000,
@@ -10,14 +10,14 @@
     },
     "nanocore material requirements": {
         "damage monitor stream computing chip III": 300,
-        "defence technical data bank III": 3000
+        "defense technical data bank III": 3000
     },
     "data requirements": {
-        "shield experiment data": 600,
+        "drone experiment data": 300,
         "engineering experiment data": 600
     },
     "implant component requirements": {
-        "intelligence mimetic neuron": 600,
-        "memory mimetic neuron": 450
+        "charisma mimetic neuron": 600,
+        "intelligence mimetic neuron": 450
     }
 }

@@ -1,21 +1,23 @@
 {
-    "name": "MK3 Hornet Blueprint",
+    "name": "Expert Drone Combat Blueprint",
     "volume": 0.01,
-    "products": "MK3 Hornet",
-    "tech level": 3,
-    "manufacturing time": "00:10:00",
-    "manufacturing cost": 250000,
+    "products": "Expert Drone Combat",
+    "tech level": 8,
+    "manufacturing time": "24:00:00",
+    "manufacturing cost": 25000000,
     "pi requirements": {
-        "sheen compound": 498,
-        "precious alloy": 416,
-        "fiber composite": 566,
-        "dark compound": 494,
-        "heavy mentals": 530
+        "nanites": 506274
     },
-    "ore requirements": {
-        "tritanium": 17544,
-        "pyrite": 4394,
-        "mexallon": 1967,
-        "isogen": 261
+    "nanocore material requirements": {
+        "combat data stream computing chip III": 300,
+        "combat learning data bank III": 3000
+    },
+    "data requirements": {
+        "drone experiment data": 300,
+        "rigging experiment data": 101
+    },
+    "implant component requirements": {
+        "perception mimetic neuron": 450,
+        "memory mimetic neuron": 600
     }
 }

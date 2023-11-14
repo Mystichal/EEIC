@@ -1,22 +1,23 @@
 {
-    "name": "MK5 Hornet Blueprint",
+    "name": "Expert Armor Layering Array Blueprint",
     "volume": 0.01,
-    "products": "MK5 Hornet",
-    "tech level": 5,
-    "manufacturing time": "00:25:00",
-    "manufacturing cost": 850000,
+    "products": "Expert Armor Layering Array",
+    "tech level": 8,
+    "manufacturing time": "24:00:00",
+    "manufacturing cost": 25000000,
     "pi requirements": {
-        "sheen compound": 1464,
-        "precious alloy": 1529,
-        "fiber composite": 2028,
-        "dark compound": 1472,
-        "heavy mentals": 1391
+        "nanites": 506274
     },
-    "ore requirements": {
-        "tritanium": 56466,
-        "pyrite": 14355,
-        "mexallon": 4808,
-        "isogen": 806,
-        "noxium": 314
+    "nanocore material requirements": {
+        "damage monitor stream computing chip III": 300,
+        "defense technical data bank III": 3000
+    },
+    "data requirements": {
+        "armor experiment data": 600,
+        "structure experiment data": 600
+    },
+    "implant component requirements": {
+        "intelligence mimetic neuron": 600,
+        "memory mimetic neuron": 450
     }
 }

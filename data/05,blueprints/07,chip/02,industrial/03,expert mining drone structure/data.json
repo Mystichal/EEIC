@@ -1,24 +1,23 @@
 {
-    "name": "MK9 Acolyte Blueprint",
+    "name": "Expert Mining Drone Structure Blueprint",
     "volume": 0.01,
-    "products": "MK9 Acolyte",
-    "tech level": 9,
-    "manufacturing time": "01:00:00",
-    "manufacturing cost": 3500000,
+    "products": "Expert Mining Drone Structure",
+    "tech level": 8,
+    "manufacturing time": "24:00:00",
+    "manufacturing cost": 25000000,
     "pi requirements": {
-        "lustering alloy": 4409,
-        "motley compound": 5817,
-        "crystal compound": 5104,
-        "base metals": 1353,
-        "reactive metals": 1424
+        "nanites": 506274
     },
-    "ore requirements": {
-        "tritanium": 189348,
-        "pyrite": 41073,
-        "mexallon": 16026,
-        "isogen": 3287,
-        "noxium": 909,
-        "zydrine": 285,
-        "megacyte": 144
+    "nanocore material requirements": {
+        "construction stream computing chip III": 300,
+        "industry efficiancy data bank III": 3000
+    },
+    "data requirements": {
+        "scan experiment data": 600,
+        "mining experiment data": 300
+    },
+    "implant component requirements": {
+        "willpower mimetic neuron": 600,
+        "memory mimetic neuron": 450
     }
 }

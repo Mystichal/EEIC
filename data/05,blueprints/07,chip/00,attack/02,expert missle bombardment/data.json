@@ -1,23 +1,23 @@
 {
-    "name": "MK7 Acolyte Blueprint",
+    "name": "Expert Missile Bombardment Blueprint",
     "volume": 0.01,
-    "products": "MK7 Acolyte",
-    "tech level": 7,
-    "manufacturing time": "00:35:00",
-    "manufacturing cost": 2000000,
+    "products": "Expert Missile Bombardment",
+    "tech level": 8,
+    "manufacturing time": "24:00:00",
+    "manufacturing cost": 25000000,
     "pi requirements": {
-        "lustering alloy": 3546,
-        "motley compound": 2740,
-        "crystal compound": 3125,
-        "base metals": 1041,
-        "reactive metals": 821
+        "nanites": 506274
     },
-    "ore requirements": {
-        "tritanium": 139842,
-        "pyrite": 30528,
-        "mexallon": 9285,
-        "isogen": 2264,
-        "noxium": 450,
-        "zydrine": 170
+    "nanocore material requirements": {
+        "combat data stream computing chip III": 300,
+        "combat learning data bank III": 3000
+    },
+    "data requirements": {
+        "missle experiment data": 300,
+        "scan experiment data": 600
+    },
+    "implant component requirements": {
+        "willpower mimetic neuron": 450,
+        "preception mimetic neuron": 600
     }
 }

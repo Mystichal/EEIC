@@ -1,21 +1,23 @@
 {
-    "name": "MK3 Hobgoblin Blueprint",
+    "name": "Expert Lightweight Ship Combat Blueprint",
     "volume": 0.01,
-    "products": "MK3 Hobgoblin",
-    "tech level": 3,
-    "manufacturing time": "00:10:00",
-    "manufacturing cost": 250000,
+    "products": "Expert Lightweight Ship Combat",
+    "tech level": 8,
+    "manufacturing time": "24:00:00",
+    "manufacturing cost": 25000000,
     "pi requirements": {
-        "gleaming alloy": 476,
-        "lucent compound": 611,
-        "crystal compound": 471,
-        "noble metals": 560,
-        "toxic metals": 114
+        "nanites": 506274
     },
-    "ore requirements": {
-        "tritanium": 23327,
-        "pyrite": 4862,
-        "mexallon": 1391,
-        "isogen": 249
+    "nanocore material requirements": {
+        "combat data stream computing chip III": 300,
+        "combat learning data bank III": 3000
+    },
+    "data requirements": {
+        "shield experiment data": 600,
+        "armor experiment data": 600
+    },
+    "implant component requirements": {
+        "charisma mimetic neuron": 600,
+        "perception mimetic neuron": 450
     }
 }

@@ -1,7 +1,7 @@
 {
-    "name": "Expert Precision Guidence Blueprint",
+    "name": "Expert Lightweight Ship Defense Blueprint",
     "volume": 0.01,
-    "products": "Expert Precision Guidence",
+    "products": "Expert Lightweight Ship Defense",
     "tech level": 8,
     "manufacturing time": "24:00:00",
     "manufacturing cost": 25000000,
@@ -13,11 +13,11 @@
         "combat learning data bank III": 3000
     },
     "data requirements": {
-        "missle experiment data": 300,
-        "scan experiment data": 600
+        "shield experiment data": 600,
+        "armor experiment data": 600
     },
     "implant component requirements": {
-        "willpower mimetic neuron": 450,
-        "preception mimetic neuron": 600
+        "charisma mimetic neuron": 600,
+        "perception mimetic neuron": 450
     }
 }

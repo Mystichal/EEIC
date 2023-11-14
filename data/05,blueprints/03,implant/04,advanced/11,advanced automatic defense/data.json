@@ -1,7 +1,7 @@
 {
-    "name": "Advanced Automatic Defence Blueprint",
+    "name": "Advanced Automatic Defense Blueprint",
     "volume": 0.01,
-    "products": "Advanced Automatic Defence",
+    "products": "Advanced Automatic Defense",
     "tech level": 10,
     "manufacturing time": "04:00:00",
     "manufacturing cost": 300000000,
@@ -11,7 +11,7 @@
         "noxium": 44520,
         "megacyte": 7860
     },
-    "quantum neruon requirements": {
+    "implant component requirements": {
         "overloaded neruon": 3600
     }
 }

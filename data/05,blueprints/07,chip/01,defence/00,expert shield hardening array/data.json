@@ -1,21 +1,23 @@
 {
-    "name": "MK3 Acolyte Blueprint",
+    "name": "Expert Shield Hardening Array Blueprint",
     "volume": 0.01,
-    "products": "MK3 Acolyte",
-    "tech level": 3,
-    "manufacturing time": "00:10:00",
-    "manufacturing cost": 250000,
+    "products": "Expert Shield Hardening Array",
+    "tech level": 8,
+    "manufacturing time": "24:00:00",
+    "manufacturing cost": 25000000,
     "pi requirements": {
-        "lustering alloy": 548,
-        "motley compound": 501,
-        "crystal compound": 438,
-        "base metals": 150,
-        "reactive metals": 119
+        "nanites": 506274
     },
-    "ore requirements": {
-        "tritanium": 16194,
-        "pyrite": 4745,
-        "mexallon": 1703,
-        "isogen": 306
+    "nanocore material requirements": {
+        "damage monitor stream computing chip III": 300,
+        "defense technical data bank III": 3000
+    },
+    "data requirements": {
+        "shield experiment data": 600,
+        "engineering experiment data": 600
+    },
+    "implant component requirements": {
+        "intelligence mimetic neuron": 600,
+        "memory mimetic neuron": 450
     }
 }

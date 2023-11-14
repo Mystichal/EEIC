@@ -1,23 +1,23 @@
 {
-    "name": "MK7 Medium Shield Field Module Blueprint",
+    "name": "Expert Sharpshooter Blueprint",
     "volume": 0.01,
-    "products": "MK7 Medium Shield Field Module",
-    "tech level": 7,
-    "manufacturing time": "00:35:00",
-    "manufacturing cost": 4000000,
+    "products": "Expert Sharpshooter",
+    "tech level": 8,
+    "manufacturing time": "24:00:00",
+    "manufacturing cost": 25000000,
     "pi requirements": {
-        "lustering alloy": 5297,
-        "condensed alloy": 6041,
-        "crystal compound": 5280,
-        "reactive metals": 1392,
-        "toxic metals": 1250
+        "nanites": 506274
     },
-    "ore requirements": {
-        "tritanium": 263280,
-        "pyrite": 68037,
-        "mexallon": 24104,
-        "isogen": 4665,
-        "noxium": 1200,
-        "zydrine": 419
+    "nanocore material requirements": {
+        "combat data stream computing chip III": 300,
+        "combat learning data bank III": 3000
+    },
+    "data requirements": {
+        "railgun experiment data": 300,
+        "laser experiment data": 300
+    },
+    "implant component requirements": {
+        "willpower mimetic neuron": 450,
+        "perception mimetic neuron": 600
     }
 }

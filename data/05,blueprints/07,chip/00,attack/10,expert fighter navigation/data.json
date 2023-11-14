@@ -1,24 +1,23 @@
 {
-    "name": "MK9 Hornet Blueprint",
+    "name": "Expert Fighter Navigation Blueprint",
     "volume": 0.01,
-    "products": "MK9 Hornet",
-    "tech level": 9,
-    "manufacturing time": "01:00:00",
-    "manufacturing cost": 3500000,
+    "products": "Expert Fighter Navigation",
+    "tech level": 8,
+    "manufacturing time": "24:00:00",
+    "manufacturing cost": 25000000,
     "pi requirements": {
-        "sheen compound": 4935,
-        "precious alloy": 5078,
-        "fiber composite": 5445,
-        "dark compound": 4644,
-        "heavy mentals": 5541
+        "nanites": 506274
     },
-    "ore requirements": {
-        "tritanium": 217251,
-        "pyrite": 48321,
-        "mexallon": 13713,
-        "isogen": 2762,
-        "noxium": 819,
-        "zydrine": 290,
-        "megacyte": 162
+    "nanocore material requirements": {
+        "combat data stream computing chip III": 300,
+        "combat learning data bank III": 3000
+    },
+    "data requirements": {
+        "drone experiment data": 300,
+        "navigation experiment data": 300
+    },
+    "implant component requirements": {
+        "perception mimetic neuron": 450,
+        "memory mimetic neuron": 600
     }
 }

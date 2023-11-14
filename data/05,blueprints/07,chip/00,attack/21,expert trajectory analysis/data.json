@@ -1,21 +1,23 @@
 {
-    "name": "MK3 Warrior Blueprint",
+    "name": "Expert Trajectory Analysis Blueprint",
     "volume": 0.01,
-    "products": "MK3 Warrior",
-    "tech level": 3,
-    "manufacturing time": "00:10:00",
-    "manufacturing cost": 250000,
+    "products": "Expert Trajectory Analysis",
+    "tech level": 8,
+    "manufacturing time": "24:00:00",
+    "manufacturing cost": 25000000,
     "pi requirements": {
-        "sheen compound": 512,
-        "condensed alloy": 579,
-        "opulent compound": 563,
-        "dark compound": 446,
-        "reactive metals": 138
+        "nanites": 506274
     },
-    "ore requirements": {
-        "tritanium": 17930,
-        "pyrite": 4721,
-        "mexallon": 1686,
-        "isogen": 285
+    "nanocore material requirements": {
+        "combat data stream computing chip III": 300,
+        "combat learning data bank III": 3000
+    },
+    "data requirements": {
+        "cannon experiment data": 300,
+        "railgun experiment data": 300
+    },
+    "implant component requirements": {
+        "willpower mimetic neuron": 450,
+        "perception mimetic neuron": 600
     }
 }

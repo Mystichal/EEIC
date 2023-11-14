@@ -1,23 +1,23 @@
 {
-    "name": "MK7 Acolyte Blueprint",
+    "name": "Expert Shield Generation Blueprint",
     "volume": 0.01,
-    "products": "MK7 Acolyte",
-    "tech level": 7,
-    "manufacturing time": "00:35:00",
-    "manufacturing cost": 2000000,
+    "products": "Expert Shield Generation",
+    "tech level": 8,
+    "manufacturing time": "24:00:00",
+    "manufacturing cost": 25000000,
     "pi requirements": {
-        "lustering alloy": 3546,
-        "motley compound": 2740,
-        "crystal compound": 3125,
-        "base metals": 1041,
-        "reactive metals": 821
+        "nanites": 506274
     },
-    "ore requirements": {
-        "tritanium": 139842,
-        "pyrite": 30528,
-        "mexallon": 9285,
-        "isogen": 2264,
-        "noxium": 450,
-        "zydrine": 170
+    "nanocore material requirements": {
+        "damage monitor stream computing chip III": 300,
+        "defense technical data bank III": 3000
+    },
+    "data requirements": {
+        "shield experiment data": 600,
+        "engineering experiment data": 600
+    },
+    "implant component requirements": {
+        "intelligence mimetic neuron": 600,
+        "memory mimetic neuron": 450
     }
 }

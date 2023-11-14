@@ -1,7 +1,7 @@
 {
-	"name": "Swarm Carrier Defence Module Blueprint",
+	"name": "Swarm Carrier Defense Module Blueprint",
 	"volume": 0.01,
-	"products": "Swarm Carrier Defence Module",
+	"products": "Swarm Carrier Defense Module",
 	"tech level": 10,
 	"manufacturing time": "48:00:00",
 	"manufacturing cost": 350000000,
