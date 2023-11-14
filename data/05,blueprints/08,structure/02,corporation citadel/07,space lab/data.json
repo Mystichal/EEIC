@@ -1,21 +1,19 @@
 {
-    "name": "MK3 Hornet Blueprint",
+    "name": "Space Lab Blueprint",
     "volume": 0.01,
-    "products": "MK3 Hornet",
-    "tech level": 3,
-    "manufacturing time": "00:10:00",
-    "manufacturing cost": 250000,
-    "pi requirements": {
-        "sheen compound": 498,
-        "precious alloy": 416,
-        "fiber composite": 566,
-        "dark compound": 494,
-        "heavy mentals": 530
-    },
-    "ore requirements": {
-        "tritanium": 17544,
-        "pyrite": 4394,
-        "mexallon": 1967,
-        "isogen": 261
+    "products": "Space Lab",
+    "tech level": 6,
+    "manufacturing time": "12:00:00",
+    "manufacturing cost": 300000000,
+    "components requirements": {
+        "structure construction parts": 2,
+        "structure storage bay": 2,
+        "structure repair facility": 2,
+        "structure medical center": 2,
+        "structure office center": 2,
+        "structure mission network": 3,
+        "structure electromagnetic sensor": 5,
+        "structure acceleration coils": 3,
+        "structure advertisement nexus": 3
     }
 }

@@ -3,7 +3,7 @@
     "volume": 0.01,
     "products": "Structure Construction Parts",
     "tech level": 6,
-    "manufacturing time": "00:00:00",
+    "manufacturing time": "12:00:00",
     "manufacturing cost": 20000000,
     "pi requirements": {
         "reactive gas": 37586,

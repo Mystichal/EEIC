@@ -1,24 +1,18 @@
 {
-    "name": "MK9 Hornet Blueprint",
+    "name": "Insurance Office Blueprint",
     "volume": 0.01,
-    "products": "MK9 Hornet",
-    "tech level": 9,
-    "manufacturing time": "01:00:00",
-    "manufacturing cost": 3500000,
-    "pi requirements": {
-        "sheen compound": 4935,
-        "precious alloy": 5078,
-        "fiber composite": 5445,
-        "dark compound": 4644,
-        "heavy mentals": 5541
-    },
-    "ore requirements": {
-        "tritanium": 217251,
-        "pyrite": 48321,
-        "mexallon": 13713,
-        "isogen": 2762,
-        "noxium": 819,
-        "zydrine": 290,
-        "megacyte": 162
+    "products": "Insurance Office",
+    "tech level": 6,
+    "manufacturing time": "12:00:00",
+    "manufacturing cost": 300000000,
+    "components requirements": {
+        "structure construction parts": 2,
+        "structure storage bay": 2,
+        "structure repair facility": 2,
+        "structure medical center": 2,
+        "structure office center": 5,
+        "structure mission network": 5,
+        "structure electromagnetic sensor": 2,
+        "structure advertisement nexus": 3
     }
 }

@@ -1,23 +1,20 @@
 {
-    "name": "MK7 Hobgoblin Blueprint",
+    "name": "Cynosural Jammer Tower Blueprint",
     "volume": 0.01,
-    "products": "MK7 Hobgoblin",
-    "tech level": 7,
-    "manufacturing time": "00:35:00",
-    "manufacturing cost": 2000000,
-    "pi requirements": {
-        "gleaming alloy": 3773,
-        "lucent compound": 3117,
-        "crystal compound": 3341,
-        "noble metals": 3033,
-        "toxic metals": 879
-    },
-    "ore requirements": {
-        "tritanium": 123390,
-        "pyrite": 34209,
-        "mexallon": 9861,
-        "isogen": 1503,
-        "noxium": 561,
-        "zydrine": 197
+    "products": "Cynosural Jammer Tower",
+    "tech level": 6,
+    "manufacturing time": "12:00:00",
+    "manufacturing cost": 350000000,
+    "components requirements": {
+        "structure construction parts": 2,
+        "structure hangar array": 2,
+        "structure storage bay": 2,
+        "structure repair facility": 2,
+        "structure docking bay": 2,
+        "structure office center": 2,
+        "structure mission network": 2,
+        "structure electromagnetic sensor": 3,
+        "structure acceleration coils": 3,
+        "structure advertisement nexus": 6
     }
 }

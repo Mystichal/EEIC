@@ -3,7 +3,7 @@
     "volume": 0.01,
     "products": "Structure Storage Bay",
     "tech level": 6,
-    "manufacturing time": "00:00:00",
+    "manufacturing time": "24:00:00",
     "manufacturing cost": 20000000,
     "pi requirements": {
         "noble gas": 27800,

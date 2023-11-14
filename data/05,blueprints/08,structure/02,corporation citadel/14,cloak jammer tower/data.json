@@ -1,21 +1,19 @@
 {
-    "name": "MK3 Hobgoblin Blueprint",
+    "name": "Cloak Jammer Tower Blueprint",
     "volume": 0.01,
-    "products": "MK3 Hobgoblin",
-    "tech level": 3,
-    "manufacturing time": "00:10:00",
-    "manufacturing cost": 250000,
-    "pi requirements": {
-        "gleaming alloy": 476,
-        "lucent compound": 611,
-        "crystal compound": 471,
-        "noble metals": 560,
-        "toxic metals": 114
-    },
+    "products": "Cloak Jammer Tower",
+    "tech level": 10,
+    "manufacturing time": "24:00:00",
+    "manufacturing cost": 500000000,
     "ore requirements": {
-        "tritanium": 23327,
-        "pyrite": 4862,
-        "mexallon": 1391,
-        "isogen": 249
+        "morphite": 68751
+    },
+    "components requirements": {
+        "structure construction parts": 2,
+        "structure laboratory": 3,
+        "structure repair facility": 2,
+        "structure electromagnetic sensor": 6,
+        "structure advertisement nexus": 6,
+        "fullero-ferrocene": 168374
     }
 }

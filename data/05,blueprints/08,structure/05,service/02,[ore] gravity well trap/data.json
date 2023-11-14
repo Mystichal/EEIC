@@ -1,23 +1,24 @@
 {
-    "name": "MK7 Acolyte Blueprint",
+    "name": "[Ore] Gravity Well Trap Blueprint",
     "volume": 0.01,
-    "products": "MK7 Acolyte",
-    "tech level": 7,
-    "manufacturing time": "00:35:00",
-    "manufacturing cost": 2000000,
+    "products": "[Ore] Gravity Well Trap",
+    "tech level": 6,
+    "manufacturing time": "12:00:00",
+    "manufacturing cost": 200000000,
     "pi requirements": {
-        "lustering alloy": 3546,
-        "motley compound": 2740,
-        "crystal compound": 3125,
-        "base metals": 1041,
-        "reactive metals": 821
+        "reactive gas": 1580031,
+        "supertensile plastics": 805734,
+        "condensates": 961524,
+        "smartfab units": 1063176,
+        "nanites": 336084
     },
     "ore requirements": {
-        "tritanium": 139842,
-        "pyrite": 30528,
-        "mexallon": 9285,
-        "isogen": 2264,
-        "noxium": 450,
-        "zydrine": 170
+        "tritanium": 24974990,
+        "pyrite": 7099962,
+        "mexallon": 2013590,
+        "isogen": 389934,
+        "noxium": 106094,
+        "zydrine": 34376,
+        "megacyte": 20940
     }
 }

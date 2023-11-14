@@ -1,24 +1,24 @@
 {
-    "name": "MK9 Acolyte Blueprint",
+    "name": "[Magnetic] Gravity Well Trap Blueprint",
     "volume": 0.01,
-    "products": "MK9 Acolyte",
-    "tech level": 9,
-    "manufacturing time": "01:00:00",
-    "manufacturing cost": 3500000,
+    "products": "[Magnetic] Gravity Well Trap",
+    "tech level": 6,
+    "manufacturing time": "12:00:00",
+    "manufacturing cost": 250000000,
     "pi requirements": {
-        "lustering alloy": 4409,
-        "motley compound": 5817,
-        "crystal compound": 5104,
-        "base metals": 1353,
-        "reactive metals": 1424
+        "noble gas": 1906979,
+        "polyaramids": 1163910,
+        "condensates": 1340960,
+        "construction blocks": 1718957,
+        "silicate glass": 928154
     },
     "ore requirements": {
-        "tritanium": 189348,
-        "pyrite": 41073,
-        "mexallon": 16026,
-        "isogen": 3287,
-        "noxium": 909,
-        "zydrine": 285,
-        "megacyte": 144
+        "tritanium": 40170297,
+        "pyrite": 7665069,
+        "mexallon": 2655729,
+        "isogen": 533270,
+        "noxium": 143033,
+        "zydrine": 52808,
+        "megacyte": 24155
     }
 }

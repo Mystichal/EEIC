@@ -1,24 +1,23 @@
 {
-    "name": "MK9 Acolyte Blueprint",
+    "name": "Capital Ship Parts Factory Blueprint",
     "volume": 0.01,
-    "products": "MK9 Acolyte",
+    "products": "Capital Ship Parts Factory",
     "tech level": 9,
-    "manufacturing time": "01:00:00",
-    "manufacturing cost": 3500000,
-    "pi requirements": {
-        "lustering alloy": 4409,
-        "motley compound": 5817,
-        "crystal compound": 5104,
-        "base metals": 1353,
-        "reactive metals": 1424
-    },
+    "manufacturing time": "24:00:00",
+    "manufacturing cost": 700000000,
     "ore requirements": {
-        "tritanium": 189348,
-        "pyrite": 41073,
-        "mexallon": 16026,
-        "isogen": 3287,
-        "noxium": 909,
-        "zydrine": 285,
-        "megacyte": 144
+        "morphite": 91668
+    },
+    "components requirements": {
+        "structure construction parts": 3,
+        "structure hangar array": 3,
+        "structure storage bay": 2,
+        "structure laboratory": 3,
+        "structure factory": 8,
+        "structure repair facility": 3,
+        "structure reprocessing plant": 3,
+        "structure docking bay": 5,
+        "structure office center": 2,
+        "fullero-ferrocene": 224498
     }
 }

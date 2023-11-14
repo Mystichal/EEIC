@@ -1,23 +1,15 @@
 {
-    "name": "MK7 Hornet Blueprint",
+    "name": "Anomaly Observation Array Blueprint",
     "volume": 0.01,
-    "products": "MK7 Hornet",
-    "tech level": 7,
-    "manufacturing time": "00:35:00",
-    "manufacturing cost": 2000000,
-    "pi requirements": {
-        "sheen compound": 3837,
-        "precious alloy": 2640,
-        "fiber composite": 3582,
-        "dark compound": 3017,
-        "heavy mentals": 3335
-    },
-    "ore requirements": {
-        "tritanium": 118961,
-        "pyrite": 32063,
-        "mexallon": 12170,
-        "isogen": 2033,
-        "noxium": 425,
-        "zydrine": 173
+    "products": "Anomaly Observation Array",
+    "tech level": 6,
+    "manufacturing time": "12:00:00",
+    "manufacturing cost": 300000000,
+    "components requirements": {
+        "structure construction parts": 2,
+        "structure storage bay": 2,
+        "structure office center": 2,
+        "structure electromagnetic sensor": 5,
+        "structure advertisement nexus": 11
     }
 }

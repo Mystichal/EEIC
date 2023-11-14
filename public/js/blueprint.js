@@ -59,7 +59,7 @@ const blueprint = JSON.parse(
 			"structure laboratory": 0,
 			"structure factory": 0,
 			"structure repair facility": 0,
-			"structure reprocessing": 0,
+			"structure reprocessing plant": 0,
 			"structure docking bay": 0,
 			"structure market network": 0,
 			"structure medical center": 0,

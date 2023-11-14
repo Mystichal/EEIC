@@ -1,22 +1,36 @@
 {
-    "name": "MK5 Acolyte Blueprint",
+    "name": "Capsuleer Scout Outpost Blueprint",
     "volume": 0.01,
-    "products": "MK5 Acolyte",
-    "tech level": 5,
-    "manufacturing time": "00:25:00",
-    "manufacturing cost": 850000,
-    "pi requirements": {
-        "lustering alloy": 1748,
-        "motley compound": 1631,
-        "crystal compound": 1427,
-        "base metals": 381,
-        "reactive metals": 435
-    },
+    "products": "Capsuleer Scout Outpost",
+    "tech level": 10,
+    "manufacturing time": "240:00:00",
+    "manufacturing cost": 350000000,
     "ore requirements": {
-        "tritanium": 68979,
-        "pyrite": 13320,
-        "mexallon": 4580,
-        "isogen": 887,
-        "noxium": 269
+        "morphite": 19401
+    },
+    "components requirements": {
+        "structure construction parts": 2,
+        "structure storage bay": 2,
+        "structure repair facility": 3,
+        "structure docking bay": 3,
+        "structure market network": 3,
+        "structure medical center": 3,
+        "structure office center": 3
+    },
+    "components requirements": {
+        "structure construction parts": 2,
+        "structure hangar array": 3,
+        "structure storage bay": 2,
+        "structure laboratory": 2,
+        "structure factory": 2,
+        "structure repair facility": 3,
+        "structure reprocessing plant": 2,
+        "structure docking bay": 2,
+        "structure medical center": 2,
+        "structure office center": 2,
+        "structure mission network": 2,
+        "structure electromagnetic sensor": 2,
+        "structure acceleration coils": 2,
+        "fullero-ferrocene": 332589
     }
 }
