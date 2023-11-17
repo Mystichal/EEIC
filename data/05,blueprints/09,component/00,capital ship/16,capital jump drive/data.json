@@ -1,22 +1,25 @@
 {
-    "name": "MK5 Small Shield Field Module Blueprint",
+    "name": "Capital Jump Drive Blueprint",
     "volume": 0.01,
-    "products": "MK5 Small Shield Field Module",
-    "tech level": 5,
-    "manufacturing time": "00:25:00",
-    "manufacturing cost": 950000,
+    "products": "Capital Jump Drive",
+    "tech level": 9,
+    "manufacturing time": "24:00:00",
+    "manufacturing cost": 150000000,
     "pi requirements": {
-        "precious alloy": 1226,
-        "dark compound": 1500,
-        "base metals": 410,
-        "reactive metals": 359,
-        "toxic metals": 428
+        "sheen compound": 91613,
+        "fiber composite": 96962,
+        "dark compound": 91613,
+        "reactive metals": 24110,
+        "toxic metals": 23910
     },
     "ore requirements": {
-        "tritanium": 70274,
-        "pyrite": 21613,
-        "mexallon": 7124,
-        "isogen": 1119,
-        "noxium": 327
+        "tritanium": 7267007,
+        "pyrite": 1703027,
+        "mexallon": 567962,
+        "isogen": 95858,
+        "noxium": 26856,
+        "zydrine": 10776,
+        "megacyte": 5439,
+        "morphite": 1464
     }
 }

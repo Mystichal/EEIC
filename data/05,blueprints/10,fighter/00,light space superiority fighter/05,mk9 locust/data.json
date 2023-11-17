@@ -1,19 +1,17 @@
 {
-    "name": "Caracal Blueprint",
+    "name": " Blueprint",
     "volume": 0.01,
-    "products": "Caracal",
-    "tech level": "5",
-    "manufacturing time": "01:06:40",
-    "manufacturing cost": 2000000,
-    "material efficiency": 150,
-    "time efficiency": 100,
+    "products": "",
+    "tech level": 10,
+    "manufacturing time": "04:00:00",
+    "manufacturing cost": 20000000,
     "pi requirements": {
-        "lustering alloy": 4853,
+        "lustering alloy": 0,
         "sheen compound": 0,
-        "gleaming alloy": 4883,
+        "gleaming alloy": 0,
         "condensed alloy": 0,
         "precious alloy": 0,
-        "motley compound": 4883,
+        "motley compound": 0,
         "fiber composite": 0,
         "lucent compound": 0,
         "opulent compound": 0,
@@ -22,9 +20,9 @@
         "dark compound": 0,
         "reactive gas": 0,
         "noble gas": 0,
-        "base metals": 1457,
+        "base metals": 0,
         "heavy mentals": 0,
-        "noble metals": 5532,
+        "noble metals": 0,
         "reactive metals": 0,
         "toxic metals": 0,
         "industrial fibers": 0,
@@ -40,16 +38,13 @@
         "non-cs crystals": 0
     },
     "ore requirements": {
-        "tritanium": 829805,
-        "pyrite": 233760,
-        "mexallon": 67421,
-        "isogen": 10085,
+        "tritanium": 0,
+        "pyrite": 0,
+        "mexallon": 0,
+        "isogen": 0,
         "noxium": 0,
         "zydrine": 0,
         "megacyte": 0,
-        "morphite": 0,
-        "compressed tritanium": 0
-    },
-    "obtainable": [],
-    "description": ""
+        "morphite": 0
+    }
 }
