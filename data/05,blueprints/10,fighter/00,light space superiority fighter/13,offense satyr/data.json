@@ -1,16 +1,16 @@
 {
-    "name": "Offense Gram Blueprint",
+    "name": "Offense Satyr Blueprint",
     "volume": 0.01,
-    "products": "Offense Gram",
+    "products": "Offense Satyr",
     "tech level": 10,
-    "manufacturing time": "04:00:00",
+    "manufacturing time": "05:00:00",
     "manufacturing cost": 15000000,
     "pi requirements": {
-        "gleaming alloy": 92489,
-        "motley compound": 65945,
-        "lucent compound": 77255,
-        "dark compound": 92793,
-        "noble metals": 110429
+        "sheen compound": 108333,
+        "fiber composite": 90693,
+        "crystal compound": 88067,
+        "heavy mentals": 79031,
+        "toxic metals": 21438
     },
     "ore requirements": {
         "tritanium": 3890838,

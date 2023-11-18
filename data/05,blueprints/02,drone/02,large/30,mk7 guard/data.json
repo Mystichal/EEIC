@@ -2,6 +2,7 @@
     "name": "MK7 Guard Blueprint",
     "volume": 0.01,
     "products": "MK7 Guard",
+    "production amount": 3,
     "tech level": 7,
     "manufacturing time": "00:35:00",
     "manufacturing cost": 6000000,

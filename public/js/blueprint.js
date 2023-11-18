@@ -1,7 +1,7 @@
 const blueprint = JSON.parse(
 	`{
 		"name": "",
-		"volume": 0,
+		"volume": 0.01,
 		"products": "",
 		"production amount": 1,
 		"tech level": 0,
@@ -38,6 +38,7 @@ const blueprint = JSON.parse(
 			"nanites": 0,
 			"silicate glass": 0,
 			"smartfab units": 0,
+			"oxygen isotopes": 0,
 			"precious metals": 0,
 			"non-cs crystals": 0
 		},
@@ -50,7 +51,9 @@ const blueprint = JSON.parse(
 			"zydrine": 0,
 			"megacyte": 0,
 			"morphite": 0,
-			"compressed tritanium": 0
+			"fullerite-c50": 0,
+			"fullerite-c60": 0,
+			"fullerite-c70": 0
 		},
 		"components requirements": {
 			"structure construction parts": 0,

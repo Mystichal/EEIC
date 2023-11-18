@@ -2,6 +2,7 @@
     "name": "MK9 Hammerhead Blueprint",
     "volume": 0.01,
     "products": "MK9 Hammerhead",
+    "production amount": 5,
     "tech level": 9,
     "manufacturing time": "01:00:00",
     "manufacturing cost": 3500000,

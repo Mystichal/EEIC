@@ -1,16 +1,16 @@
 {
-    "name": "Assult Equite Blueprint",
+    "name": "Assult Satyr Blueprint",
     "volume": 0.01,
-    "products": "Assult Equite",
+    "products": "Assult Satyr",
     "tech level": 10,
     "manufacturing time": "04:00:00",
     "manufacturing cost": 9000000,
     "pi requirements": {
-        "precious alloy": 57522,
-        "lucent compound": 74946,
-        "glossy compound": 55886,
-        "crystal compound": 70092,
-        "toxic metals": 14070
+        "lustering alloy": 80207,
+        "fiber composite": 67146,
+        "crystal compound": 65202,
+        "heavy mentals": 58511,
+        "toxic metals": 15872
     },
     "ore requirements": {
         "tritanium": 2880633,

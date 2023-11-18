@@ -2,6 +2,7 @@
     "name": "MK9 Covert Ops Cloaking Device Blueprint",
     "volume": 0.01,
     "products": "MK9 Covert Ops Cloaking Device",
+    "production amount": 5,
     "tech level": 9,
     "manufacturing time": "01:00:00",
     "manufacturing cost": 15000000,

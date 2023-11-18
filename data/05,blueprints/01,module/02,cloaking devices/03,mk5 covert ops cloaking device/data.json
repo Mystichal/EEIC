@@ -2,6 +2,7 @@
     "name": "MK5 Covert Ops Cloaking Device Blueprint",
     "volume": 0.01,
     "products": "MK5 Covert Ops Cloaking Device",
+    "production amount": 5,
     "tech level": 5,
     "manufacturing time": "00:25:00",
     "manufacturing cost": 5000000,

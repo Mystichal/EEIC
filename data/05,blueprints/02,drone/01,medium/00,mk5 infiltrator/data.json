@@ -2,6 +2,7 @@
     "name": "MK5 Infiltrator Blueprint",
     "volume": 0.01,
     "products": "MK5 Infiltrator",
+    "production amount": 5,
     "tech level": 5,
     "manufacturing time": "00:25:00",
     "manufacturing cost": 850000,

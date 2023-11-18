@@ -2,6 +2,7 @@
     "name": "MK9 Berserker Blueprint",
     "volume": 0.01,
     "products": "MK9 Berserker",
+    "production amount": 3,
     "tech level": 9,
     "manufacturing time": "01:00:00",
     "manufacturing cost": 8000000,

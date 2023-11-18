@@ -2,6 +2,7 @@
     "name": "MK3 Hornet Blueprint",
     "volume": 0.01,
     "products": "MK3 Hornet",
+    "production amount": 10,
     "tech level": 3,
     "manufacturing time": "00:10:00",
     "manufacturing cost": 250000,

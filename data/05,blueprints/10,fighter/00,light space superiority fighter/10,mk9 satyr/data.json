@@ -1,17 +1,17 @@
 {
-    "name": "MK9 Gram Blueprint",
+    "name": "MK9 Satyr Blueprint",
     "volume": 0.01,
-    "products": "MK9 Gram",
+    "products": "MK9 Satyr",
     "production amount": 2,
     "tech level": 10,
     "manufacturing time": "04:00:00",
     "manufacturing cost": 20000000,
     "pi requirements": {
-        "sheen compound": 37514,
-        "fiber composite": 36689,
-        "dark compound": 26276,
-        "heavy mentals": 32341,
-        "toxic metals": 7437
+        "lustering alloy": 27473,
+        "motley compound": 26024,
+        "crystal compound": 29513,
+        "base metals": 10847,
+        "reactive metals": 8457
     },
     "ore requirements": {
         "tritanium": 1118061,
