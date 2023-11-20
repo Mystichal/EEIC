@@ -1,0 +1,25 @@
+{
+    "name": "Assult Locust Blueprint",
+    "volume": 0.01,
+    "products": "Assult Locust",
+    "tech level": 10,
+    "manufacturing time": "04:00:00",
+    "manufacturing cost": 9000000,
+    "pi requirements": {
+        "lustering alloy": 65291,
+        "motley compound": 63255,
+        "glossy compound": 58649,
+        "dark compound": 55224,
+        "base metals": 20234
+    },
+    "ore requirements": {
+        "tritanium": 2843384,
+        "pyrite": 538818,
+        "mexallon": 204819,
+        "isogen": 35852,
+        "noxium": 9687,
+        "zydrine": 3831,
+        "megacyte": 1710,
+        "morphite": 597
+    }
+}

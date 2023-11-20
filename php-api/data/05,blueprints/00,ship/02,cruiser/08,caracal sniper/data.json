@@ -1,0 +1,24 @@
+{
+    "name": "Caracal Sniper Blueprint",
+    "volume": 0.01,
+    "products": "Caracal Sniper",
+    "tech level": 8,
+    "manufacturing time": "08:53:20",
+    "manufacturing cost": 30000000,
+    "pi requirements": {
+        "gleaming alloy": 19511,
+        "precious alloy": 17322,
+        "opulent compound": 22106,
+        "noble metals": 22106,
+        "reactive metals": 5498,
+    },
+    "ore requirements": {
+        "tritanium": 7249368,
+        "pyrite": 2508671,
+        "mexallon": 687267,
+        "isogen": 113087,
+        "noxium": 31763,
+        "zydrine": 13062,
+        "megacyte": 5319
+    }
+}

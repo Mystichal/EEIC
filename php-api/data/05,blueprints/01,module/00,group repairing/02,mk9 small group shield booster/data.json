@@ -1,0 +1,24 @@
+{
+    "name": "MK9 Small Group Shield Booster Blueprint",
+    "volume": 0.01,
+    "products": "MK9 Small Group Shield Booster",
+    "tech level": 9,
+    "manufacturing time": "01:00:00",
+    "manufacturing cost": 2500000,
+    "pi requirements": {
+        "condensed alloy": 3506,
+        "motley compound": 3305,
+        "glossy compound": 2505,
+        "noble metals": 3340,
+        "reactive metals": 813
+    },
+    "ore requirements": {
+        "tritanium": 165107,
+        "pyrite": 37346,
+        "mexallon": 13193,
+        "isogen": 2907,
+        "noxium": 596,
+        "zydrine": 279,
+        "megacyte": 128
+    }
+}

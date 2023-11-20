@@ -1,0 +1,23 @@
+{
+    "name": "Retriever Blueprint",
+    "volume": 0.01,
+    "products": "Retriever",
+    "tech level": 7,
+    "manufacturing time": "02:13:20",
+    "manufacturing cost": 15000000,
+    "pi requirements": {
+        "condensed alloy": 13409,
+        "precious alloy": 10508,
+        "opulent compound": 13409,
+        "reactive metals": 3335,
+        "toxic metals": 3308
+    },
+    "ore requirements": {
+        "tritanium": 3925214,
+        "pyrite": 966006,
+        "mexallon": 331332,
+        "isogen": 49862,
+        "noxium": 16247,
+        "zydrine": 5091
+    }
+}

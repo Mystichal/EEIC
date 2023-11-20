@@ -1,0 +1,25 @@
+{
+    "name": "Capital Contruction Parts Blueprint",
+    "volume": 0.01,
+    "products": "Capital Contruction Parts",
+    "tech level": 9,
+    "manufacturing time": "24:00:00",
+    "manufacturing cost": 150000000,
+    "pi requirements": {
+        "sheen compound": 91613,
+        "condensed alloy": 96962,
+        "fiber composite": 96962,
+        "glossy compound": 85578,
+        "base metals": 25517
+    },
+    "ore requirements": {
+        "tritanium": 6332678,
+        "pyrite": 1828866,
+        "mexallon": 608121,
+        "isogen": 94844,
+        "noxium": 30674,
+        "zydrine": 9080,
+        "megacyte": 4914,
+        "morphite": 1697
+    }
+}

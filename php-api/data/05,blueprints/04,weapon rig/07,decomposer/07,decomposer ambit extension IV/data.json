@@ -1,0 +1,15 @@
+{
+    "name": "Decomposer Ambit Extension IV Blueprint",
+    "volume": 0.01,
+    "products": "Decomposer Ambit Extension IV",
+    "tech level": 10,
+    "manufacturing time": "62:30:00",
+    "manufacturing cost": 600000,
+    "salvaged part requirements": {
+        "smashed trigger unit": 510,
+        "damaged close-in weapon system": 855,
+        "scorched telemetry processor": 1590,
+        "damaged artificial neural network":317,
+        "conductive polymer": 15165
+    }
+}

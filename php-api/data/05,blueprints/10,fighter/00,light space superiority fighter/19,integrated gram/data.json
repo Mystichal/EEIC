@@ -1,0 +1,27 @@
+{
+    "name": "Integrated Gram Blueprint",
+    "volume": 0.01,
+    "products": "Integrated Gram",
+    "tech level": 10,
+    "manufacturing time": "04:00:00",
+    "manufacturing cost": 20000000,
+    "pi requirements": {
+        "gleaming alloy": 115644,
+        "motley compound": 82455,
+        "lucent compound": 96596,
+        "dark compound": 116025,
+        "noble metals": 138077,
+        "precious metals": 13527,
+        "non-cs crystals": 14718
+    },
+    "ore requirements": {
+        "tritanium": 4802051,
+        "pyrite": 909984,
+        "mexallon": 345909,
+        "isogen": 60546,
+        "noxium": 16361,
+        "zydrine": 6470,
+        "megacyte": 2888,
+        "morphite": 1008
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Capital Projectile Amibt Extension I Blueprint",
+    "volume": 0.01,
+    "products": "Capital Projectile Amibt Extension I",
+    "tech level": 10,
+    "manufacturing time": "62:30:00",
+    "manufacturing cost": 15000000,
+    "salvaged part requirements": {
+        "capital burned logic circuit": 1115,
+        "capital contaminated nanite compound": 696
+    }
+}

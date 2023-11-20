@@ -1,0 +1,12 @@
+{
+    "name": "Warp Core Optimizer III Blueprint",
+    "volume": 0.01,
+    "products": "Warp Core Optimizer III",
+    "tech level": 8,
+    "manufacturing time": "12:30:00",
+    "manufacturing cost": 150000,
+    "salvage part requirements": {
+        "tripped power circuit": 362,
+        "contaminated nanite polymer": 137
+    }
+}

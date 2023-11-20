@@ -1,0 +1,12 @@
+{
+	"name": "Fighter Flight Accelerator I Blueprint",
+	"volume": 0.01,
+	"products": "Fighter Flight Accelerator I",
+	"tech level": 10,
+    "manufacturing time": "62:30:00",
+    "manufacturing cost": 20000000,
+    "salvaged part requirements": {
+        "capital burned logic circuit": 1140,
+        "capital damaged artificial neural network": 570
+    }
+}

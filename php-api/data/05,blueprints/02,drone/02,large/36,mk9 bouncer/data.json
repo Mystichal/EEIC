@@ -1,0 +1,25 @@
+{
+    "name": "MK9 Bouncer Blueprint",
+    "volume": 0.01,
+    "products": "MK9 Bouncer",
+    "production amount": 3,
+    "tech level": 9,
+    "manufacturing time": "01:00:00",
+    "manufacturing cost": 10000000,
+    "pi requirements": {
+        "lustering alloy": 15500,
+        "motley compound": 15452,
+        "dark compound": 16542,
+        "base metals": 4388,
+        "noble metals": 14408
+    },
+    "ore requirements": {
+        "tritanium": 609852,
+        "pyrite": 126105,
+        "mexallon": 45102,
+        "isogen": 9860,
+        "noxium": 2712,
+        "zydrine": 957,
+        "megacyte": 369
+    }
+}

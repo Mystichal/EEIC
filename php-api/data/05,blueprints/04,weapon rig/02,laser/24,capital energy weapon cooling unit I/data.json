@@ -1,0 +1,12 @@
+{
+    "name": "Capital Energy Weapon Cooling Unit I Blueprint",
+    "volume": 0.01,
+    "products": "Capital Energy Weapon Cooling Unit I",
+    "tech level": 10,
+    "manufacturing time": "62:30:00",
+    "manufacturing cost": 7500000,
+    "salvaged part requirements": {
+        "capital damaged artificial neural network": 317,
+        "capital conductive polymer": 1583
+    }
+}

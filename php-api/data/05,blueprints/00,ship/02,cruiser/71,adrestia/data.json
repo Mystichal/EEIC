@@ -1,0 +1,33 @@
+{
+	"name": "Adrestia Blueprint",
+	"volume": 0.01,
+	"products": "Adrestia",
+	"tech level": 10,
+	"manufacturing time": "26:40:00",
+	"manufacturing cost": 450000000,
+	"pi requirements": {
+		"condensed alloy": 3459359,
+		"precious alloy": 2710728,
+		"opulent compound": 3459359,
+		"reactive metals": 86041,
+		"toxic metals": 853059,
+		"super tensile plastics": 1994718,
+		"nanites": 860141
+	},
+	"ore requirements": {
+		"tritanium": 140748572,
+		"pyrite": 32685180,
+		"mexallon": 11667050,
+		"isogen": 2497158,
+		"noxium": 671724,
+		"zydrine": 203618,
+		"megacyte": 79205,
+		"morphite": 29666
+	},
+	"component requirements": {
+		"ppd fullerene fiber": 12000,
+	},
+	"ship requirements": {
+		"vigilant": 2
+	}
+}

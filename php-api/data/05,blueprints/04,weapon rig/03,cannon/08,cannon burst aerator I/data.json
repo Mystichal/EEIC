@@ -1,0 +1,12 @@
+{
+    "name": "Cannon Burst Aerator I Blueprint",
+    "volume": 0.01,
+    "products": "Cannon Burst Aerator I",
+    "tech level": 4,
+    "manufacturing time": "00:30:00",
+    "manufacturing cost": 15000,
+    "salvage part requirements": {
+        "charred micro circuit": 132,
+        "contaminated nanite polymer": 24
+    }
+}

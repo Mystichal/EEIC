@@ -1,0 +1,25 @@
+{
+    "name": "Republic Fleet Gram Blueprint",
+    "volume": 0.01,
+    "products": "Republic Fleet Gram",
+    "tech level": 10,
+    "manufacturing time": "03:00:00",
+    "manufacturing cost": 6500000,
+    "pi requirements": {
+        "gleaming alloy": 47556,
+        "motley compound": 33908,
+        "lucent compound": 39723,
+        "dark compound": 47712,
+        "noble metals": 56780
+    },
+    "ore requirements": {
+        "tritanium": 1974701,
+        "pyrite": 374204,
+        "mexallon": 142245,
+        "isogen": 24899,
+        "noxium": 6728,
+        "zydrine": 2661,
+        "megacyte": 1188,
+        "morphite": 416
+    }
+}

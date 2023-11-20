@@ -1,0 +1,24 @@
+{
+    "name": "Scorpion Blueprint",
+    "volume": 0.01,
+    "products": "Scorpion",
+    "tech level": 9,
+    "manufacturing time": "26:40:00",
+    "manufacturing cost": 100000000,
+    "pi requirements": {
+        "gleaming alloy": 112209,
+        "precious alloy": 99621,
+        "crystal compound": 119132,
+        "noble metals": 127134,
+        "reactive metals": 31611
+    },
+    "ore requirements": {
+        "tritanium": 27306665,
+        "pyrite": 7809606,
+        "mexallon": 2781668,
+        "isogen": 450418,
+        "noxium": 139871,
+        "zydrine": 41306,
+        "megacyte": 19925
+    }
+}

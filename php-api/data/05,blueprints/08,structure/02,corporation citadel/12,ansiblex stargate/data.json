@@ -1,0 +1,19 @@
+{
+	"name": "Ansiblex Stargate Blueprint",
+	"volume": 0.01,
+	"products": "Ansiblex Stargate",
+	"tech level": 6,
+	"manufacturing time": "12:00:00",
+	"components requirements": {
+		"structure construction parts": 5,
+		"structure hangar array": 8,
+		"structure storage bay": 6,
+		"structure repair facility": 8,
+		"structure docking bay": 8,
+		"structure market network": 8,
+		"structure office center": 11,
+		"structure electromagnetic sensor": 11,
+		"structure acceleration coils": 27,
+		"structure advertisement nexus": 21
+	}
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Miner Efficiency Upgrade I Blueprint",
+    "volume": 0.01,
+    "products": "Miner Efficiency Upgrade I",
+    "tech level": 4,
+    "manufacturing time": "00:30:00",
+    "manufacturing cost": 15000,
+    "salvage part requirements": {
+        "smashed trigger unit": 71,
+        "conductive polymer": 86
+    }
+}

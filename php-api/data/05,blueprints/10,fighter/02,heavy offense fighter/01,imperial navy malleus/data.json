@@ -1,0 +1,25 @@
+{
+    "name": "Imperial Navy Malleus Blueprint",
+    "volume": 0.01,
+    "products": "Imperial Navy Malleus",
+    "tech level": 10,
+    "manufacturing time": "04:00:00",
+    "manufacturing cost": 30000000,
+    "pi requirements": {
+        "sheen compound": 93852,
+        "condensed alloy": 112217,
+        "opulent compound": 106311,
+        "crystal compound": 100122,
+        "reactive metals": 27903
+    },
+    "ore requirements": {
+        "tritanium": 3583395,
+        "pyrite": 970932,
+        "mexallon": 273212,
+        "isogen": 55329,
+        "noxium": 16673,
+        "zydrine": 5913,
+        "megacyte": 2874,
+        "morphite": 921
+    }
+}

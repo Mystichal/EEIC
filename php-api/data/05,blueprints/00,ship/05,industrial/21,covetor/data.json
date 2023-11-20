@@ -1,0 +1,24 @@
+{
+    "name": "Covetor Blueprint",
+    "volume": 0.01,
+    "products": "Covetor",
+    "tech level": 10,
+    "manufacturing time": "08:53:20",
+    "manufacturing cost": 70000000,
+    "pi requirements": {
+        "condensed alloy": 53180,
+        "precious alloy": 41672,
+        "opulent compound": 53180,
+        "reactive metals": 13224,
+        "toxic metals": 13115
+    },
+    "ore requirements": {
+        "tritanium": 23352626,
+        "pyrite": 4881602,
+        "mexallon": 2061441,
+        "isogen": 281345,
+        "noxium": 73035,
+        "zydrine": 31970,
+        "megacyte": 16055
+    }
+}

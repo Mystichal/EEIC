@@ -1,0 +1,12 @@
+{
+    "name": "Capital Targeting System Subcontroller I Blueprint",
+    "volume": 0.01,
+    "products": "Capital Targeting System Subcontroller I",
+    "tech level": 10,
+    "manufacturing time": "62:30:00",
+    "manufacturing cost": 8500000,
+    "salvaged part requirements": {
+        "capital damaged artificial neural network": 359,
+        "capital conductive polymer": 1794
+    }
+}

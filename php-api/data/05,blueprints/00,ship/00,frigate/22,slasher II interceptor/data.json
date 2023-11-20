@@ -1,0 +1,24 @@
+{
+    "name": "Slasher II Interceptor Blueprint",
+    "volume": 0.01,
+    "products": "Slasher II Interceptor",
+    "tech level": 10,
+    "manufacturing time": "08:53:20",
+    "manufacturing cost": 40000000,
+    "pi requirements": {
+        "gleaming alloy": 23451,
+        "precious alloy": 20820,
+        "fiber composite": 26570,
+        "noble metals": 26570,
+        "reactive metals": 6608
+    },
+    "ore requirements": {
+        "tritanium": 9859991,
+        "pyrite": 3168719,
+        "mexallon": 873831,
+        "isogen": 175419,
+        "noxium": 48411,
+        "zydrine": 15765,
+        "megacyte": 9305
+    }
+}

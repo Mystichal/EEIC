@@ -1,0 +1,24 @@
+{
+    "name": "Brutix Blueprint",
+    "volume": 0.01,
+    "products": "Brutix",
+    "tech level": 8,
+    "manufacturing time": "13:20:00",
+    "manufacturing cost": 40000000,
+    "pi requirements": {
+        "sheen compound": 31959,
+        "precious alloy": 26505,
+        "glossy compound": 29855,
+        "heavy mentals": 31959,
+        "reactive metals": 8411
+    },
+    "ore requirements": {
+        "tritanium": 10973706,
+        "pyrite": 3664278,
+        "mexallon": 1041545,
+        "isogen": 165909,
+        "noxium": 55781,
+        "zydrine": 20357,
+        "megacyte": 7814
+    }
+}

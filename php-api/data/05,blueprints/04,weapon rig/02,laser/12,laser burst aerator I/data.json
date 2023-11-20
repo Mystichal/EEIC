@@ -1,0 +1,12 @@
+{
+    "name": "Laser Burst Aerator I Blueprint",
+    "volume": 0.01,
+    "products": "Laser Burst Aerator I",
+    "tech level": 4,
+    "manufacturing time": "00:30:00",
+    "manufacturing cost": 15000,
+    "salvage part requirements": {
+        "smashed trigger unit": 66,
+        "conductive polymer": 92
+    }
+}

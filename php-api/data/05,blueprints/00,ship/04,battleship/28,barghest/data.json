@@ -1,0 +1,24 @@
+{
+    "name": "Barghest Blueprint",
+    "volume": 0.01,
+    "products": "Barghest",
+    "tech level": 8,
+    "manufacturing time": "120:00:00",
+    "manufacturing cost": 550000000,
+    "pi requirements": {
+        "condensed alloy": 428154,
+        "precious alloy": 335499,
+        "crystal compound": 401205,
+        "reactive metals": 106458,
+        "toxic metals": 105581
+    },
+    "ore requirements": {
+        "tritanium": 157493285,
+        "pyrite": 38550884,
+        "mexallon": 14878958,
+        "isogen": 2864033,
+        "noxium": 828489,
+        "zydrine": 247049,
+        "megacyte": 123845
+    }
+}

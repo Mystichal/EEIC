@@ -1,0 +1,24 @@
+{
+	"name": "Brutix Guardian Blueprint",
+	"volume": 0.01,
+	"products": "Brutix Guardian",
+	"tech level": 10,
+	"manufacturing time": "33:20:00",
+	"manufacturing cost": 350000000,
+	"pi requirements": {
+		"sheen compound": 121214,
+		"precious alloy": 100527,
+		"glossy compound": 113229,
+		"heavy mentals": 121214,
+		"reactive metals": 31899
+	},
+	"ore requirements": {
+		"tritanium": 113403260,
+		"pyrite": 24109086,
+		"mexallon": 7675538,
+		"isogen": 1866264,
+		"noxium": 421796,
+		"zydrine": 153314,
+		"megacyte": 82901
+	}
+}

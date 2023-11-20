@@ -1,0 +1,23 @@
+{
+    "name": "MK7 Medium Group Shield Booster Blueprint",
+    "volume": 0.01,
+    "products": "MK7 Medium Group Shield Booster",
+    "tech level": 7,
+    "manufacturing time": "00:35:00",
+    "manufacturing cost": 3500000,
+    "pi requirements": {
+        "lustering alloy": 4272,
+        "precious alloy": 4125,
+        "lucent compound": 3707,
+        "opulent compound": 4055,
+        "heavy mentals": 4509
+    },
+    "ore requirements": {
+        "tritanium": 258974,
+        "pyrite": 69854,
+        "mexallon": 17504,
+        "isogen": 3164,
+        "noxium": 825,
+        "zydrine": 324
+    }
+}

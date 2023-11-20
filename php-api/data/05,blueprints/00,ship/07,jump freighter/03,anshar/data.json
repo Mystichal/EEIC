@@ -1,0 +1,26 @@
+{
+	"name": "Anshar Blueprint",
+	"volume": 0.01,
+	"products": "Anshar",
+	"tech level": 10,
+	"manufacturing time": "720:00:00",
+	"manufacturing cost": 3500000000,
+	"ore requirements": {
+		"morphite": 1309529
+	},
+	"component requirements": {
+		"capital ship maintenance bay": 21,
+		"capital capacitor battery": 11,
+		"capital power generator": 15,
+		"capital armor plates": 15,
+		"capital shield emitter": 8,
+		"capital cargo bay": 32,
+		"capital computer system": 15,
+		"capital construction parts": 39,
+		"capital jump drive": 21,
+		"capital propulsion engine": 8
+	},
+	"ship requirements": {
+		"obelisk": 2
+	}
+}

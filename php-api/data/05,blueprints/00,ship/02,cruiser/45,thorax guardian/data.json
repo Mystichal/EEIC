@@ -1,0 +1,23 @@
+{
+    "name": "Thorax Guardian Blueprint",
+    "volume": 0.01,
+    "products": "Thorax Guardian",
+    "tech level": 7,
+    "manufacturing time": "04:26:40",
+    "manufacturing cost": 20000000,
+    "pi requirements": {
+        "sheen compound": 20144,
+        "precious alloy": 16706,
+        "opulent compound": 21318,
+        "heavy mentals": 20144,
+        "reactive metals": 5302
+    },
+    "ore requirements": {
+        "tritanium": 6240759,
+        "pyrite": 1535869,
+        "mexallon": 526790,
+        "isogen": 79275,
+        "noxium": 25830,
+        "zydrine": 8094
+    }
+}

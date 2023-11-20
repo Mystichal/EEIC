@@ -1,0 +1,26 @@
+{
+    "name": "Citadel 1600mm Titanium Armor Blueprint",
+    "volume": 0.01,
+    "products": "Citadel 1600mm Titanium Armor",
+    "tech level": 5,
+    "manufacturing time": "02:00:00",
+    "manufacturing cost": 4000000,
+    "pi requirements": {
+        "condensed alloy": 5477,
+        "precious alloy": 4187,
+        "motley compound": 3618,
+        "lucent compound": 4286,
+        "noble metals": 4065,
+        "precious metals": 774,
+        "non-cs crystals": 842
+    },
+    "ore requirements": {
+        "tritanium": 250577,
+        "pyrite": 63656,
+        "mexallon": 21567,
+        "isogen": 3884,
+        "noxium": 912,
+        "zydrine": 291,
+        "megacyte": 156
+    }
+}

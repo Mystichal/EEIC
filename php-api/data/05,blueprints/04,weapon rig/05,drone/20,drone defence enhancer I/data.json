@@ -1,0 +1,12 @@
+{
+    "name": "Stabber Blueprint",
+    "volume": 0.01,
+    "products": "Stabber",
+    "tech level": 4,
+    "manufacturing time": "00:30:00",
+    "manufacturing cost": 25000,
+    "salvaged part requirements": {
+        "charred micro circuit": 129,
+        "smashed trigger unit": 38
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "name": "MK7 Mining Foreman Link Blueprint",
+    "volume": 0.01,
+    "products": "MK7 Mining Foreman Link",
+    "tech level": 7,
+    "manufacturing time": "00:35:00",
+    "manufacturing cost": 1500000,
+    "pi requirements": {
+        "precious alloy": 1164,
+        "lucent compound": 1389,
+        "crystal compound": 1310,
+        "heavy mentals": 1362,
+        "reactive metals": 366
+    },
+    "ore requirements": {
+        "tritanium": 113310,
+        "pyrite": 26580,
+        "mexallon": 9176,
+        "isogen": 1508,
+        "noxium": 393,
+        "zydrine": 158,
+        "megacyte": 72
+    }
+}

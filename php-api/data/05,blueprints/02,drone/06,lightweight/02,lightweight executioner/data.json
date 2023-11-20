@@ -1,0 +1,24 @@
+{
+    "name": "Lightweight Executioner Blueprint",
+    "volume": 0.01,
+    "products": "Lightweight Executioner",
+    "tech level": 10,
+    "manufacturing time": "05:20:00",
+    "manufacturing cost": 9500000,
+    "pi requirements": {
+        "lustering alloy": 6362,
+        "base metals": 11483
+    },
+    "ore requirements": {
+        "noxium": 6362,
+        "zydrine": 2246,
+        "megacyte": 1124,
+        "morphite": 749
+    },
+    "module requirements": {
+        "imperial navy small pulse laser": 9
+    },
+    "ship requirements": {
+        "executioner II": 2
+    }
+}

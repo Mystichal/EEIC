@@ -1,0 +1,33 @@
+{
+	"name": "Charmeleon Blueprint",
+	"volume": 0.01,
+	"products": "Charmeleon",
+	"tech level": 10,
+	"manufacturing time": "26:40:00",
+	"manufacturing cost": 450000000,
+	"pi requirements": {
+		"condensed alloy": 3651876,
+		"precious alloy": 2861583,
+		"opulent compound": 3651876,
+		"reactive metals": 908009,
+		"toxic metals": 900533,
+		"super tensile plastics": 2105726,
+		"nanites": 908009
+	},
+	"ore requirements": {
+		"tritanium": 145453356,
+		"pyrite": 41708309,
+		"mexallon": 13483145,
+		"isogen": 2223518,
+		"noxium": 562175,
+		"zydrine": 223217,
+		"megacyte": 93947,
+		"morphite": 31316
+	},
+	"component requirements": {
+		"ppd fullerene fiber": 12000,
+	},
+	"ship requirements": {
+		"gila": 2
+	}
+}

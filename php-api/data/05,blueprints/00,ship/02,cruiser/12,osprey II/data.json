@@ -1,0 +1,24 @@
+{
+	"name": "Osprey II Blueprint",
+	"volume": 0.01,
+	"products": "Osprey II",
+	"tech level": 10,
+	"manufacturing time": "20:00:00",
+	"manufacturing cost": 250000000,
+	"pi requirements": {
+		"gleaming alloy": 70950,
+		"precious alloy": 62991,
+		"opulent compound": 80387,
+		"noble metals": 80387,
+		"reactive metals": 19988
+	},
+	"ore requirements": {
+		"tritanium": 59270222,
+		"pyrite": 16517892,
+		"mexallon": 6164086,
+		"isogen": 1029477,
+		"noxium": 298712,
+		"zydrine": 89274,
+		"megacyte": 49226
+	}
+}

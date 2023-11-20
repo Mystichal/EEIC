@@ -1,0 +1,21 @@
+{
+    "name": "Venture II Blueprint",
+    "volume": 0.01,
+    "products": "Venture II",
+    "tech level": 5,
+    "manufacturing time": "00:16:40",
+    "manufacturing cost": 300000,
+    "pi requirements": {
+        "lustering alloy": 753,
+        "condensed alloy": 858,
+        "motley compound": 758,
+        "base metals": 227,
+        "toxic metals": 213
+    },
+    "ore requirements": {
+        "tritanium": 127280,
+        "pyrite": 34598,
+        "mexallon": 10355,
+        "isogen": 1500
+    }
+}

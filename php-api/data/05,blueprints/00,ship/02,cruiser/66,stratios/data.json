@@ -1,0 +1,24 @@
+{
+    "name": "Stratios Blueprint",
+    "volume": 0.01,
+    "products": "Stratios",
+    "tech level": 7,
+    "manufacturing time": "24:00:00",
+    "manufacturing cost": 200000000,
+    "pi requirements": {
+        "condensed alloy": 120158,
+        "precious alloy": 94155,
+        "opulent compound": 120158,
+        "reactive metals": 29877,
+        "toxic metals": 29631
+    },
+    "ore requirements": {
+        "tritanium": 55799264,
+        "pyrite": 13548456,
+        "mexallon": 4907439,
+        "isogen": 1030848,
+        "noxium": 274071,
+        "zydrine": 82967,
+        "megacyte": 32907
+    }
+}

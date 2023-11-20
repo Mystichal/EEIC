@@ -1,0 +1,12 @@
+{
+    "name": "Capital Anti-kinetic Pump I Blueprint",
+    "volume": 0.01,
+    "products": "Capital Anti-kinetic Pump I",
+    "tech level": 10,
+    "manufacturing time": "62:30:00",
+    "manufacturing cost": 10000000,
+    "salvaged part requirements": {
+        "capital damaged artificial neural network": 507,
+        "capital contaminated lorentz fluid": 422
+    }
+}

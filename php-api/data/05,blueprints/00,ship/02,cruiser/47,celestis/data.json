@@ -1,0 +1,22 @@
+{
+    "name": "Celestis Blueprint",
+    "volume": 0.01,
+    "products": "Celestis",
+    "tech level": 6,
+    "manufacturing time": "02:13:20",
+    "manufacturing cost": 7000000,
+    "pi requirements": {
+        "lustering alloy": 14067,
+        "sheen compound": 15157,
+        "opulent compound": 16041,
+        "heavy mentals": 15157,
+        "reactive metals": 3989
+    },
+    "ore requirements": {
+        "tritanium": 2575874,
+        "pyrite": 704508,
+        "mexallon": 229115,
+        "isogen": 37923,
+        "noxium": 10812
+    }
+}

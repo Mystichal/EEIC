@@ -1,0 +1,25 @@
+{
+    "name": "Assult Firbolg Blueprint",
+    "volume": 0.01,
+    "products": "Assult Firbolg",
+    "tech level": 10,
+    "manufacturing time": "04:00:00",
+    "manufacturing cost": 10000000,
+    "pi requirements": {
+        "lustering alloy": 61697,
+        "motley compound": 80859,
+        "crystal compound": 65202,
+        "base metals": 18617,
+        "reactive metals": 20954
+    },
+    "ore requirements": {
+        "tritanium": 3090335,
+        "pyrite": 622100,
+        "mexallon": 194414,
+        "isogen": 40845,
+        "noxium": 12624,
+        "zydrine": 3780,
+        "megacyte": 2030,
+        "morphite": 663
+    }
+}

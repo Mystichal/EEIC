@@ -1,0 +1,24 @@
+{
+    "name": "MK9 Warp Disruption Field Generator Blueprint",
+    "volume": 0.01,
+    "products": "MK9 Warp Disruption Field Generator",
+    "tech level": 5,
+    "manufacturing time": "01:00:00",
+    "manufacturing cost": 2000000,
+    "pi requirements": {
+        "sheen compound": 4763,
+        "lucent compound": 4725,
+        "glossy compound": 5345,
+        "heavy mentals": 5094,
+        "reactive metals": 1458
+    },
+    "ore requirements": {
+        "tritanium": 344373,
+        "pyrite": 63546,
+        "mexallon": 21497,
+        "isogen": 3761,
+        "noxium": 975,
+        "zydrine": 378,
+        "megacyte": 239
+    }
+}

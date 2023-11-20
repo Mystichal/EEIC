@@ -1,0 +1,24 @@
+{
+    "name": "Phantasm Blueprint",
+    "volume": 0.01,
+    "products": "Phantasm",
+    "tech level": 7,
+    "manufacturing time": "24:00:00",
+    "manufacturing cost": 200000000,
+    "pi requirements": {
+        "condensed alloy": 120069,
+        "precious alloy": 94086,
+        "opulent compound": 120069,
+        "reactive metals": 29855,
+        "toxic metals": 29609
+    },
+    "ore requirements": {
+        "tritanium": 70431671,
+        "pyrite": 13984862,
+        "mexallon": 5058705,
+        "isogen": 850946,
+        "noxium": 246731,
+        "zydrine": 62180,
+        "megacyte": 42489
+    }
+}

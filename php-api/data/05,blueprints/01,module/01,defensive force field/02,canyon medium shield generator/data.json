@@ -1,0 +1,26 @@
+{
+    "name": "Canyon Medium Shield Generator Blueprint",
+    "volume": 0.01,
+    "products": "Canyon Medium Shield Generator",
+    "tech level": 5,
+    "manufacturing time": "02:00:00",
+    "manufacturing cost": 4000000,
+    "pi requirements": {
+        "lustering alloy": 3743,
+        "condensed alloy": 5141,
+        "crystal compound": 4220,
+        "reactive metals": 1355,
+        "toxic metals": 1028,
+        "precious metals": 774,
+        "non-cs crystals": 842
+    },
+    "ore requirements": {
+        "tritanium": 242184,
+        "pyrite": 56388,
+        "mexallon": 22859,
+        "isogen": 3410,
+        "noxium": 893,
+        "zydrine": 326,
+        "megacyte": 182
+    }
+}

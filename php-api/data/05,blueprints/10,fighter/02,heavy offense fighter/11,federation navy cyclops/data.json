@@ -1,0 +1,25 @@
+{
+    "name": "Federation Navy Cyclops Blueprint",
+    "volume": 0.01,
+    "products": "Federation Navy Cyclops",
+    "tech level": 10,
+    "manufacturing time": "04:00:00",
+    "manufacturing cost": 30000000,
+    "pi requirements": {
+        "lustering alloy": 85695,
+        "motley compound": 112313,
+        "crystal compound": 90563,
+        "base metals": 25857,
+        "reactive metals": 29105
+    },
+    "ore requirements": {
+        "tritanium": 4292409,
+        "pyrite": 864083,
+        "mexallon": 270035,
+        "isogen": 56733,
+        "noxium": 17534,
+        "zydrine": 5250,
+        "megacyte": 2819,
+        "morphite": 921
+    }
+}

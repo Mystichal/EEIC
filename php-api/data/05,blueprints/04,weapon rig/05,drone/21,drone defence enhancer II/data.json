@@ -1,0 +1,12 @@
+{
+    "name": "Drone Defense Enhancer II Blueprint",
+    "volume": 0.01,
+    "products": "Drone Defense Enhancer II",
+    "tech level": 6,
+    "manufacturing time": "02:30:00",
+    "manufacturing cost": 70000,
+    "salvaged part requirements": {
+        "fried interface circuit": 213,
+        "damaged close-in weapon system": 63
+    }
+}

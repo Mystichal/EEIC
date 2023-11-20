@@ -1,0 +1,19 @@
+{
+    "name": "Mining Drone Circulation Accelerator IV Blueprint",
+    "volume": 0.01,
+    "products": "Mining Drone Circulation Accelerator IV",
+    "tech level": 10,
+    "manufacturing time": "62:30:00",
+    "manufacturing cost": 3500000,
+    "salvaged part requirements": {
+        "charred micro circuit": 1230,
+        "fried interface circuit": 2055,
+        "tripped power circuit": 3840,
+        "burned logic circuit": 768,
+        "smashed trigger unit": 420,
+        "damaged close-in weapon system": 750,
+        "scorched telemetry processor": 1395,
+        "damaged artificial neural network": 279,
+        "conductive polymer": 17025
+    }
+}

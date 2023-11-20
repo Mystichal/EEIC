@@ -1,0 +1,17 @@
+{
+    "name": "Experimental Pulse Crystal Blueprint",
+    "volume": 0.01,
+    "products": "Experimental Pulse Crystal",
+    "tech level": 5,
+    "manufacturing time": "00:30:00",
+    "manufacturing cost": 1500000,
+    "ore requirements": {
+        "mexallon": 24825,
+        "isogen": 4395,
+        "noxium": 1230,
+        "megacyte": 210
+    },
+    "implant component requirements": {
+        "mimetic neuron": 450
+    }
+}

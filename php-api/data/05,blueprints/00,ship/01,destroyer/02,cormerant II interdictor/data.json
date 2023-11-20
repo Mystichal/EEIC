@@ -1,0 +1,24 @@
+{
+	"name": "Cormorant II Interdictor Blueprint",
+	"volume": 0.01,
+	"products": "Cormorant II Interdictor",
+	"tech level": 9,
+	"manufacturing time": "10:00:00",
+	"manufacturing cost": 25000000,
+	"pi requirements": {
+		"gleaming alloy": 23700,
+		"precious alloy": 21042,
+		"lucent compound": 25371,
+		"noble metals": 26853,
+		"reactive metals": 6677
+	},
+	"ore requirements": {
+		"tritanium": 5767475,
+		"pyrite": 1649477,
+		"mexallon": 587520,
+		"isogen": 95135,
+		"noxium": 29543,
+		"zydrine": 8726,
+		"megacyte": 4209
+	}
+}

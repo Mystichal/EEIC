@@ -1,0 +1,24 @@
+{
+    "name": "Caldari Navy Large Shield Maintenance Drone Blueprint",
+    "volume": 0.01,
+    "products": "Caldari Navy Large Shield Maintenance Drone",
+    "tech level": 10,
+    "manufacturing time": "05:20:00",
+    "manufacturing cost": 40000000,
+    "pi requirements": {
+        "condensed alloy": 279246,
+        "lucent compound": 263841,
+        "opulent compound": 279246,
+        "base metals": 48992,
+        "toxic metals": 45908
+    },
+    "ore requirements": {
+        "tritanium": 3322061,
+        "pyrite": 1208058,
+        "mexallon": 275376,
+        "isogen": 36518,
+        "noxium": 13571,
+        "zydrine": 5987,
+        "megacyte": 3593
+    }
+}

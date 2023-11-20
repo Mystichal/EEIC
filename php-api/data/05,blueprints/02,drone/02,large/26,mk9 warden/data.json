@@ -1,0 +1,25 @@
+{
+    "name": "MK9 Warden Blueprint",
+    "volume": 0.01,
+    "products": "MK9 Warden",
+    "production amount": 3,
+    "tech level": 9,
+    "manufacturing time": "01:00:00",
+    "manufacturing cost": 10000000,
+    "pi requirements": {
+        "condensed alloy": 15665,
+        "opulent compound": 17507,
+        "dark compound": 15117,
+        "heavy mentals": 17808,
+        "reactive metals": 3917
+    },
+    "ore requirements": {
+        "tritanium": 553052,
+        "pyrite": 138426,
+        "mexallon": 49562,
+        "isogen": 7844,
+        "noxium": 2724,
+        "zydrine": 773,
+        "megacyte": 525
+    }
+}

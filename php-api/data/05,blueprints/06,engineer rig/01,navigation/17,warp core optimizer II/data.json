@@ -1,0 +1,12 @@
+{
+    "name": "Warp Core Optimizer II Blueprint",
+    "volume": 0.01,
+    "products": "Warp Core Optimizer II",
+    "tech level": 6,
+    "manufacturing time": "02:30:00",
+    "manufacturing cost": 40000,
+    "salvage part requirements": {
+        "fried interface circuit": 194,
+        "contaminated nanite polymer": 56
+    }
+}

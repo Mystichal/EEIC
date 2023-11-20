@@ -1,0 +1,25 @@
+{
+    "name": "Assult Vespa Blueprint",
+    "volume": 0.01,
+    "products": "Assult Vespa",
+    "tech level": "",
+    "manufacturing time": "04:00:00",
+    "manufacturing cost": 4000000,
+    "pi requirements": {
+        "lustering alloy": 29018,
+        "motley compound": 28113,
+        "glossy compound": 26067,
+        "dark compound": 24545,
+        "base metals": 8994
+    },
+    "ore requirements": {
+        "tritanium": 1263726,
+        "pyrite": 239475,
+        "mexallon": 91032,
+        "isogen": 15935,
+        "noxium": 4307,
+        "zydrine": 1703,
+        "megacyte": 761,
+        "morphite": 266
+    }
+}

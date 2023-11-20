@@ -1,0 +1,15 @@
+{
+	"name": "Miner Algid Optimizer IV Blueprint",
+	"volume": 0.01,
+	"products": "Miner Algid Optimizer IV",
+	"tech level": 10,
+    "manufacturing time": "62:30:00",
+    "manufacturing cost": 400000,
+    "salvaged part requirements": {
+        "smashed trigger unit": 375,
+        "damaged close-in weapon system": 630,
+        "scorched telemetry processor": 1170,
+        "damaged artificial neural network": 233,
+        "conductive polymer": 10245
+    }
+}

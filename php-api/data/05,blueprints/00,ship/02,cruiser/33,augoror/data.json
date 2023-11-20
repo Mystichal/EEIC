@@ -1,0 +1,23 @@
+{
+    "name": "Augoror Blueprint",
+    "volume": 0.01,
+    "products": "Augoror",
+    "tech level": 7,
+    "manufacturing time": "04:26:40",
+    "manufacturing cost": 20000000,
+    "pi requirements": {
+        "sheen compound": 20703,
+        "precious alloy": 17169,
+        "opulent compound": 21911,
+        "heavy mentals": 20703,
+        "reactive metals": 5448
+    },
+    "ore requirements": {
+        "tritanium": 8366321,
+        "pyrite": 1413176,
+        "mexallon": 515145,
+        "isogen": 83229,
+        "noxium": 26286,
+        "zydrine": 5900
+    }
+}

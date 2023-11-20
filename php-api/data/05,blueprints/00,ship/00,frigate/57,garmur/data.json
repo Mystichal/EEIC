@@ -1,0 +1,22 @@
+{
+    "name": "Garmur Blueprint",
+    "volume": 0.01,
+    "products": "Garmur",
+    "tech level": 6,
+    "manufacturing time": "10:00:00",
+    "manufacturing cost": 55000000,
+    "pi requirements": {
+        "condensed alloy": 44094,
+        "precious alloy": 34551,
+        "fiber composite": 44094,
+        "reactive metals": 10964,
+        "toxic metals": 10874
+    },
+    "ore requirements": {
+        "tritanium": 20045004,
+        "pyrite": 6009792,
+        "mexallon": 1971438,
+        "isogen": 292482,
+        "noxium": 66446
+    }
+}

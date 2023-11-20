@@ -1,0 +1,24 @@
+{
+    "name": "Structure Laboratory Blueprint",
+    "volume": 0.01,
+    "products": "Structure Laboratory",
+    "tech level": 6,
+    "manufacturing time": "24:00:00",
+    "manufacturing cost": 20000000,
+    "pi requirements": {
+        "noble gas": 35076,
+        "industrial fibers": 10016,
+        "condensates": 24143,
+        "construction blocks": 25947,
+        "silicate glass": 19409
+    },
+    "ore requirements": {
+        "tritanium": 5720339,
+        "pyrite": 1270625,
+        "mexallon": 465231,
+        "isogen": 69026,
+        "noxium": 19866,
+        "zydrine": 7311,
+        "megacyte": 3350
+    }
+}

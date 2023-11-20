@@ -1,0 +1,23 @@
+{
+    "name": "Hurricane Prototype Blueprint",
+    "volume": 0.01,
+    "products": "Hurricane Prototype",
+    "tech level": 7,
+    "manufacturing time": "06:40:00",
+    "manufacturing cost": 25000000,
+    "pi requirements": {
+        "gleaming alloy": 31469,
+        "precious alloy": 27939,
+        "glossy compound": 31469,
+        "noble metals": 35655,
+        "reactive metals": 8865
+    },
+    "ore requirements": {
+        "tritanium": 7847003,
+        "pyrite": 1997869,
+        "mexallon": 791223,
+        "isogen": 105734,
+        "noxium": 31497,
+        "zydrine": 14274
+    }
+}

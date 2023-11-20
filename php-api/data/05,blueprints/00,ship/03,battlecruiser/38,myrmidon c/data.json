@@ -1,0 +1,24 @@
+{
+	"name": "Myrmidon C Blueprint",
+	"volume": 0.01,
+	"products": "Myrmidon C",
+	"tech level": 8,
+	"manufacturing time": "13:20:00",
+	"manufacturing cost": 45000000,
+	"pi requirements": {
+		"sheen compound": 32996,
+		"precious alloy": 27365,
+		"glossy compound": 30822,
+		"heavy mentals": 32996,
+		"reactive metals": 8684
+	},
+	"ore requirements": {
+		"tritanium": 11329572,
+		"pyrite": 3783107,
+		"mexallon": 1075320,
+		"isogen": 171290,
+		"noxium": 57590,
+		"zydrine": 21017,
+		"megacyte": 8067
+	}
+}

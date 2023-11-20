@@ -1,0 +1,24 @@
+{
+    "name": "Typhoon Blueprint",
+    "volume": 0.01,
+    "products": "Typhoon",
+    "tech level": 9,
+    "manufacturing time": "26:40:00",
+    "manufacturing cost": 100000000,
+    "pi requirements": {
+        "gleaming alloy": 103845,
+        "precious alloy": 92196,
+        "crystal compound": 110253,
+        "noble metals": 117659,
+        "reactive metals": 29255
+    },
+    "ore requirements": {
+        "tritanium": 27641502,
+        "pyrite": 8059530,
+        "mexallon": 2521599,
+        "isogen": 395068,
+        "noxium": 129446,
+        "zydrine": 43175,
+        "megacyte": 24240
+    }
+}

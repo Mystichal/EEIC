@@ -1,0 +1,24 @@
+{
+    "name": "MK7 Hobgoblin Blueprint",
+    "volume": 0.01,
+    "products": "MK7 Hobgoblin",
+    "production amount": 10,
+    "tech level": 7,
+    "manufacturing time": "00:35:00",
+    "manufacturing cost": 2000000,
+    "pi requirements": {
+        "gleaming alloy": 3773,
+        "lucent compound": 3117,
+        "crystal compound": 3341,
+        "noble metals": 3033,
+        "toxic metals": 879
+    },
+    "ore requirements": {
+        "tritanium": 123390,
+        "pyrite": 34209,
+        "mexallon": 9861,
+        "isogen": 1503,
+        "noxium": 561,
+        "zydrine": 197
+    }
+}

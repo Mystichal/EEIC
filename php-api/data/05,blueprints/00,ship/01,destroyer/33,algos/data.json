@@ -1,0 +1,20 @@
+{
+    "name": "Catalyst II Blueprint",
+    "volume": 0.01,
+    "products": "Catalyst II",
+    "tech level": 4,
+    "manufacturing time": "00:25:00",
+    "manufacturing cost": 250000,
+    "pi requirements": {
+        "lustering alloy": 1520,
+        "sheen compound": 1637,
+        "motley compound": 1529,
+        "base metals": 456,
+        "heavy mentals": 1637
+    },
+    "ore requirements": {
+        "tritanium": 82802,
+        "pyrite": 19941,
+        "mexallon": 7552
+    }
+}

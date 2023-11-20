@@ -1,0 +1,24 @@
+{
+	"name": "Cyclone Command Blueprint",
+	"volume": 0.01,
+	"products": "Cyclone Command",
+	"tech level": 8,
+	"manufacturing time": "13:20:00",
+	"manufacturing cost": 45000000,
+	"pi requirements": {
+		"gleaming alloy": 31032,
+		"precious alloy": 27551,
+		"glossy compound": 31032,
+		"noble metals": 35160,
+		"reactive metals": 8742
+	},
+	"ore requirements": {
+		"tritanium": 11778521,
+		"pyrite": 3300975,
+		"mexallon": 998541,
+		"isogen": 213248,
+		"noxium": 63722,
+		"zydrine": 20006,
+		"megacyte": 7530
+	}
+}

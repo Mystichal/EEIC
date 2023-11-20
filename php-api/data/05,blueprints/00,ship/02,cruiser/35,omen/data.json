@@ -1,0 +1,21 @@
+{
+    "name": "Omen Blueprint",
+    "volume": 0.01,
+    "products": "Omen",
+    "tech level": 5,
+    "manufacturing time": "01:06:40",
+    "manufacturing cost": 2000000,
+    "pi requirements": {
+        "lustering alloy": 4985,
+        "sheen compound": 5370,
+        "motley compound": 5016,
+        "base metals": 1496,
+        "heavy mentals": 5370
+    },
+    "ore requirements": {
+        "tritanium": 1099896,
+        "pyrite": 205202,
+        "mexallon": 65264,
+        "isogen": 10146
+    }
+}

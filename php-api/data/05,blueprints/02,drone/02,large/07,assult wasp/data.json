@@ -1,0 +1,25 @@
+{
+    "name": "Assult Wasp Blueprint",
+    "volume": 0.01,
+    "products": "Assult Wasp",
+    "tech level": 10,
+    "manufacturing time": "04:00:00",
+    "manufacturing cost": 20000000,
+    "pi requirements": {
+        "precious alloy": 81906,
+        "lucent compound": 121551,
+        "glossy compound": 119003,
+        "dark compound": 116291,
+        "toxic metals": 31419
+    },
+    "ore requirements": {
+        "tritanium": 3774623,
+        "pyrite": 1032819,
+        "mexallon": 318380,
+        "isogen": 68912,
+        "noxium": 19836,
+        "zydrine": 7575,
+        "megacyte": 3039,
+        "morphite": 1062
+    }
+}

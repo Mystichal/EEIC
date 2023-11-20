@@ -1,0 +1,21 @@
+{
+    "name": "Thrasher Guardian Blueprint",
+    "volume": 0.01,
+    "products": "Thrasher Guardian",
+    "tech level": 5,
+    "manufacturing time": "00:50:00",
+    "manufacturing cost": 900000,
+    "pi requirements": {
+        "lustering alloy": 2442,
+        "gleaming alloy": 2459,
+        "motley compound": 2459,
+        "base metals": 734,
+        "noble metals": 2786
+    },
+    "ore requirements": {
+        "tritanium": 426636,
+        "pyrite": 97334,
+        "mexallon": 30998,
+        "isogen": 6018
+    }
+}

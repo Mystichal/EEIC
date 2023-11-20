@@ -1,0 +1,25 @@
+{
+	"name": "Decentralized Command Carrier Command Module Blueprint",
+	"volume": 0.01,
+	"products": "Decentralized Command Carrier Command Module",
+	"tech level": 10,
+	"manufacturing time": "48:00:00",
+	"manufacturing cost": 35000000,
+	"ore requirements": {
+		"morphite": 20954
+	},
+	"modified device part requirements": {
+		"small device improvement device medium": 27098,
+		"medium device improvement device medium": 82859,
+		"large device improvement device medium": 31457,
+		"x-large device improvement device medium": 2099
+	},
+	"module requirements": {
+		"caldari navy adaptive invulnerability field": 15,
+		"federation navy adaptive armor hardener": 15,
+		"federation navy fighter microwarpdrive guide": 15,
+		"mk9 Skirmish Command Burst": 15,
+		"federation navy capital afterburner": 8,
+		"federation navy fighter fire control array": 8
+	}
+}

@@ -1,0 +1,22 @@
+{
+    "name": "MK3 Warrior Blueprint",
+    "volume": 0.01,
+    "products": "MK3 Warrior",
+    "production amount": 10,
+    "tech level": 3,
+    "manufacturing time": "00:10:00",
+    "manufacturing cost": 250000,
+    "pi requirements": {
+        "sheen compound": 512,
+        "condensed alloy": 579,
+        "opulent compound": 563,
+        "dark compound": 446,
+        "reactive metals": 138
+    },
+    "ore requirements": {
+        "tritanium": 17930,
+        "pyrite": 4721,
+        "mexallon": 1686,
+        "isogen": 285
+    }
+}

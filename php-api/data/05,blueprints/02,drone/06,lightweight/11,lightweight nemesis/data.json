@@ -1,0 +1,24 @@
+{
+    "name": "Lightweight Nemesis Blueprint",
+    "volume": 0.01,
+    "products": "Lightweight Nemesis",
+    "tech level": 10,
+    "manufacturing time": "05:20:00",
+    "manufacturing cost": 10000000,
+    "pi requirements": {
+        "condensed alloy": 47996,
+        "toxic metals": 11837
+    },
+    "ore requirements": {
+        "noxium": 6998,
+        "zydrine": 2471,
+        "megacyte": 1236,
+        "morphite": 824
+    },
+    "module requirements": {
+        "caldari navy large torpedo launcher": 12
+    },
+    "ship requirements": {
+        "nemesis": 2
+    }
+}

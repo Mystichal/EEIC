@@ -1,0 +1,12 @@
+{
+    "name": "Railgun Discharge Elutriation I Blueprint",
+    "volume": 0.01,
+    "products": "Railgun Discharge Elutriation I",
+    "tech level": 4,
+    "manufacturing time": "00:30:00",
+    "manufacturing cost": 7500,
+    "salvage part requirements": {
+        "charred micro circuit": 50,
+        "defective current pump": 27
+    }
+}

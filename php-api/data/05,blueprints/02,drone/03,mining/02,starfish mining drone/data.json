@@ -1,0 +1,25 @@
+{
+    "name": "Starfish Mining Drone Blueprint",
+    "volume": 0.01,
+    "products": "Starfish Mining Drone",
+    "production amount": 2,
+    "tech level": 10,
+    "manufacturing time": "02:40:00",
+    "manufacturing cost": 20000000,
+    "pi requirements": {
+        "sheen compound": 59961,
+        "fiber composite": 72963,
+        "glossy compound": 72185,
+        "noble metals": 61764,
+        "toxic metals": 14656
+    },
+    "ore requirements": {
+        "tritanium": 2289108,
+        "pyrite": 557889,
+        "mexallon": 229910,
+        "isogen": 42782,
+        "noxium": 8361,
+        "zydrine": 3702,
+        "megacyte": 1485
+    }
+}

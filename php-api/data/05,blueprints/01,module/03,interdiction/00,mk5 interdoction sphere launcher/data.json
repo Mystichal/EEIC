@@ -1,0 +1,22 @@
+{
+    "name": "MK5 Interdiction Sphere Launcher Blueprint",
+    "volume": 0.01,
+    "products": "MK5 Interdiction Sphere Launcher",
+    "tech level": 5,
+    "manufacturing time": "00:25:00",
+    "manufacturing cost": 600000,
+    "pi requirements": {
+        "gleaming alloy": 591,
+        "condensed alloy": 891,
+        "opulent compound": 1113,
+        "crystal compound": 1037,
+        "reactive metals": 201
+    },
+    "ore requirements": {
+        "tritanium": 43244,
+        "pyrite": 13629,
+        "mexallon": 4113,
+        "isogen": 765,
+        "noxium": 218
+    }
+}

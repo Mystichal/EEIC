@@ -1,0 +1,25 @@
+{
+	"name": "Assult Acolyte Blueprint",
+	"volume": 0.01,
+	"products": "Assult Acolyte",
+	"tech level": 10,
+	"manufacturing time": "04:00:00",
+	"manufacturing cost": 2000000,
+	"pi requirements": {
+		"lustering alloy": 14645,
+		"motley compound": 12557,
+		"crystal compound": 12969,
+		"base metals": 3642,
+		"reactive metals": 4653
+	},
+	"ore requirements": {
+		"tritanium": 477347,
+		"pyrite": 123083,
+		"mexallon": 41399,
+		"isogen": 8777,
+		"noxium": 2796,
+		"zydrine": 732,
+		"megacyte": 425,
+		"morphite": 134
+	}
+}

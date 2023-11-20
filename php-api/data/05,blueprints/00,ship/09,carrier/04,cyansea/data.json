@@ -1,0 +1,23 @@
+{
+	"name": "Cyansea Blueprint",
+	"volume": 0.01,
+	"products": "Cyansea",
+	"tech level": 10,
+	"manufacturing time": "583:00:00",
+	"manufacturing cost": 2000000000,
+	"components requirements": {
+		"capital ship maintenance bay": 20,
+		"capital capacitor battery": 6,
+		"capital power generator": 6,
+		"capital launcher hardpoint": 5,
+		"capital armor plates": 8,
+		"capital sensor cluster": 9,
+		"capital shield emitter": 20,
+		"capital computer system": 14,
+		"capital construction parts": 9,
+		"capital corporate hangar bay": 9,
+		"capital jump drive": 9,
+		"capital propulsion engine": 9,
+		"capital drone bay": 57
+	}
+}

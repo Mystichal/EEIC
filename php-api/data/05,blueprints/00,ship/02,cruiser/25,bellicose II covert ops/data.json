@@ -1,0 +1,24 @@
+{
+    "name": "Bellicose II Covert Ops Blueprint",
+    "volume": 0.01,
+    "products": "Bellicose II Covert Ops",
+    "tech level": 9,
+    "manufacturing time": "13:20:00",
+    "manufacturing cost": 45000000,
+    "pi requirements": {
+        "gleaming alloy": 47207,
+        "precious alloy": 41910,
+        "opulent compound": 53486,
+        "noble metals": 53486,
+        "reactive metals": 13299
+    },
+    "ore requirements": {
+        "tritanium": 12565188,
+        "pyrite": 3663677,
+        "mexallon": 1146261,
+        "isogen": 179589,
+        "noxium": 58844,
+        "zydrine": 19626,
+        "megacyte": 11019
+    }
+}

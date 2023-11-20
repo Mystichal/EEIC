@@ -1,0 +1,14 @@
+{
+    "name": "Exhumer Drone Efficiency Upgrade I Blueprint",
+    "volume": 0.01,
+    "products": "Exhumer Drone Efficiency Upgrade I",
+    "tech level": 10,
+    "manufacturing time": "62:30:00",
+    "manufacturing cost": 25000000,
+    "salvaged part requirements": {
+        "capital contaminated lorentz fluid": 563,
+        "capital conductive polymer": 3165,
+        "capital contaminated nanite compound": 845,
+        "capital defective current pump": 1055
+    }
+}

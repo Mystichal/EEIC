@@ -1,0 +1,25 @@
+{
+    "name": "Assult Preator Blueprint",
+    "volume": 0.01,
+    "products": "Assult Preator",
+    "tech level": 10,
+    "manufacturing time": "04:00:00",
+    "manufacturing cost": 20000000,
+    "pi requirements": {
+        "sheen compound": 108110,
+        "condensed alloy": 129266,
+        "opulent compound": 122462,
+        "crystal compound": 115334,
+        "reactive metals": 32142
+    },
+    "ore requirements": {
+        "tritanium": 4127804,
+        "pyrite": 1118441,
+        "mexallon": 314720,
+        "isogen": 63735,
+        "noxium": 19206,
+        "zydrine": 6810,
+        "megacyte": 3311,
+        "morphite": 1062
+    }
+}

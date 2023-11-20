@@ -1,0 +1,25 @@
+{
+    "name": "ORE Heavy Mining Drone Blueprint",
+    "volume": 0.01,
+    "products": "ORE Heavy Mining Drone",
+    "production amount": 2,
+    "tech level": 10,
+    "manufacturing time": "02:40:00",
+    "manufacturing cost": 35000000,
+    "pi requirements": {
+        "sheen compound": 146694,
+        "fiber composite": 122807,
+        "glossy compound": 112320,
+        "noble metals": 113262,
+        "toxic metals": 29028
+    },
+    "ore requirements": {
+        "tritanium": 3678923,
+        "pyrite": 1161656,
+        "mexallon": 408492,
+        "isogen": 74556,
+        "noxium": 14843,
+        "zydrine": 7499,
+        "megacyte": 3225
+    }
+}

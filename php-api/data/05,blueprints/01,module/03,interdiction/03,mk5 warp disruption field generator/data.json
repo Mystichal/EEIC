@@ -1,0 +1,22 @@
+{
+    "name": "MK5 Warp Disruption Field Generator Blueprint",
+    "volume": 0.01,
+    "products": "MK5 Warp Disruption Field Generator",
+    "tech level": 5,
+    "manufacturing time": "00:25:00",
+    "manufacturing cost": 1500000,
+    "pi requirements": {
+        "sheen compound": 2007,
+        "lucent compound": 1698,
+        "glossy compound": 1812,
+        "heavy mentals": 2115,
+        "reactive metals": 440
+    },
+    "ore requirements": {
+        "tritanium": 88013,
+        "pyrite": 24791,
+        "mexallon": 8477,
+        "isogen": 1515,
+        "noxium": 462
+    }
+}

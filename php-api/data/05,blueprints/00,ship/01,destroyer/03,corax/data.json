@@ -1,0 +1,20 @@
+{
+    "name": "Corax Blueprint",
+    "volume": 0.01,
+    "products": "Corax",
+    "tech level": 4,
+    "manufacturing time": "00:25:00",
+    "manufacturing cost": 300000,
+    "pi requirements": {
+        "lustering alloy": 1614,
+        "gleaming alloy": 1625,
+        "motley compound": 1625,
+        "base metals": 485,
+        "noble metals": 1841
+    },
+    "ore requirements": {
+        "tritanium": 88902,
+        "pyrite": 22188,
+        "mexallon": 8097
+    }
+}

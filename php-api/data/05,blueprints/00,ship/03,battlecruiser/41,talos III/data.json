@@ -1,0 +1,24 @@
+{
+	"name": "Talos III Blueprint",
+	"volume": 0.01,
+	"products": "Talos III",
+	"tech level": 10,
+	"manufacturing time": "33:20:00",
+	"manufacturing cost": 350000000,
+	"pi requirements": {
+		"sheen compound": 126264,
+		"precious alloy": 104717,
+		"glossy compound": 117947,
+		"heavy mentals": 126264,
+		"reactive metals": 33228
+	},
+	"ore requirements": {
+		"tritanium": 95264835,
+		"pyrite": 27873371,
+		"mexallon": 8905002,
+		"isogen": 1968950,
+		"noxium": 480561,
+		"zydrine": 154056,
+		"megacyte": 81833
+	}
+}

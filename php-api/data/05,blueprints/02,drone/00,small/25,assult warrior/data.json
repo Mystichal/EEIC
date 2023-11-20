@@ -1,0 +1,25 @@
+{
+    "name": "Assult Warrior Blueprint",
+    "volume": 0.01,
+    "products": "Assult Warrior",
+    "tech level": "",
+    "manufacturing time": "04:00:00",
+    "manufacturing cost": 2000000,
+    "pi requirements": {
+        "sheen compound": 13734,
+        "condensed alloy": 15849,
+        "opulent compound": 12989,
+        "dark compound": 16728,
+        "reactive metals": 4038
+    },
+    "ore requirements": {
+        "tritanium": 510458,
+        "pyrite": 106359,
+        "mexallon": 43458,
+        "isogen": 8939,
+        "noxium": 2559,
+        "zydrine": 893,
+        "megacyte": 387,
+        "morphite": 134
+    }
+}

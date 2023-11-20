@@ -1,0 +1,24 @@
+{
+    "name": "Nereus Hauling Blueprint",
+    "volume": 0.01,
+    "products": "Nereus Hauling",
+    "tech level": 8,
+    "manufacturing time": "04:26:40",
+    "manufacturing cost": 15000000,
+    "pi requirements": {
+        "condensed alloy": 11687,
+        "precious alloy": 9158,
+        "opulent compound": 11687,
+        "reactive metals": 2906,
+        "toxic metals": 2883
+    },
+    "ore requirements": {
+        "tritanium": 3791049,
+        "pyrite": 1265886,
+        "mexallon": 359820,
+        "isogen": 57317,
+        "noxium": 19271,
+        "zydrine": 7034,
+        "megacyte": 2700
+    }
+}

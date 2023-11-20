@@ -1,0 +1,13 @@
+{
+    "name": "Drone Defense Enhancer III Blueprint",
+    "volume": 0.01,
+    "products": "Drone Defense Enhancer III",
+    "tech level": 8,
+    "manufacturing time": "12:30:00",
+    "manufacturing cost": 300000,
+    "salvaged part requirements": {
+        "tripped power circuit": 399,
+        "scorched telemetry processor": 119
+    }
+}
+}

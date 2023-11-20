@@ -1,0 +1,12 @@
+{
+    "name": "Decomposer Algid Hybrid Administrations Unit I Blueprint",
+    "volume": 0.01,
+    "products": "Decomposer Algid Hybrid Administrations Unit I",
+    "tech level": 4,
+    "manufacturing time": "00:30:00",
+    "manufacturing cost": 25000,
+    "salvage part requirements": {
+        "smashed trigger unit": 22,
+        "conductive polymer": 72
+    }
+}

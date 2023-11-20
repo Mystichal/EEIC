@@ -1,0 +1,25 @@
+{
+    "name": "Lightweight Atron IC Blueprint",
+    "volume": 0.01,
+    "products": "Lightweight Atron IC",
+    "tech level": 10,
+    "manufacturing time": "06:00:00",
+    "manufacturing cost": 15000000,
+    "pi requirements": {
+        "precious alloy": 41028,
+        "noble metals": 52359
+    },
+    "ore requirements": {
+        "noxium": 7634,
+        "zydrine": 2694,
+        "megacyte": 1347,
+        "morphite": 899
+    },
+    "module requirements": {
+        "federation navy small snubnosed railgun": 9,
+        "federation navy warp scrambler": 2
+    },
+    "ship requirements": {
+        "atron interceptor": 2
+    }
+}

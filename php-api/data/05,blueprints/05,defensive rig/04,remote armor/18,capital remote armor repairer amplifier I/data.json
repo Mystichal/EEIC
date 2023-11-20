@@ -1,0 +1,12 @@
+{
+    "name": "Capital Remote Armor Repairer Amplifier I Blueprint",
+    "volume": 0.01,
+    "products": "Capital Remote Armor Repairer Amplifier I",
+    "tech level": 10,
+    "manufacturing time": "62:30:00",
+    "manufacturing cost": 25000000,
+    "salvaged part requirements": {
+        "capital damaged artificial neural network": 675,
+        "capital contaminated lorentz fluid": 563
+    }
+}

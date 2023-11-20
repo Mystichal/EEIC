@@ -1,0 +1,24 @@
+{
+    "name": "Armageddon Blueprint",
+    "volume": 0.01,
+    "products": "Armageddon",
+    "tech level": 9,
+    "manufacturing time": "26:40:00",
+    "manufacturing cost": 95000000,
+    "pi requirements": {
+        "sheen compound": 111695,
+        "precious alloy": 92634,
+        "crystal compound": 110775,
+        "heavy mentals": 111695,
+        "reactive metals": 29394
+    },
+    "ore requirements": {
+        "tritanium": 29178479,
+        "pyrite": 6447681,
+        "mexallon": 2420006,
+        "isogen": 463901,
+        "noxium": 107619,
+        "zydrine": 42912,
+        "megacyte": 25529
+    }
+}

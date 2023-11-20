@@ -1,0 +1,24 @@
+{
+    "name": "Standard Standup Large Missile Launcher Blueprint",
+    "volume": 0.01,
+    "products": "Standard Standup Large Missile Launcher",
+    "tech level": 6,
+    "manufacturing time": "06:00:00",
+    "manufacturing cost": 9500000,
+    "pi requirements": {
+        "reactive gas": 81408,
+        "super tensile plastics": 31514,
+        "coolant": 47009,
+        "silicate glass": 27261,
+        "smartfab units": 46217
+    },
+    "ore requirements": {
+        "tritanium": 1233572,
+        "pyrite": 308562,
+        "mexallon": 117459,
+        "isogen": 16808,
+        "noxium": 6395,
+        "zydrine": 2210,
+        "megacyte": 1112
+    }
+}

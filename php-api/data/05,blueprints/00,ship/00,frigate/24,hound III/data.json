@@ -1,0 +1,24 @@
+{
+	"name": "Hound III Blueprint",
+	"volume": 0.01,
+	"products": "Hound III",
+	"tech level": 10,
+	"manufacturing time": "13:20:00",
+	"manufacturing cost": 75000000,
+	"pi requirements": {
+		"gleaming alloy": 25041,
+		"precious alloy": 22233,
+		"fiber composite": 28373,
+		"noble metals": 28373,
+		"reactive metals": 7055,
+	},
+	"ore requirements": {
+		"tritanium": 24039401,
+		"pyrite": 6210689,
+		"mexallon": 1839779,
+		"isogen": 350999,
+		"noxium": 99599,
+		"zydrine": 31680,
+		"megacyte": 18335
+	}
+}

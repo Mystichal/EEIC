@@ -1,0 +1,23 @@
+{
+    "name": "Breacher Assault Blueprint",
+    "volume": 0.01,
+    "products": "Breacher Assault",
+    "tech level": 7,
+    "manufacturing time": "02:13:20",
+    "manufacturing cost": 5500000,
+    "pi requirements": {
+        "gleaming alloy": 5865,
+        "precious alloy": 5208,
+        "fiber composite": 6645,
+        "noble metals": 6645,
+        "reactive metals": 1653
+    },
+    "ore requirements": {
+        "tritanium": 2008715,
+        "pyrite": 414908,
+        "mexallon": 151451,
+        "isogen": 30557,
+        "noxium": 8849,
+        "zydrine": 2387
+    }
+}

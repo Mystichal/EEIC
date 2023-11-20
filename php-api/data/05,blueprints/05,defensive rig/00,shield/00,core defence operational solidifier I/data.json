@@ -1,0 +1,12 @@
+{
+    "name": "Core Defense Operational Solidifier I Blueprint",
+    "volume": 0.01,
+    "products": "Core Defense Operational Solidifier I",
+    "tech level": 4,
+    "manufacturing time": "00:30:00",
+    "manufacturing cost": 6500,
+    "salvage part requirements": {
+        "charred micro circuit": 47,
+        "defective current pump": 23
+    }
+}

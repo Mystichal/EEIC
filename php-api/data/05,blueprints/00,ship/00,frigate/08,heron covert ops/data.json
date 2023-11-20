@@ -1,0 +1,21 @@
+{
+    "name": "Heron Covert Ops Blueprint",
+    "volume": 0.01,
+    "products": "Heron Covert Ops",
+    "tech level": 5,
+    "manufacturing time": "00:33:20",
+    "manufacturing cost": 650000,
+    "pi requirements": {
+        "lustering alloy": 1649,
+        "gleaming alloy": 1659,
+        "motley compound": 1659,
+        "base metals": 495,
+        "noble metals": 1880
+    },
+    "ore requirements": {
+        "tritanium": 281897,
+        "pyrite": 79412,
+        "mexallon": 22905,
+        "isogen": 3426
+    }
+}

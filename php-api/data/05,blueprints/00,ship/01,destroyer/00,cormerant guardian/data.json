@@ -1,0 +1,21 @@
+{
+    "name": "Cormorant Guardian Blueprint",
+    "volume": 0.01,
+    "products": "Cormorant Guardian",
+    "tech level": 5,
+    "manufacturing time": "00:50:00",
+    "manufacturing cost": 850000,
+    "pi requirements": {
+        "lustering alloy": 2322,
+        "gleaming alloy": 2337,
+        "motley compound": 2337,
+        "base metals": 698,
+        "noble metals": 2648
+    },
+    "ore requirements": {
+        "tritanium": 397037,
+        "pyrite": 111848,
+        "mexallon": 32259,
+        "isogen": 4826
+    }
+}

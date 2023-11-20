@@ -1,0 +1,17 @@
+{
+    "name": "Basic Armor Support Blueprint",
+    "volume": 0.01,
+    "products": "Basic Armor Support",
+    "tech level": 7,
+    "manufacturing time": "01:00:00",
+    "manufacturing cost": 15000000,
+    "ore requirements": {
+        "mexallon": 129960,
+        "isogen": 22980,
+        "noxium": 6405,
+        "megacyte": 1125
+    },
+    "implant component requirements": {
+        "deep-chain neruon": 900
+    }
+}

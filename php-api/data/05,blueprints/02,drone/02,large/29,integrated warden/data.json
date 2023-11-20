@@ -1,0 +1,27 @@
+{
+    "name": "Integrated Warden Blueprint",
+    "volume": 0.01,
+    "products": "Integrated Warden",
+    "tech level": 10,
+    "manufacturing time": "06:00:00",
+    "manufacturing cost": 35000000,
+    "pi requirements": {
+        "precious alloy": 172908,
+        "lucent compound": 256601,
+        "glossy compound": 251222,
+        "dark compound": 245498,
+        "toxic metals": 66327,
+        "precious metals": 30059,
+        "non-cs crystals": 32705
+    },
+    "ore requirements": {
+        "tritanium": 7968468,
+        "pyrite": 2180345,
+        "mexallon": 672119,
+        "isogen": 145475,
+        "noxium": 41876,
+        "zydrine": 15989,
+        "megacyte": 6417,
+        "morphite": 2240
+    }
+}

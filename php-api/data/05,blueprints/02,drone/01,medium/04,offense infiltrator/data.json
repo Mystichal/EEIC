@@ -1,0 +1,25 @@
+{
+    "name": "Offense Infiltrator Blueprint",
+    "volume": 0.01,
+    "products": "Offense Infiltrator",
+    "tech level": 10,
+    "manufacturing time": "05:00:00",
+    "manufacturing cost": 5500000,
+    "pi requirements": {
+        "precious alloy": 34532,
+        "lucent compound": 44991,
+        "glossy compound": 33549,
+        "crystal compound": 42077,
+        "toxic metals": 8447
+    },
+    "ore requirements": {
+        "tritanium": 1729262,
+        "pyrite": 390317,
+        "mexallon": 99476,
+        "isogen": 17918,
+        "noxium": 6273,
+        "zydrine": 2312,
+        "megacyte": 1107,
+        "morphite": 359
+    }
+}

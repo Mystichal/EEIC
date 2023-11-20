@@ -1,0 +1,24 @@
+{
+    "name": "Rattlesnake Blueprint",
+    "volume": 0.01,
+    "products": "Rattlesnake",
+    "tech level": 8,
+    "manufacturing time": "120:00:00",
+    "manufacturing cost": 550000000,
+    "pi requirements": {
+        "condensed alloy": 426755,
+        "precious alloy": 334403,
+        "crystal compound": 399894,
+        "reactive metals": 106110,
+        "toxic metals": 105236
+    },
+    "ore requirements": {
+        "tritanium": 156978818,
+        "pyrite": 38424953,
+        "mexallon": 14830353,
+        "isogen": 2854677,
+        "noxium": 825783,
+        "zydrine": 246242,
+        "megacyte": 123440
+    }
+}

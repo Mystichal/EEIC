@@ -1,0 +1,14 @@
+{
+	"name": "Fenrir Blueprint",
+	"volume": 0.01,
+	"products": "Fenrir",
+	"tech level": 9,
+	"manufacturing time": "416:00:00",
+	"manufacturing cost": 1500000000,
+	"component requirements": {
+		"capital armor plates": 5,
+		"capital cargo bay": 24,
+		"capital construction parts": 15,
+		"capital propulsion engine": 9
+	}
+}

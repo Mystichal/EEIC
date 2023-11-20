@@ -1,0 +1,25 @@
+{
+    "name": "Assult Cyclops Blueprint",
+    "volume": 0.01,
+    "products": "Assult Cyclops",
+    "tech level": 10,
+    "manufacturing time": "05:00:00",
+    "manufacturing cost": 40000000,
+    "pi requirements": {
+        "lustering alloy": 123393,
+        "motley compound": 161718,
+        "crystal compound": 130403,
+        "base metals": 37233,
+        "reactive metals": 41907
+    },
+    "ore requirements": {
+        "tritanium": 6180668,
+        "pyrite": 1244198,
+        "mexallon": 388826,
+        "isogen": 81690,
+        "noxium": 25247,
+        "zydrine": 7559,
+        "megacyte": 4058,
+        "morphite": 1326
+    }
+}

@@ -1,0 +1,24 @@
+{
+	"name": "Coercer III Interdictor Blueprint",
+	"volume": 0.01,
+	"products": "Coercer III Interdictor",
+	"tech level": 10,
+	"manufacturing time": "17:46:40",
+	"manufacturing cost": 95000000,
+	"pi requirements": {
+		"sheen compound": 34967,
+		"precious alloy": 29000,
+		"lucent compound": 34967,
+		"heavy mentals": 34967,
+		"reactive metals": 9203
+	},
+	"ore requirements": {
+		"tritanium": 29396007,
+		"pyrite": 7107392,
+		"mexallon": 2412969,
+		"isogen": 545249,
+		"noxium": 124841,
+		"zydrine": 43779,
+		"megacyte": 23573
+	}
+}

@@ -1,0 +1,24 @@
+{
+	"name": "Thrasher Interdictor Blueprint",
+	"volume": 0.01,
+	"products": "Thrasher Interdictor",
+	"tech level": 6,
+	"manufacturing time": "01:40:00",
+	"manufacturing cost": 3500000,
+	"material efficiency": 150,
+	"time efficiency": 100,
+	"pi requirements": {
+		"lustering alloy": 6620,
+		"gleaming alloy": 6663,
+		"lucent compound": 7133,
+		"noble metals": 7550,
+		"reactive metals": 1878
+	},
+	"ore requirements": {
+		"tritanium": 1251734,
+		"pyrite": 287336,
+		"mexallon": 99447,
+		"isogen": 22068,
+		"noxium": 5592
+	}
+}

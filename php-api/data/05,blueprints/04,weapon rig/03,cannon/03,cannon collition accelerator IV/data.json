@@ -1,0 +1,15 @@
+{
+    "name": "Cannon Collision Accelerator IV Blueprint",
+    "volume": 0.01,
+    "products": "Cannon Collision Accelerator IV",
+    "tech level": 10,
+    "manufacturing time": "62:30:00",
+    "manufacturing cost": 650000,
+    "salvaged part requirements": {
+        "charred micro circuit": 1425,
+        "fried interface circuit": 2370,
+        "tripped power circuit": 4440,
+        "burned logic circuit": 887,
+        "contaminated nanite polymer": 3255
+    }
+}

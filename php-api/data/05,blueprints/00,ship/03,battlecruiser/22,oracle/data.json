@@ -1,0 +1,24 @@
+{
+    "name": "Oracle Blueprint",
+    "volume": 0.01,
+    "products": "Oracle",
+    "tech level": 8,
+    "manufacturing time": "13:20:00",
+    "manufacturing cost": 40000000,
+    "pi requirements": {
+        "sheen compound": 31043,
+        "precious alloy": 25746,
+        "glossy compound": 28998,
+        "heavy mentals": 31043,
+        "reactive metals": 8171
+    },
+    "ore requirements": {
+        "tritanium": 13903092,
+        "pyrite": 3186337,
+        "mexallon": 962568,
+        "isogen": 164618,
+        "noxium": 53645,
+        "zydrine": 14021,
+        "megacyte": 9092
+    }
+}

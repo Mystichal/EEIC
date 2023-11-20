@@ -1,0 +1,23 @@
+{
+	"name": "Minokawa Blueprint",
+	"volume": 0.01,
+	"products": "Minokawa",
+	"tech level": 10,
+	"manufacturing time": "720:00:00",
+	"manufacturing cost": 1000000000,
+	"components requirements": {
+		"capital ship maintenance bay": 12,
+		"capital capacitor battery": 18,
+		"capital power generator": 24,
+		"capital armor plates": 9,
+		"capital sensor cluster": 9,
+		"capital shield emitter": 18,
+		"capital seige array": 30,
+		"capital computer system": 15,
+		"capital construction parts": 18,
+		"capital corporate hangar bay": 9,
+		"capital jump drive": 9,
+		"capital propulsion engine": 9,
+		"capital drone bay": 12
+	}
+}

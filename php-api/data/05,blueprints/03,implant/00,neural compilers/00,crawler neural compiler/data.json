@@ -1,0 +1,18 @@
+{
+    "name": "Crawler Neural Compiler Blueprint",
+    "volume": 0.01,
+    "products": "Crawler Neural Compiler",
+    "production amount": 10,
+    "tech level": 5,
+    "manufacturing time": "00:05:00",
+    "manufacturing cost": 600000,
+    "ore requirements": {
+        "mexallon": 4410,
+        "isogen": 1023,
+        "noxium": 287,
+        "megacyte": 15
+    },
+    "implant component requirements": {
+        "mimetic neuron": 75
+    }
+}

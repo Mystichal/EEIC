@@ -1,0 +1,12 @@
+{
+    "name": "Remote Shield Booster Economizer III Blueprint",
+    "volume": 0.01,
+    "products": "Remote Shield Booster Economizer III",
+    "tech level": 8,
+    "manufacturing time": "12:30:00",
+    "manufacturing cost": 95000,
+    "salvaged part requirements": {
+        "tripped power circuit": 450,
+        "defective current pump": 225
+    }
+}

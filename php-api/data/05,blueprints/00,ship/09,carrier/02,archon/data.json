@@ -1,0 +1,22 @@
+{
+	"name": "Archon Blueprint",
+	"volume": 0.01,
+	"products": "Archon",
+	"tech level": 10,
+	"manufacturing time": "583:00:00",
+	"manufacturing cost": 2000000000,
+	"components requirements": {
+		"capital ship maintenance bay": 11,
+		"capital capacitor battery": 3,
+		"capital power generator": 3,
+		"capital armor plates": 5,
+		"capital sensor cluster": 6,
+		"capital shield emitter": 11,
+		"capital computer system": 8,
+		"capital construction parts": 6,
+		"capital corporate hangar bay": 5,
+		"capital jump drive": 5,
+		"capital propulsion engine": 6,
+		"capital drone bay": 30
+	}
+}

@@ -1,0 +1,24 @@
+{
+    "name": "Tempest Blueprint",
+    "volume": 0.01,
+    "products": "Tempest",
+    "tech level": 9,
+    "manufacturing time": "11:33:20",
+    "manufacturing cost": 95000000,
+    "pi requirements": {
+        "gleaming alloy": 101370,
+        "precious alloy": 89999,
+        "crystal compound": 107625,
+        "noble metals": 114854,
+        "reactive metals": 28559
+    },
+    "ore requirements": {
+        "tritanium": 26982689,
+        "pyrite": 7867437,
+        "mexallon": 2461499,
+        "isogen": 385652,
+        "noxium": 126360,
+        "zydrine": 42146,
+        "megacyte": 23663
+    }
+}

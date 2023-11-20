@@ -1,0 +1,24 @@
+{
+    "name": "Structure Medical Center Blueprint",
+    "volume": 0.01,
+    "products": "Structure Medical Center",
+    "tech level": 6,
+    "manufacturing time": "24:00:00",
+    "manufacturing cost": 20000000,
+    "pi requirements": {
+        "reactive gas": 42177,
+        "super tensile plastics": 18458,
+        "condensates": 21494,
+        "construction blocks": 30771,
+        "nanites": 10176
+    },
+    "ore requirements": {
+        "tritanium": 5091893,
+        "pyrite": 1289439,
+        "mexallon": 417359,
+        "isogen": 69479,
+        "noxium": 17807,
+        "zydrine": 8000,
+        "megacyte": 4176
+    }
+}

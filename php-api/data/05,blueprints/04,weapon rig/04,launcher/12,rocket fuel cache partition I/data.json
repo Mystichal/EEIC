@@ -1,0 +1,12 @@
+{
+    "name": "Rocket Fuel Cache Partition I Blueprint",
+    "volume": 0.01,
+    "products": "Rocket Fuel Cache Partition I",
+    "tech level": 4,
+    "manufacturing time": "00:30:00",
+    "manufacturing cost": 8000,
+    "salvage part requirements": {
+        "charred micro circuit": 57,
+        "smashed trigger unit": 44
+    }
+}

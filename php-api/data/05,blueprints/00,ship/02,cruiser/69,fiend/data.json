@@ -1,0 +1,33 @@
+{
+	"name": "Fiend Blueprint",
+	"volume": 0.01,
+	"products": "Fiend",
+	"tech level": 10,
+	"manufacturing time": "26:40:00",
+	"manufacturing cost": 45000000,
+	"pi requirements": {
+		"condensed alloy": 3474629,
+		"precious alloy": 2722694,
+		"opulent compound": 3474629,
+		"reactive metals": 863937,
+		"toxic metals": 856824,
+		"super tensile plastics": 2003523,
+		"nanites": 863937
+	},
+	"ore requirements": {
+		"tritanium": 178572405,
+		"pyrite": 33911739,
+		"mexallon": 12088607,
+		"isogen": 2071976,
+		"noxium": 607827,
+		"zydrine": 153387,
+		"megacyte": 102795,
+		"morphite": 29796
+	},
+	"component requirements": {
+		"ppd fullerene fiber": 12000,
+	},
+	"ship requirements": {
+		"phantasm": 2
+	}
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Ore Hold Optimization IV Blueprint",
+    "volume": 0.01,
+    "products": "Ore Hold Optimization IV",
+    "tech level": 10,
+    "manufacturing time": "62:30:00",
+    "manufacturing cost": 600000,
+    "salvaged part requirements": {
+        "charred micro circuit": 1020,
+        "fried interface circuit": 1695,
+        "tripped power circuit": 3160,
+        "burned logic circuit": 633,
+        "contaminated nanite polymer": 3960
+    }
+}

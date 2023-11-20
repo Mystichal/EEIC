@@ -1,0 +1,24 @@
+{
+	"name": "Tornado III Blueprint",
+	"volume": 0.01,
+	"products": "Tornado III",
+	"tech level": 10,
+	"manufacturing time": "33:20:00",
+	"manufacturing cost": 350000000,
+	"pi requirements": {
+		"gleaming alloy": 117947,
+		"precious alloy": 104717,
+		"glossy compound": 117947,
+		"noble metals": 133635,
+		"reactive metals": 33228
+	},
+	"ore requirements": {
+		"tritanium": 102341652,
+		"pyrite": 25941554,
+		"mexallon": 9240137,
+		"isogen": 1919102,
+		"noxium": 425640,
+		"zydrine": 146796,
+		"megacyte": 95402
+	}
+}

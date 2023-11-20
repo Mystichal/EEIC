@@ -1,0 +1,24 @@
+{
+	"name": "Probe Explorer Blueprint",
+	"volume": 0.01,
+	"products": "Probe Explorer",
+	"tech level": 10,
+	"manufacturing time": "13:20:00",
+	"manufacturing cost": 60000000,
+	"pi requirements": {
+		"gleaming alloy": 20687,
+		"precious alloy": 18366,
+		"fiber composite": 23438,
+		"noble metals": 23438,
+		"reactive metals": 5829
+	},
+	"ore requirements": {
+		"tritanium": 20240534,
+		"pyrite": 4404545,
+		"mexallon": 1788515,
+		"isogen": 281214,
+		"noxium": 76658,
+		"zydrine": 27585,
+		"megacyte": 15435
+	}
+}

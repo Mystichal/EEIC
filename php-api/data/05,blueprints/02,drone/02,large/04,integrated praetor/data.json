@@ -1,0 +1,27 @@
+{
+    "name": "Integrated Preator Blueprint",
+    "volume": 0.01,
+    "products": "Integrated Preator",
+    "tech level": 10,
+    "manufacturing time": "06:00:00",
+    "manufacturing cost": 3000000,
+    "pi requirements": {
+        "sheen compound": 182582,
+        "condensed alloy": 218310,
+        "opulent compound": 206820,
+        "crystal compound": 194781,
+        "reactive metals": 54282,
+        "precious metals": 24048,
+        "non-cs crystals": 26163
+    },
+    "ore requirements": {
+        "tritanium": 6971244,
+        "pyrite": 1888880,
+        "mexallon": 531515,
+        "isogen": 107639,
+        "noxium": 32435,
+        "zydrine": 11502,
+        "megacyte": 5591,
+        "morphite": 1793
+    }
+}

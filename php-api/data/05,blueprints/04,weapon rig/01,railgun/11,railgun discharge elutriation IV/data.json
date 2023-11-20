@@ -1,0 +1,15 @@
+{
+	"name": "Railgun Discharge Elutriation IV Blueprint",
+	"volume": 0.0,
+	"products": "Railgun Discharge Elutriation IV Blueprint",
+	"tech level": 10,
+    "manufacturing time": "62:30:40",
+    "manufacturing cost": 400000,
+    "salvaged part requirements": {
+        "charred micro circuit": 495,
+        "fried interface circuit": 810,
+        "tripped power circuit": 1515,
+        "burned logic circuit": 303,
+        "defective current pump": 4125
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "name": "Lightweight Atron Blueprint",
+    "volume": 0.01,
+    "products": "Lightweight Atron",
+    "tech level": 10,
+    "manufacturing time": "05:20:00",
+    "manufacturing cost": 9500000,
+    "pi requirements": {
+        "lustering alloy": 38264,
+        "base metals": 11483
+    },
+    "ore requirements": {
+        "noxium": 6362,
+        "zydrine": 2246,
+        "megacyte": 1124,
+        "morphite": 749
+    },
+    "module requirements": {
+        "federation navy small snubnosed railgun": 9
+    },
+    "ship requirements": {
+        "atron II": 2
+    }
+}

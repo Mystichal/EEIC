@@ -1,0 +1,24 @@
+{
+	"name": "Tempest Striker Blueprint",
+	"volume": 0.01,
+	"products": "Tempest Striker",
+	"tech level": 10,
+	"manufacturing time": "44:26:00",
+	"manufacturing cost": 450000000,
+	"pi requirements": {
+		"gleaming alloy": 145166,
+		"precious alloy": 128882,
+		"crystal compound": 154122,
+		"noble metals": 164475,
+		"reactive metals": 40896
+	},
+	"ore requirements": {
+		"tritanium": 14404880,
+		"pyrite": 33456537,
+		"mexallon": 12786669,
+		"isogen": 1748472,
+		"noxium": 613991,
+		"zydrine": 182658,
+		"megacyte": 100211
+	}
+}

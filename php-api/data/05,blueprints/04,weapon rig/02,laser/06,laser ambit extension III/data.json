@@ -1,0 +1,12 @@
+{
+    "name": "Laser Ambit Extension III Blueprint",
+    "volume": 0.01,
+    "products": "Laser Ambit Extension III",
+    "tech level": 8,
+    "manufacturing time": "12:30:00",
+    "manufacturing cost": 150000,
+    "salvage part requirements": {
+        "scorched telemetry processor": 159,
+        "conductive polymer": 608
+    }
+}

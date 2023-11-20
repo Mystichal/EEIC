@@ -1,0 +1,26 @@
+{
+    "name": "Offense Shrike Blueprint",
+    "volume": 0.01,
+    "products": "Offense Shrike",
+    "tech level": 10,
+    "manufacturing time": "05:00:00",
+    "manufacturing cost": 25000000,
+    "pi requirements": {
+        "lustering alloy": 97403,
+        "motley compound": 98031,
+        "lucent compound": 104943,
+        "glossy compound": 98031,
+        "base metals": 29229,
+        "precious metals": 25571
+    },
+    "ore requirements": {
+        "tritanium": 7928040,
+        "pyrite": 1922007,
+        "mexallon": 657179,
+        "isogen": 116198,
+        "noxium": 32384,
+        "zydrine": 11430,
+        "megacyte": 5715,
+        "morphite": 1905
+    }
+}

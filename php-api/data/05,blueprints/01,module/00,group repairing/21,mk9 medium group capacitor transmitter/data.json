@@ -1,0 +1,24 @@
+{
+    "name": "MK9 Medium Group Capacitor Transmitter Blueprint",
+    "volume": 0.01,
+    "products": "MK9 Medium Group Capacitor Transmitter",
+    "tech level": 9,
+    "manufacturing time": "01:00:00",
+    "manufacturing cost": 5000000,
+    "pi requirements": {
+        "sheen compound": 5814,
+        "lucent compound": 5768,
+        "glossy compound": 6525,
+        "heavy mentals": 6219,
+        "reactive metals": 1779
+    },
+    "ore requirements": {
+        "tritanium": 420399,
+        "pyrite": 77574,
+        "mexallon": 26243,
+        "isogen": 4590,
+        "noxium": 1190,
+        "zydrine": 462,
+        "megacyte": 291
+    }
+}

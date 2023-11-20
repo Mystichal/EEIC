@@ -1,0 +1,22 @@
+{
+    "name": "Moa Blueprint",
+    "volume": 0.01,
+    "products": "Moa",
+    "tech level": 6,
+    "manufacturing time": "02:13:20",
+    "manufacturing cost": 6500000,
+    "pi requirements": {
+        "lustering alloy": 13566,
+        "gleaming alloy": 13653,
+        "opulent compound": 15468,
+        "noble metals": 15468,
+        "reactive metals": 3846
+    },
+    "ore requirements": {
+        "tritanium": 2511083,
+        "pyrite": 711756,
+        "mexallon": 223095,
+        "isogen": 38145,
+        "noxium": 9084
+    }
+}

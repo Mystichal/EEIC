@@ -1,0 +1,25 @@
+{
+    "name": "MK9 Cloaking Device Blueprint",
+    "volume": 0.01,
+    "products": "MK9 Cloaking Device",
+    "production amount": 5,
+    "tech level": 9,
+    "manufacturing time": "01:00:00",
+    "manufacturing cost": 4000000,
+    "pi requirements": {
+        "lustering alloy": 4478,
+        "precious alloy": 3439,
+        "lucent compound": 4859,
+        "dark compound": 5096,
+        "base metals": 1353
+    },
+    "ore requirements": {
+        "tritanium": 282279,
+        "pyrite": 57546,
+        "mexallon": 19358,
+        "isogen": 3236,
+        "noxium": 1217,
+        "zydrine": 419,
+        "megacyte": 170
+    }
+}

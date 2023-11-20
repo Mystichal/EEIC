@@ -1,0 +1,24 @@
+{
+    "name": "Vindicator Blueprint",
+    "volume": 0.01,
+    "products": "Vindicator",
+    "tech level": 8,
+    "manufacturing time": "120:00:00",
+    "manufacturing cost": 600000000,
+    "pi requirements": {
+        "condensed alloy": 422228,
+        "precious alloy": 330855,
+        "crystal compound": 395652,
+        "reactive metals": 104984,
+        "toxic metals": 104120
+    },
+    "ore requirements": {
+        "tritanium": 156689507,
+        "pyrite": 50355518,
+        "mexallon": 13886433,
+        "isogen": 2787645,
+        "noxium": 769304,
+        "zydrine": 250509,
+        "megacyte": 147855
+    }
+}

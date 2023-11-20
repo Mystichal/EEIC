@@ -1,0 +1,22 @@
+{
+    "name": "MK5 Medium Group Capacitor Transmitter Blueprint",
+    "volume": 0.01,
+    "products": "MK5 Medium Group Capacitor Transmitter",
+    "tech level": 5,
+    "manufacturing time": "00:25:00",
+    "manufacturing cost": 1500000,
+    "pi requirements": {
+        "sheen compound": 2510,
+        "lucent compound": 2123,
+        "glossy compound": 2267,
+        "heavy mentals": 2645,
+        "reactive metals": 551
+    },
+    "ore requirements": {
+        "tritanium": 110052,
+        "pyrite": 30999,
+        "mexallon": 10599,
+        "isogen": 1893,
+        "noxium": 578
+    }
+}

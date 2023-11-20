@@ -1,0 +1,22 @@
+{
+    "name": "Bestower Blueprint",
+    "volume": 0.01,
+    "products": "Bestower",
+    "tech level": 6,
+    "manufacturing time": "02:13:20",
+    "manufacturing cost": 4500000,
+    "pi requirements": {
+        "lustering alloy": 8759,
+        "sheen compound": 9437,
+        "opulent compound": 9989,
+        "heavy mentals": 9437,
+        "reactive metals": 2484
+    },
+    "ore requirements": {
+        "tritanium": 2092069,
+        "pyrite": 392720,
+        "mexallon": 135738,
+        "isogen": 24122,
+        "noxium": 6666
+    }
+}

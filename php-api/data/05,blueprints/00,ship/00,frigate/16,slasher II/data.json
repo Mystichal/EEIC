@@ -1,0 +1,20 @@
+{
+    "name": "Slasher II Blueprint",
+    "volume": 0.01,
+    "products": "Slasher II",
+    "tech level": 4,
+    "manufacturing time": "00:16:40",
+    "manufacturing cost": 200000,
+    "pi requirements": {
+        "lustering alloy": 1050,
+        "gleaming alloy": 1058,
+        "motley compound": 1058,
+        "base metals": 315,
+        "noble metals": 1197
+    },
+    "ore requirements": {
+        "tritanium": 59084,
+        "pyrite": 11943,
+        "mexallon": 4812
+    }
+}

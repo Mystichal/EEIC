@@ -1,0 +1,12 @@
+{
+    "name": "Ancillary Powergrid Current Router III Blueprint",
+    "volume": 0.01,
+    "products": "Ancillary Powergrid Current Router III",
+    "tech level": 8,
+    "manufacturing time": "12:30:00",
+    "manufacturing cost": 100000,
+    "salvage part requirements": {
+        "scorched telemetry processor": 95,
+        "conductive polymer": 518
+    }
+}

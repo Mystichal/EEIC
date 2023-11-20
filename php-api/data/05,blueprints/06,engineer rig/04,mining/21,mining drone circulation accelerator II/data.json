@@ -1,0 +1,13 @@
+{
+    "name": "Mining Drone Circulation Accelerator II Blueprint",
+    "volume": 0.01,
+    "products": "Mining Drone Circulation Accelerator II",
+    "tech level": 6,
+    "manufacturing time": "02:30:00",
+    "manufacturing cost": 550000,
+    "salvaged part requirements": {
+        "fried interface circuit": 2055,
+        "damaged close-in weapon system": 750,
+        "conductive polymer": 2730
+    }
+}

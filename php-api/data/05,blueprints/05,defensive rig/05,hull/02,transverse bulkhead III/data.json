@@ -1,0 +1,12 @@
+{
+    "name": "Transverse Bulkhead III Blueprint",
+    "volume": 0.01,
+    "products": "Transverse Bulkhead III",
+    "tech level": 8,
+    "manufacturing time": "12:30:00",
+    "manufacturing cost": 300000,
+    "salvage part requirements": {
+        "tripped power circuit": 704,
+        "contaminated lorentz fluid": 158
+    }
+}

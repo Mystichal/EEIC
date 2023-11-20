@@ -1,0 +1,24 @@
+{
+    "name": "Badger II Blueprint",
+    "volume": 0.01,
+    "products": "Badger II",
+    "tech level": 10,
+    "manufacturing time": "17:46:40",
+    "manufacturing cost": 85000000,
+    "pi requirements": {
+        "gleaming alloy": 55749,
+        "precious alloy": 49494,
+        "opulent compound": 63164,
+        "noble metals": 63164,
+        "reactive metals": 15705
+    },
+    "ore requirements": {
+        "tritanium": 23233994,
+        "pyrite": 5687171,
+        "mexallon": 2195000,
+        "isogen": 422514,
+        "noxium": 122223,
+        "zydrine": 36446,
+        "megacyte": 18270
+    }
+}

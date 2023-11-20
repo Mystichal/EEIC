@@ -1,0 +1,22 @@
+{
+    "name": "Kryos Blueprint",
+    "volume": 0.01,
+    "products": "Kryos",
+    "tech level": 6,
+    "manufacturing time": "02:13:20",
+    "manufacturing cost": 5000000,
+    "pi requirements": {
+        "lustering alloy": 9452,
+        "sheen compound": 10184,
+        "opulent compound": 10778,
+        "heavy mentals": 10184,
+        "reactive metals": 2681
+    },
+    "ore requirements": {
+        "tritanium": 1730782,
+        "pyrite": 473373,
+        "mexallon": 153947,
+        "isogen": 25482,
+        "noxium": 7265
+    }
+}

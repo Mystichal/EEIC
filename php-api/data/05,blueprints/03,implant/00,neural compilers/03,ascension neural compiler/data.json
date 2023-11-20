@@ -1,0 +1,17 @@
+{
+    "name": "Ascension Neural Compiler Blueprint",
+    "volume": 0.01,
+    "products": "Ascension Neural Compiler",
+    "tech level": 10,
+    "manufacturing time": "00:20:00",
+    "manufacturing cost": 80000000,
+    "ore requirements": {
+        "mexallon": 37650,
+        "isogen": 6660,
+        "noxium": 1860,
+        "megacyte": 330
+    },
+    "implant component requirements": {
+        "overloaded neruon": 300
+    }
+}

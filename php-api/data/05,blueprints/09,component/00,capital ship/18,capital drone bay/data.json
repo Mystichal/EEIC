@@ -1,0 +1,25 @@
+{
+    "name": "Capital Drone Bay Blueprint",
+    "volume": 0.01,
+    "products": "Capital Drone Bay",
+    "tech level": 9,
+    "manufacturing time": "24:00:00",
+    "manufacturing cost": 150000000,
+    "pi requirements": {
+        "precious alloy": 75978,
+        "lucent compound": 91613,
+        "opulent compound": 96962,
+        "glossy compound": 85578,
+        "heavy mentals": 91613
+    },
+    "ore requirements": {
+        "tritanium": 7128587,
+        "pyrite": 1719806,
+        "mexallon": 565094,
+        "isogen": 97380,
+        "noxium": 32087,
+        "zydrine": 9180,
+        "megacyte": 5015,
+        "morphite": 1565
+    }
+}

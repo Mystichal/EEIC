@@ -1,0 +1,22 @@
+{
+    "name": "MK3 Hobgoblin Blueprint",
+    "volume": 0.01,
+    "products": "MK3 Hobgoblin",
+    "production amount": 10,
+    "tech level": 3,
+    "manufacturing time": "00:10:00",
+    "manufacturing cost": 250000,
+    "pi requirements": {
+        "gleaming alloy": 476,
+        "lucent compound": 611,
+        "crystal compound": 471,
+        "noble metals": 560,
+        "toxic metals": 114
+    },
+    "ore requirements": {
+        "tritanium": 23327,
+        "pyrite": 4862,
+        "mexallon": 1391,
+        "isogen": 249
+    }
+}

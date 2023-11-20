@@ -1,0 +1,24 @@
+{
+    "name": "Hyperion Blueprint",
+    "volume": 0.01,
+    "products": "Hyperion",
+    "tech level": 10,
+    "manufacturing time": "44:26:40",
+    "manufacturing cost": 450000000,
+    "pi requirements": {
+        "sheen compound": 155402,
+        "precious alloy": 128882,
+        "crystal compound": 154122,
+        "heavy mentals": 155402,
+        "reactive metals": 40896
+    },
+    "ore requirements": {
+        "tritanium": 131988906,
+        "pyrite": 33456537,
+        "mexallon": 11254625,
+        "isogen": 2198372,
+        "noxium": 529497,
+        "zydrine": 210453,
+        "megacyte": 101222
+    }
+}

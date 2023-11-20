@@ -1,0 +1,26 @@
+{
+	"name": "Core 1600mm Titanium Armor Blueprint",
+	"volume": 0.01,
+	"products": "Core 1600mm Titanium Armor",
+	"tech level": 8,
+	"manufacturing time": "16:00:00",
+	"manufacturing cost": 0,
+	"pi requirements": {
+		"sheen compound": 32379,
+		"precious alloy": 20657,
+		"glossy compound": 27533,
+		"dark compound": 31134,
+		"heavy mentals": 27398,
+		"precious metals": 5058,
+		"non-cs crystals": 5504
+	},
+	"ore requirements": {
+		"tritanium": 1599365,
+		"pyrite": 410546,
+		"mexallon": 124778,
+		"isogen": 18960,
+		"noxium": 7751,
+		"zydrine": 1956,
+		"megacyte": 1176
+	}
+}

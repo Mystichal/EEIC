@@ -1,0 +1,25 @@
+{
+    "name": "Federation Navy Satyr Blueprint",
+    "volume": 0.01,
+    "products": "Federation Navy Satyr",
+    "tech level": 10,
+    "manufacturing time": "03:00:00",
+    "manufacturing cost": 6500000,
+    "pi requirements": {
+        "sheen compound": 55703,
+        "fiber composite": 46632,
+        "crystal compound": 45282,
+        "heavy mentals": 40635,
+        "toxic metals": 11024
+    },
+    "ore requirements": {
+        "tritanium": 1974701,
+        "pyrite": 374204,
+        "mexallon": 142245,
+        "isogen": 24899,
+        "noxium": 6728,
+        "zydrine": 2661,
+        "megacyte": 1188,
+        "morphite": 416
+    }
+}

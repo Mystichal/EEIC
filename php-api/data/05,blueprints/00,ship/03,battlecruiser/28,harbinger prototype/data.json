@@ -1,0 +1,23 @@
+{
+    "name": "Harbinger Prototype Blueprint",
+    "volume": 0.01,
+    "products": "Harbinger Prototype",
+    "tech level": 7,
+    "manufacturing time": "06:40:00",
+    "manufacturing cost": 25000000,
+    "pi requirements": {
+        "sheen compound": 32526,
+        "precious alloy": 26975,
+        "glossy compound": 30383,
+        "heavy mentals": 32526,
+        "reactive metals": 8561
+    },
+    "ore requirements": {
+        "tritanium": 9767015,
+        "pyrite": 1889577,
+        "mexallon": 605636,
+        "isogen": 127322,
+        "noxium": 36041,
+        "zydrine": 11763
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "name": "Thorax Blueprint",
+    "volume": 0.01,
+    "products": "Thorax",
+    "tech level": 6,
+    "manufacturing time": "02:13:20",
+    "manufacturing cost": 7000000,
+    "pi requirements": {
+        "lustering alloy": 14450,
+        "sheen compound": 15569,
+        "opulent compound": 16478,
+        "heavy mentals": 15569,
+        "reactive metals": 4098
+    },
+    "ore requirements": {
+        "tritanium": 2645991,
+        "pyrite": 723686,
+        "mexallon": 235352,
+        "isogen": 38955,
+        "noxium": 11107
+    }
+}

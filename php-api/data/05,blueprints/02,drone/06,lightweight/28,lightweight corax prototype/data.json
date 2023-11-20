@@ -1,0 +1,24 @@
+{
+    "name": "Lightweight Corax Prototype Blueprint",
+    "volume": 0.01,
+    "products": "Lightweight Corax Prototype",
+    "tech level": 10,
+    "manufacturing time": "06:00:00",
+    "manufacturing cost": 10000000,
+    "pi requirements": {
+        "sheen compound": 23087,
+        "heavy metals": 23087
+    },
+    "ore requirements": {
+        "noxium": 7125,
+        "zydrine": 2516,
+        "megacyte": 1259,
+        "morphite": 420
+    },
+    "module requirements": {
+        "caldari navy small missile launcher": 11
+    },
+    "ship requirements": {
+        "corax": 2
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Inquisitor Blueprint",
+    "volume": 0.01,
+    "products": "Inquisitor",
+    "tech level": 5,
+    "manufacturing time": "00:33:20",
+    "manufacturing cost": 550000,
+    "pi requirements": {
+        "lustering alloy": 1388,
+        "sheen compound": 1496,
+        "motley compound": 1397,
+        "base metals": 417,
+        "heavy mentals": 1496
+    },
+    "ore requirements": {
+        "tritanium": 306236,
+        "pyrite": 57134,
+        "mexallon": 18171,
+        "isogen": 2826
+    }
+}

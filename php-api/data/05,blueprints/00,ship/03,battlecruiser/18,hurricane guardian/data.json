@@ -1,0 +1,24 @@
+{
+	"name": "Hurricane Guardian Blueprint",
+	"volume": 0.01,
+	"products": "Hurricane Guardian",
+	"tech level": 10,
+	"manufacturing time": "33:20:00",
+	"manufacturing cost": 350000000,
+	"pi requirements": {
+		"gleaming alloy": 113229,
+		"precious alloy": 128291,
+		"glossy compound": 113229,
+		"noble metals": 128291,
+		"reactive metals": 31899
+	},
+	"ore requirements": {
+		"tritanium": 105564324,
+		"pyrite": 25831164,
+		"mexallon": 9422066,
+		"isogen": 1579148,
+		"noxium": 445961,
+		"zydrine": 155637,
+		"megacyte": 77375
+	}
+}

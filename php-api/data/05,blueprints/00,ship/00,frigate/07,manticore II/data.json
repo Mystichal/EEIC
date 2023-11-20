@@ -1,0 +1,24 @@
+{
+    "name": "Manticore II Blueprint",
+    "volume": 0.01,
+    "products": "Manticore II",
+    "tech level": 9,
+    "manufacturing time": "06:40:00",
+    "manufacturing cost": 15000000,
+    "pi requirements": {
+        "gleaming alloy": 17186,
+        "precious alloy": 15258,
+        "fiber composite": 19472,
+        "noble metals": 19472,
+        "reactive metals": 4842
+    },
+    "ore requirements": {
+        "tritanium": 4182102,
+        "pyrite": 1196067,
+        "mexallon": 426021,
+        "isogen": 68984,
+        "noxium": 21422,
+        "zydrine": 6327,
+        "megacyte": 3053
+    }
+}

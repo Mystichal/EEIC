@@ -1,0 +1,12 @@
+{
+    "name": "Decomposer Burst Aerator III Blueprint",
+    "volume": 0.01,
+    "products": "Decomposer Burst Aerator III",
+    "tech level": 8,
+    "manufacturing time": "12:30:00",
+    "manufacturing cost": 300000,
+    "salvage part requirements": {
+        "scorched telemetry processor": 206,
+        "conductive polymer": 570
+    }
+}

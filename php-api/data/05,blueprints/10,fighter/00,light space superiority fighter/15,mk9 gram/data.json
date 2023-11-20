@@ -1,0 +1,25 @@
+{
+    "name": "MK9 Gram Blueprint",
+    "volume": 0.01,
+    "products": "MK9 Gram",
+    "production amount": 2,
+    "tech level": 10,
+    "manufacturing time": "04:00:00",
+    "manufacturing cost": 20000000,
+    "pi requirements": {
+        "sheen compound": 37514,
+        "fiber composite": 36689,
+        "dark compound": 26276,
+        "heavy mentals": 32341,
+        "toxic metals": 7437
+    },
+    "ore requirements": {
+        "tritanium": 1118061,
+        "pyrite": 308741,
+        "mexallon": 94167,
+        "isogen": 18666,
+        "noxium": 4983,
+        "zydrine": 1836,
+        "megacyte": 777
+    }
+}

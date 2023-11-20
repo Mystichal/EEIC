@@ -1,0 +1,24 @@
+{
+    "name": "Structure Construction Parts Blueprint",
+    "volume": 0.01,
+    "products": "Structure Construction Parts",
+    "tech level": 6,
+    "manufacturing time": "24:00:00",
+    "manufacturing cost": 20000000,
+    "pi requirements": {
+        "reactive gas": 37586,
+        "industrial fibers": 11241,
+        "coolant": 22341,
+        "construction blocks": 29988,
+        "silicate glass": 15078
+    },
+    "ore requirements": {
+        "tritanium": 4503035,
+        "pyrite": 1209162,
+        "mexallon": 495695,
+        "isogen": 69252,
+        "noxium": 20907,
+        "zydrine": 7304,
+        "megacyte": 3996
+    }
+}

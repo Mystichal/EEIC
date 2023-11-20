@@ -1,0 +1,17 @@
+{
+    "name": "Advanced Warhead Charge Blueprint",
+    "volume": 0.01,
+    "products": "Advanced Warhead Charge",
+    "tech level": 10,
+    "manufacturing time": "04:00:00",
+    "manufacturing cost": 300000000,
+    "ore requirements": {
+        "mexallon": 903615,
+        "isogen": 159765,
+        "noxium": 44520,
+        "megacyte": 7860
+    },
+    "implant component requirements": {
+        "overloaded neruon": 3600
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Assult Bezerker Blueprint",
+    "volume": 0.01,
+    "products": "Assult Bezerker",
+    "tech level": 10,
+    "manufacturing time": "04:00:00",
+    "manufacturing cost": 20000000,
+    "pi requirements": {
+        "sheen compound": 119798,
+        "fiber composite": 136070,
+        "dark compound": 116291,
+        "heavy mentals": 103436,
+        "toxic metals": 30351
+    },
+    "ore requirements": {
+        "tritanium": 3553884,
+        "pyrite": 872277,
+        "mexallon": 371442,
+        "isogen": 71177,
+        "noxium": 20558,
+        "zydrine": 6302,
+        "megacyte": 3612,
+        "morphite": 1062
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Offense Bezerker Blueprint",
+    "volume": 0.01,
+    "products": "Offense Bezerker",
+    "tech level": 10,
+    "manufacturing time": "05:00:00",
+    "manufacturing cost": 25000000,
+    "pi requirements": {
+        "sheen compound": 161808,
+        "fiber composite": 183786,
+        "dark compound": 157073,
+        "heavy mentals": 139709,
+        "toxic metals": 40995
+    },
+    "ore requirements": {
+        "tritanium": 4800191,
+        "pyrite": 1178175,
+        "mexallon": 501702,
+        "isogen": 96137,
+        "noxium": 27767,
+        "zydrine": 8511,
+        "megacyte": 4880,
+        "morphite": 1434
+    }
+}

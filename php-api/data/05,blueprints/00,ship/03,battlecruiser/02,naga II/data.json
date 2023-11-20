@@ -1,0 +1,24 @@
+{
+    "name": "Naga II Blueprint",
+    "volume": 0.01,
+    "products": "Naga II",
+    "tech level": 9,
+    "manufacturing time": "20:00:00",
+    "manufacturing cost": 65000000,
+    "pi requirements": {
+        "gleaming alloy": 70463,
+        "precious alloy": 62559,
+        "glossy compound": 70463,
+        "noble metals": 79835,
+        "reactive metals": 19851
+    },
+    "ore requirements": {
+        "tritanium": 17147529,
+        "pyrite": 4904130,
+        "mexallon": 1746780,
+        "isogen": 282845,
+        "noxium": 87833,
+        "zydrine": 25938,
+        "megacyte": 12513
+    }
+}

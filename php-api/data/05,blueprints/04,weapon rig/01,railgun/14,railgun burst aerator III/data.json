@@ -1,0 +1,12 @@
+{
+    "name": "Railgun Burst Aerator III Blueprint",
+    "volume": 0.01,
+    "products": "Railgun Burst Aerator III",
+    "tech level": 8,
+    "manufacturing time": "12:30:00",
+    "manufacturing cost": 200000,
+    "salvage part requirements": {
+        "tripped power circuit": 410,
+        "defective current pump": 191
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "name": "Integrated Locust Blueprint",
+    "volume": 0.01,
+    "products": "Integrated Locust",
+    "tech level": 10,
+    "manufacturing time": "06:00:00",
+    "manufacturing cost": 20000000,
+    "pi requirements": {
+        "lustering alloy": 110265,
+        "motley compound": 106827,
+        "glossy compound": 99050,
+        "dark compound": 93264,
+        "base metals": 34172,
+        "precious metals": 13527,
+        "non-cs crystals": 14718
+    },
+    "ore requirements": {
+        "tritanium": 4802051,
+        "pyrite": 909984,
+        "mexallon": 345909,
+        "isogen": 60546,
+        "noxium": 16361,
+        "zydrine": 6470,
+        "megacyte": 2888,
+        "morphite": 1008
+    }
+}

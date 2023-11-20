@@ -1,0 +1,24 @@
+{
+    "name": "Hurricane Logistics Blueprint",
+    "volume": 0.01,
+    "products": "Hurricane Logistics",
+    "tech level": 9,
+    "manufacturing time": "20:00:00",
+    "manufacturing cost": 65000000,
+    "pi requirements": {
+        "gleaming alloy": 68226,
+        "precious alloy": 60573,
+        "glossy compound": 68226,
+        "noble metals": 77301,
+        "reactive metals": 19221
+    },
+    "ore requirements": {
+        "tritanium": 18160325,
+        "pyrite": 5295069,
+        "mexallon": 1656678,
+        "isogen": 259558,
+        "noxium": 85046,
+        "zydrine": 28365,
+        "megacyte": 15926
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Corporation Outpost Blueprint",
+    "volume": 0.01,
+    "products": "Corporation Outpost",
+    "tech level": 6,
+    "manufacturing time": "333:00:00",
+    "manufacturing cost": 2500000000,
+    "components requirements": {
+        "structure construction parts": 38,
+        "structure hangar array": 20,
+        "structure storage bay": 26,
+        "structure laboratory": 5,
+        "structure factory": 8,
+        "structure repair facility": 11,
+        "structure reprocessing plant": 8,
+        "structure docking bay": 14,
+        "structure market network": 8,
+        "structure medical center": 11,
+        "structure office center": 11,
+        "structure mission network": 8,
+        "structure electromagnetic sensor": 5,
+        "structure acceleration coils": 8,
+        "structure advertisement nexus": 8
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "name": "Lightweight Condor Prototype Blueprint",
+    "volume": 0.01,
+    "products": "Lightweight Condor Prototype",
+    "tech level": 10,
+    "manufacturing time": "05:20:00",
+    "manufacturing cost": 6500000,
+    "pi requirements": {
+        "lustering alloy": 25509,
+        "base metals": 7656
+    },
+    "ore requirements": {
+        "noxium": 4241,
+        "zydrine": 1497,
+        "megacyte": 749,
+        "morphite": 500
+    },
+    "module requirements": {
+        "caldari navy small missile launcher": 8
+    },
+    "ship requirements": {
+        "condor II": 2
+    }
+}

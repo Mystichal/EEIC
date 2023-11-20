@@ -1,0 +1,12 @@
+{
+    "name": "Railgun Discharge Elutriation III Blueprint",
+    "volume": 0.01,
+    "products": "Railgun Discharge Elutriation III",
+    "tech level": 8,
+    "manufacturing time": "12:30:00",
+    "manufacturing cost": 90000,
+    "salvage part requirements": {
+        "tripped power circuit": 152,
+        "defective current pump": 165
+    }
+}

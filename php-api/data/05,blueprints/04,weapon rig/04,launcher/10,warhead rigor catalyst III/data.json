@@ -1,0 +1,12 @@
+{
+    "name": "Warhead Rigor Catalyst III Blueprint",
+    "volume": 0.01,
+    "products": "Warhead Rigor Catalyst III",
+    "tech level": 8,
+    "manufacturing time": "12:30:00",
+    "manufacturing cost": 150000,
+    "salvage part requirements": {
+        "tripped power circuit": 261,
+        "scorched telemetry processor": 180
+    }
+}

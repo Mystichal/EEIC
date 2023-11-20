@@ -1,0 +1,23 @@
+{
+    "name": "Ferox Blueprint",
+    "volume": 0.01,
+    "products": "Ferox",
+    "tech level": 7,
+    "manufacturing time": "06:40:00",
+    "manufacturing cost": 25000000,
+    "pi requirements": {
+        "gleaming alloy": 28058,
+        "precious alloy": 24911,
+        "glossy compound": 28058,
+        "noble metals": 31790,
+        "reactive metals": 7905
+    },
+    "ore requirements": {
+        "tritanium": 9407316,
+        "pyrite": 2399333,
+        "mexallon": 793172,
+        "isogen": 123297,
+        "noxium": 33561,
+        "zydrine": 11850
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Mining Drone Efficiency I Blueprint",
+    "volume": 0.01,
+    "products": "Mining Drone Efficiency I",
+    "tech level": 4,
+    "manufacturing time": "00:30:00",
+    "manufacturing cost": 250000,
+    "salvaged part requirements": {
+        "charred micro circuit": 1290,
+        "smashed trigger unit": 705,
+        "conductive polymer": 855,
+    }
+}

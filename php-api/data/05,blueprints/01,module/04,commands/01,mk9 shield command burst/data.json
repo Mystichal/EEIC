@@ -1,0 +1,24 @@
+{
+	"name": "MK9 Shield Command Burst Blueprint",
+	"volume": 0.01,
+	"products": "MK9 Shield Command Burst",
+	"tech level": 9,
+	"manufacturing time": "01:00:00",
+	"manufacturing cost": 2500000,
+	"pi requirements": {
+		"lustering alloy": 1919,
+		"lucent compound": 2244,
+		"crystal compound": 2358,
+		"noble metals": 2306,
+		"toxic metals": 528
+	},
+	"ore requirements": {
+		"tritanium": 157769,
+		"pyrite": 40080,
+		"mexallon": 13218,
+		"isogen": 2474,
+		"noxium": 687,
+		"zydrine": 257,
+		"megacyte": 116
+	}
+}

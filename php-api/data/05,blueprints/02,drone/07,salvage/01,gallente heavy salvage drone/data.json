@@ -1,0 +1,24 @@
+{
+    "name": "Gallente Heavy Salvage Drone Blueprint",
+    "volume": 0.01,
+    "products": "Gallente Heavy Salvage Drone",
+    "tech level": 10,
+    "manufacturing time": "02:40:00",
+    "manufacturing cost": 4000000,
+    "pi requirements": {
+        "sheen compound": 19310,
+        "fiber composite": 16166,
+        "glossy compound": 14786,
+        "noble metals": 14909,
+        "toxic metals": 3822
+    },
+    "ore requirements": {
+        "tritanium": 484245,
+        "pyrite": 152906,
+        "mexallon": 53769,
+        "isogen": 9815,
+        "noxium": 1955,
+        "zydrine": 987,
+        "megacyte": 425
+    }
+}

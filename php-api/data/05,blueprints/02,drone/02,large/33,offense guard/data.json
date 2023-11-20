@@ -1,0 +1,25 @@
+{
+    "name": "Offense Guard Blueprint",
+    "volume": 0.01,
+    "products": "Offense Guard",
+    "tech level": 10,
+    "manufacturing time": "05:00:00",
+    "manufacturing cost": 30000000,
+    "pi requirements": {
+        "lustering alloy": 166665,
+        "motley compound": 218432,
+        "crystal compound": 176133,
+        "base metals": 50289,
+        "reactive metals": 56603
+    },
+    "ore requirements": {
+        "tritanium": 8348159,
+        "pyrite": 1680525,
+        "mexallon": 525182,
+        "isogen": 110339,
+        "noxium": 34100,
+        "zydrine": 10209,
+        "megacyte": 5481,
+        "morphite": 1791
+    }
+}

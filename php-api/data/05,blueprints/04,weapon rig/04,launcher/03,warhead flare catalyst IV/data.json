@@ -1,0 +1,18 @@
+{
+    "name": "Warhead Flare Catalyst IV Blueprint",
+    "volume": 0.01,
+    "products": "Warhead Flare Catalyst IV",
+    "tech level": 10,
+    "manufacturing time": "62:30:00",
+    "manufacturing cost": 550000,
+    "salvaged part requirements": {
+        "charred micro circuit": 855,
+        "fried interface circuit": 1425,
+        "tripped power circuit": 2670,
+        "burned logic circuit": 533,
+        "smashed trigger unit": 525,
+        "damaged close-in weapon system": 870,
+        "scorched telemetry processor": 1635,
+        "damaged artificial neural network": 326
+    }
+}

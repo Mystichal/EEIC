@@ -1,0 +1,15 @@
+{
+	"name": "Higgs Anchor IV Blueprint",
+	"volume": 0.01,
+	"products": "Higgs Anchor IV",
+	"tech level": 10,
+    "manufacturing time": "62:30:00",
+    "manufacturing cost": 900000,
+    "salvaged part requirements": {
+        "charred micro circuit": 1230,
+        "fried interface circuit": 2055,
+        "tripped power circuit": 3855,
+        "burned logic circuit": 770,
+        "contaminated nanite polymer": 6915
+    }
+}

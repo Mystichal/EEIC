@@ -1,0 +1,25 @@
+{
+	"name": "Sea Lion Industrial Command Module Blueprint",
+	"volume": 0.01,
+	"products": "Sea Lion Industrial Command Module",
+	"tech level": 10,
+	"manufacturing time": "240:00:00",
+	"manufacturing cost": 1000000000,
+	"ore requirements": {
+		"morphite": 60732
+	},
+	"component requirements": {
+		"structure construction parts": 5,
+		"structure factory": 5,
+		"structure repair facility": 5,
+		"structure reprocessing plant": 5,
+		"structure office center": 5,
+		"structure mission network": 5,
+		"structure electromagnetic sensor": 5,
+		"structure acceleration coils": 5,
+		"capital power generator": 2,
+		"capital shield emitter": 2,
+		"capital computer system": 2,
+		"capital construction parts": 2
+	}
+}

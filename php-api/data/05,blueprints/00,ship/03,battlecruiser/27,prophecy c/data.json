@@ -1,0 +1,24 @@
+{
+	"name": "Prophecy C Blueprint",
+	"volume": 0.01,
+	"products": "Prophecy C",
+	"tech level": 8,
+	"manufacturing time": "13:20:00",
+	"manufacturing cost": 40000000,
+	"pi requirements": {
+		"sheen compound": 31191,
+		"precious alloy": 25869,
+		"glossy compound": 29138,
+		"heavy mentals": 31191,
+		"reactive metals": 8210
+	},
+	"ore requirements": {
+		"tritanium": 13969433,
+		"pyrite": 3201540,
+		"mexallon": 967161,
+		"isogen": 165402,
+		"noxium": 53901,
+		"zydrine": 14088,
+		"megacyte": 9135
+	}
+}

@@ -1,0 +1,24 @@
+{
+    "name": "MK7 Cloaking Device Blueprint",
+    "volume": 0.01,
+    "products": "MK7 Cloaking Device",
+    "production amount": 5,
+    "tech level": 7,
+    "manufacturing time": "00:35:00",
+    "manufacturing cost": 2500000,
+    "pi requirements": {
+        "lustering alloy": 2912,
+        "precious alloy": 3018,
+        "lucent compound": 3615,
+        "dark compound": 3519,
+        "base metals": 794
+    },
+    "ore requirements": {
+        "tritanium": 166350,
+        "pyrite": 45590,
+        "mexallon": 12516,
+        "isogen": 2837,
+        "noxium": 692,
+        "zydrine": 314
+    }
+}

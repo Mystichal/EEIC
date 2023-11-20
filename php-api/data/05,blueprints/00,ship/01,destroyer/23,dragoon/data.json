@@ -1,0 +1,20 @@
+{
+    "name": "Dragoon Blueprint",
+    "volume": 0.01,
+    "products": "Dragoon",
+    "tech level": 4,
+    "manufacturing time": "00:25:00",
+    "manufacturing cost": 250000,
+    "pi requirements": {
+        "lustering alloy": 1473,
+        "sheen compound": 1587,
+        "motley compound": 1483,
+        "base metals": 443,
+        "heavy mentals": 1587
+    },
+    "ore requirements": {
+        "tritanium": 104717,
+        "pyrite": 17309,
+        "mexallon": 6966
+    }
+}

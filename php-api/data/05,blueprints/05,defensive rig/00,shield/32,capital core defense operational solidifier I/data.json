@@ -1,0 +1,12 @@
+{
+    "name": "Capital Core Defense Operational Solidifier I Blueprint",
+    "volume": 0.01,
+    "products": "Capital Core Defense Operational Solidifier I",
+    "tech level": 10,
+    "manufacturing time": "62:30:00",
+    "manufacturing cost": 7000000,
+    "salvaged part requirements": {
+        "capital burned logic circuit": 633,
+        "capital defective current pump": 528
+    }
+}

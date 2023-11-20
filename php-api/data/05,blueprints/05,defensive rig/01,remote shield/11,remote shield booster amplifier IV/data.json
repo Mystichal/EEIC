@@ -1,0 +1,15 @@
+{
+    "name": "Remote Shield Booster Amplifier IV Blueprint",
+    "volume": 0.01,
+    "products": "Remote Shield Booster Amplifier IV",
+    "tech level": 10,
+    "manufacturing time": "62:30:00",
+    "manufacturing cost": 2000000,
+    "salvaged part requirements": {
+        "charred micro circuit": 1500,
+        "fried interface circuit": 2250,
+        "tripped power circuit": 4500,
+        "burned logic circuit": 900,
+        "defective current pump": 5400
+    }
+}

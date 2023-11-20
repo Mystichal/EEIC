@@ -1,0 +1,24 @@
+{
+    "name": "ORE Mining Drone Blueprint",
+    "volume": 0.01,
+    "products": "ORE Mining Drone",
+    "tech level": 10,
+    "manufacturing time": "02:40:00",
+    "manufacturing cost": 25000000,
+    "pi requirements": {
+        "sheen compound": 117356,
+        "fiber composite": 98246,
+        "glossy compound": 89856,
+        "noble metals": 90611,
+        "toxic metals": 23223
+    },
+    "ore requirements": {
+        "tritanium": 2943138,
+        "pyrite": 929325,
+        "mexallon": 326793,
+        "isogen": 59646,
+        "noxium": 11874,
+        "zydrine": 5999,
+        "megacyte": 2580
+    }
+}

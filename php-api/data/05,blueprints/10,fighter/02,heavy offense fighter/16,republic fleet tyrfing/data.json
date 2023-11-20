@@ -1,0 +1,25 @@
+{
+    "name": "Republic Fleet Tyrfing Blueprint",
+    "volume": 0.01,
+    "products": "Republic Fleet Tyrfing",
+    "tech level": 10,
+    "manufacturing time": "04:00:00",
+    "manufacturing cost": 30000000,
+    "pi requirements": {
+        "sheen compound": 103998,
+        "fiber composite": 118124,
+        "dark compound": 100955,
+        "heavy mentals": 89793,
+        "toxic metals": 26349
+    },
+    "ore requirements": {
+        "tritanium": 3085169,
+        "pyrite": 757235,
+        "mexallon": 322454,
+        "isogen": 61788,
+        "noxium": 17847,
+        "zydrine": 5471,
+        "megacyte": 3137,
+        "morphite": 921
+    }
+}

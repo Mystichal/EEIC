@@ -1,0 +1,24 @@
+{
+    "name": "MK9 Large Group Armor Repairer Blueprint",
+    "volume": 0.01,
+    "products": "MK9 Large Group Armor Repairer",
+    "tech level": 9,
+    "manufacturing time": "01:00:00",
+    "manufacturing cost": 15000000,
+    "pi requirements": {
+        "gleaming alloy": 13436,
+        "opulent compound": 15338,
+        "crystal compound": 14801,
+        "noble metals": 15452,
+        "reactive metals": 4554
+    },
+    "ore requirements": {
+        "tritanium": 706667,
+        "pyrite": 191124,
+        "mexallon": 65351,
+        "isogen": 14729,
+        "noxium": 3021,
+        "zydrine": 1037,
+        "megacyte": 702
+    }
+}

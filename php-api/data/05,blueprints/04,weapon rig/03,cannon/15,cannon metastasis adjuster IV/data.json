@@ -1,0 +1,15 @@
+{
+    "name": "Cannon Metastasis Adjuster IV Blueprint",
+    "volume": 0.01,
+    "products": "Cannon Metastasis Adjuster IV",
+    "tech level": 10,
+    "manufacturing time": "62:30:00",
+    "manufacturing cost": 350000,
+    "salvaged part requirements": {
+        "charred micro circuit": 420,
+        "fried interface circuit": 705,
+        "tripped power circuit": 1305,
+        "burned logic circuit": 261,
+        "contaminated nanite polymer": 2775
+    }
+}

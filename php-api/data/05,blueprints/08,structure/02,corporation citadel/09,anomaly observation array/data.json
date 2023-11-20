@@ -1,0 +1,15 @@
+{
+    "name": "Anomaly Observation Array Blueprint",
+    "volume": 0.01,
+    "products": "Anomaly Observation Array",
+    "tech level": 6,
+    "manufacturing time": "12:00:00",
+    "manufacturing cost": 300000000,
+    "components requirements": {
+        "structure construction parts": 2,
+        "structure storage bay": 2,
+        "structure office center": 2,
+        "structure electromagnetic sensor": 5,
+        "structure advertisement nexus": 11
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "name": "MK9 Large Group Capacitor Transmitter Blueprint",
+    "volume": 0.01,
+    "products": "MK9 Large Group Capacitor Transmitter",
+    "tech level": 9,
+    "manufacturing time": "01:00:00",
+    "manufacturing cost": 15000000,
+    "pi requirements": {
+        "condensed alloy": 17513,
+        "lucent compound": 15897,
+        "crystal compound": 15123,
+        "base metals": 3675,
+        "noble metals": 15682
+    },
+    "ore requirements": {
+        "tritanium": 772023,
+        "pyrite": 168348,
+        "mexallon": 78894,
+        "isogen": 13950,
+        "noxium": 3589,
+        "zydrine": 1131,
+        "megacyte": 495
+    }
+}

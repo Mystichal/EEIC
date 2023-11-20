@@ -1,0 +1,21 @@
+{
+    "name": "Magnate Covert Ops Blueprint",
+    "volume": 0.01,
+    "products": "Magnate Covert Ops",
+    "tech level": 5,
+    "manufacturing time": "00:33:20",
+    "manufacturing cost": 600000,
+    "pi requirements": {
+        "lustering alloy": 1539,
+        "sheen compound": 1658,
+        "motley compound": 1548,
+        "base metals": 462,
+        "heavy mentals": 1658
+    },
+    "ore requirements": {
+        "tritanium": 339411,
+        "pyrite": 63323,
+        "mexallon": 20139,
+        "isogen": 3132
+    }
+}

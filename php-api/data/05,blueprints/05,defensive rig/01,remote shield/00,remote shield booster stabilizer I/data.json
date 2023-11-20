@@ -1,0 +1,12 @@
+{
+    "name": "Remote Shield Booster Stabilizer I Blueprint",
+    "volume": 0.01,
+    "products": "Remote Shield Booster Stabilizer I",
+    "tech level": 5,
+    "manufacturing time": "00:30:00",
+    "manufacturing cost": 15000,
+    "salvaged part requirements": {
+        "charred micro circuit": 150,
+        "defective current pump": 38
+    }
+}

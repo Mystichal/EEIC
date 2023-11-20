@@ -1,0 +1,24 @@
+{
+    "name": "Electric Ray Exhumer Drone Blueprint",
+    "volume": 0.01,
+    "products": "Electric Ray Exhumer Drone",
+    "tech level": 10,
+    "manufacturing time": "06:00:00",
+    "manufacturing cost": 200000000,
+    "pi requirements": {
+        "lustering alloy": 556512,
+        "motley compound": 527156,
+        "crystal compound": 597842,
+        "base metals": 219692,
+        "reactive metals": 171290
+    },
+    "ore requirements": {
+        "tritanium": 21801018,
+        "pyrite": 6841469,
+        "mexallon": 1716792,
+        "isogen": 395856,
+        "noxium": 87071,
+        "zydrine": 33875,
+        "megacyte": 19469
+    }
+}

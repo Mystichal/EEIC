@@ -1,0 +1,25 @@
+{
+    "name": "Republic Fleet Einherji Blueprint",
+    "volume": 0.01,
+    "products": "Republic Fleet Einherji",
+    "tech level": 10,
+    "manufacturing time": "03:00:00",
+    "manufacturing cost": 7000000,
+    "pi requirements": {
+        "sheen compound": 51999,
+        "fiber composite": 59063,
+        "dark compound": 50478,
+        "heavy mentals": 44897,
+        "toxic metals": 13175
+    },
+    "ore requirements": {
+        "tritanium": 1542585,
+        "pyrite": 378618,
+        "mexallon": 16228,
+        "isogen": 30894,
+        "noxium": 8924,
+        "zydrine": 2736,
+        "megacyte": 1569,
+        "morphite": 461
+    }
+}

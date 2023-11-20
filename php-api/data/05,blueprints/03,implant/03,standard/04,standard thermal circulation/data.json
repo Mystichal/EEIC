@@ -1,0 +1,17 @@
+{
+    "name": "Standard Thermal Circulation Blueprint",
+    "volume": 0.01,
+    "products": "Standard Thermal Circulation",
+    "tech level": 9,
+    "manufacturing time": "02:00:00",
+    "manufacturing cost": 15000000,
+    "ore requirements": {
+        "mexallon": 507435,
+        "isogen": 89715,
+        "noxium": 25005,
+        "megacyte": 4410
+    },
+    "implant component requirements": {
+        "self-renovating neruon": 2700
+    }
+}

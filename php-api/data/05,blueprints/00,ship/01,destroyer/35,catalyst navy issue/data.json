@@ -1,0 +1,21 @@
+{
+    "name": "Catalyst Navy Issue Blueprint",
+    "volume": 0.01,
+    "products": "Catalyst Navy Issue",
+    "tech level": 5,
+    "manufacturing time": "00:50:00",
+    "manufacturing cost": 900000,
+    "pi requirements": {
+        "lustering alloy": 2387,
+        "sheen compound": 2571,
+        "motley compound": 2402,
+        "base metals": 717,
+        "heavy mentals": 2571
+    },
+    "ore requirements": {
+        "tritanium": 403712,
+        "pyrite": 109739,
+        "mexallon": 32840,
+        "isogen": 4755
+    }
+}

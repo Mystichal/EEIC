@@ -1,0 +1,24 @@
+{
+	"name": "Nemesis III Blueprint",
+	"volume": 0.01,
+	"products": "Nemesis III",
+	"tech level": 10,
+	"manufacturing time": "13:20:00",
+	"manufacturing cost": 75000000,
+	"pi requirements": {
+		"sheen compound": 26808,
+		"precious alloy": 22233,
+		"fiber composite": 28373,
+		"heavy mentals": 26808,
+		"reactive metals": 7055
+	},
+	"ore requirements": {
+		"tritanium": 23114810,
+		"pyrite": 5419706,
+		"mexallon": 2317511,
+		"isogen": 329834,
+		"noxium": 83565,
+		"zydrine": 39215,
+		"megacyte": 17375
+	}
+}

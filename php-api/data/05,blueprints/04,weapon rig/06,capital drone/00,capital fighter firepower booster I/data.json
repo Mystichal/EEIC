@@ -1,0 +1,12 @@
+{
+    "name": "Capital Fighter Firepower Booster I Blueprint",
+    "volume": 0.01,
+    "products": "Capital Fighter Firepower Booster I",
+    "tech level": 10,
+    "manufacturing time": "62:30:00",
+    "manufacturing cost": 20000000,
+    "salvaged part requirements": {
+        "capital burned logic circuit": 1064,
+        "capital damaged artificial neural network": 533
+    }
+}

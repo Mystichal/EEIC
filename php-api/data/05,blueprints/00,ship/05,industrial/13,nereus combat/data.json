@@ -1,0 +1,23 @@
+{
+    "name": "Nereus Combat Blueprint",
+    "volume": 0.01,
+    "products": "Nereus Combat",
+    "tech level": 7,
+    "manufacturing time": "02:13:20",
+    "manufacturing cost": 7500000,
+    "pi requirements": {
+        "condensed alloy": 9195,
+        "precious alloy": 7206,
+        "opulent compound": 9195,
+        "reactive metals": 2288,
+        "toxic metals": 2268
+    },
+    "ore requirements": {
+        "tritanium": 2691575,
+        "pyrite": 662405,
+        "mexallon": 227199,
+        "isogen": 34191,
+        "noxium": 11141,
+        "zydrine": 3491
+    }
+}

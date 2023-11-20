@@ -1,0 +1,22 @@
+{
+    "name": "Vexor Navy Issue Blueprint",
+    "volume": 0.01,
+    "products": "Vexor Navy Issue",
+    "tech level": 6,
+    "manufacturing time": "02:13:20",
+    "manufacturing cost": 6500000,
+    "pi requirements": {
+        "lustering alloy": 13463,
+        "sheen compound": 14504,
+        "opulent compound": 15351,
+        "heavy mentals": 14504,
+        "reactive metals": 3818
+    },
+    "ore requirements": {
+        "tritanium": 2465163,
+        "pyrite": 674229,
+        "mexallon": 219267,
+        "isogen": 36293,
+        "noxium": 10347
+    }
+}

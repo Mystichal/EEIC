@@ -1,0 +1,25 @@
+{
+    "name": "MK9 'Knight' Blueprint",
+    "volume": 0.01,
+    "products": "MK9 'Knight'",
+    "production amount": 2,
+    "tech level": 10,
+    "manufacturing time": "04:00:00",
+    "manufacturing cost": 20000000,
+    "pi requirements": {
+        "sheen compound": 34823,
+        "condensed alloy": 39537,
+        "opulent compound": 26303,
+        "crystal compound": 34851,
+        "reactive metals": 6873
+    },
+    "ore requirements": {
+        "tritanium": 1177850,
+        "pyrite": 286998,
+        "mexallon": 97637,
+        "isogen": 18578,
+        "noxium": 5105,
+        "zydrine": 1604,
+        "megacyte": 867
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Rocket Fuel Cache Partition II Blueprint",
+    "volume": 0.01,
+    "products": "Rocket Fuel Cache Partition II",
+    "tech level": 6,
+    "manufacturing time": "02:30:00",
+    "manufacturing cost": 30000,
+    "salvage part requirements": {
+        "fried interface circuit": 96,
+        "damaged close-in weapon system": 72
+    }
+}

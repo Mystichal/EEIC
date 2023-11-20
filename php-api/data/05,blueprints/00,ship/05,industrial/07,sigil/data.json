@@ -1,0 +1,24 @@
+{
+    "name": "Sigil Blueprint",
+    "volume": 0.01,
+    "products": "Sigil",
+    "tech level": 8,
+    "manufacturing time": "08:53:20",
+    "manufacturing cost": 20000000,
+    "pi requirements": {
+        "sheen compound": 15300,
+        "precious alloy": 12689,
+        "opulent compound": 16193,
+        "heavy mentals": 15300,
+        "reactive metals": 4028
+    },
+    "ore requirements": {
+        "tritanium": 6852036,
+        "pyrite": 1570362,
+        "mexallon": 474395,
+        "isogen": 81131,
+        "noxium": 26439,
+        "zydrine": 6911,
+        "megacyte": 4482
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Burst Blueprint",
+    "volume": 0.01,
+    "products": "Burst",
+    "tech level": 5,
+    "manufacturing time": "00:33:20",
+    "manufacturing cost": 500000,
+    "pi requirements": {
+        "lustering alloy": 1398,
+        "gleaming alloy": 1408,
+        "motley compound": 1408,
+        "noble metals": 1593
+    },
+    "ore requirements": {
+        "tritanium": 244085,
+        "pyrite": 55686,
+        "mexallon": 17735,
+        "isogen": 3444
+    }
+}

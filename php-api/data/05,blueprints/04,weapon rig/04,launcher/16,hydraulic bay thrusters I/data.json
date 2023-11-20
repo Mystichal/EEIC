@@ -1,0 +1,12 @@
+{
+    "name": "Hydraulic Bay Thrusters I Blueprint",
+    "volume": 0.01,
+    "products": "Hydraulic Bay Thrusters I",
+    "tech level": 4,
+    "manufacturing time": "00:30:00",
+    "manufacturing cost": 7500,
+    "salvage part requirements": {
+        "charred micro circuit": 56,
+        "smashed trigger unit": 41
+    }
+}

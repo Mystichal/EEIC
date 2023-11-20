@@ -1,0 +1,24 @@
+{
+    "name": "Offense Einherji Blueprint",
+    "volume": 0.01,
+    "products": "Offense Einherji",
+    "tech level": 10,
+    "manufacturing time": "05:00:00",
+    "manufacturing cost": 15000000,
+    "pi requirements": {
+        "sheen compound": 101130,
+        "fiber composite": 114867,
+        "dark compound": 98171,
+        "heavy mentals": 87318,
+        "toxic metals": 25623
+    },
+    "ore requirements": {
+        "tritanium": 3000120,
+        "pyrite": 736359,
+        "mexallon": 313565,
+        "isogen": 60086,
+        "noxium": 17355,
+        "zydrine": 5319,
+        "megacyte": 3050
+    }
+}

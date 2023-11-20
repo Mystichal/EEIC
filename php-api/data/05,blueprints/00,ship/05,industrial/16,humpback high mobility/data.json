@@ -1,0 +1,24 @@
+{
+    "name": "Humpback High Mobility Blueprint",
+    "volume": 0.01,
+    "products": "Humpback High Mobility",
+    "tech level": 9,
+    "manufacturing time": "17:46:40",
+    "manufacturing cost": 60000000,
+    "pi requirements": {
+        "condensed alloy": 77174,
+        "precious alloy": 60473,
+        "crystal compound": 72317,
+        "reactive metals": 19190,
+        "toxic metals": 19031
+    },
+    "ore requirements": {
+        "tritanium": 20190797,
+        "pyrite": 4218662,
+        "mexallon": 1782453,
+        "isogen": 243133,
+        "noxium": 63168,
+        "zydrine": 27626,
+        "megacyte": 13926
+    }
+}

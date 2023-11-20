@@ -1,0 +1,25 @@
+{
+    "name": "Caldari Navy Dragonfly Blueprint",
+    "volume": 0.01,
+    "products": "Caldari Navy Dragonfly",
+    "tech level": 10,
+    "manufacturing time": "03:00:00",
+    "manufacturing cost": 7000000,
+    "pi requirements": {
+        "precious alloy": 35552,
+        "lucent compound": 52760,
+        "glossy compound": 51654,
+        "dark compound": 50478,
+        "toxic metals": 13638
+    },
+    "ore requirements": {
+        "tritanium": 1638398,
+        "pyrite": 448302,
+        "mexallon": 138195,
+        "isogen": 29912,
+        "noxium": 8610,
+        "zydrine": 3288,
+        "megacyte": 1320,
+        "morphite": 461
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Warhead Flare Catalyst II Blueprint",
+    "volume": 0.01,
+    "products": "Warhead Flare Catalyst II",
+    "tech level": 6,
+    "manufacturing time": "02:30:00",
+    "manufacturing cost": 35000,
+    "salvage part requirements": {
+        "fried interface circuit": 143,
+        "damaged close-in weapon system": 87
+    }
+}

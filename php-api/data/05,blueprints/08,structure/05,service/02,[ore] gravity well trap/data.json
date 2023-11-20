@@ -1,0 +1,24 @@
+{
+    "name": "[Ore] Gravity Well Trap Blueprint",
+    "volume": 0.01,
+    "products": "[Ore] Gravity Well Trap",
+    "tech level": 6,
+    "manufacturing time": "12:00:00",
+    "manufacturing cost": 200000000,
+    "pi requirements": {
+        "reactive gas": 1580031,
+        "supertensile plastics": 805734,
+        "condensates": 961524,
+        "smartfab units": 1063176,
+        "nanites": 336084
+    },
+    "ore requirements": {
+        "tritanium": 24974990,
+        "pyrite": 7099962,
+        "mexallon": 2013590,
+        "isogen": 389934,
+        "noxium": 106094,
+        "zydrine": 34376,
+        "megacyte": 20940
+    }
+}

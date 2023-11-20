@@ -1,0 +1,23 @@
+{
+    "name": "Merlin Assault Blueprint",
+    "volume": 0.01,
+    "products": "Merlin Assault",
+    "tech level": 7,
+    "manufacturing time": "02:13:20",
+    "manufacturing cost": 5500000,
+    "pi requirements": {
+        "gleaming alloy": 5963,
+        "precious alloy": 5295,
+        "fiber composite": 6756,
+        "noble metals": 6756,
+        "reactive metals": 1680
+    },
+    "ore requirements": {
+        "tritanium": 1999139,
+        "pyrite": 509880,
+        "mexallon": 168557,
+        "isogen": 26202,
+        "noxium": 7133,
+        "zydrine": 2519
+    }
+}

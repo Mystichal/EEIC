@@ -1,0 +1,24 @@
+{
+    "name": "Humpback Combat Blueprint",
+    "volume": 0.01,
+    "products": "Humpback Combat",
+    "tech level": 10,
+    "manufacturing time": "17:46:40",
+    "manufacturing cost": 100000000,
+    "pi requirements": {
+        "condensed alloy": 80639,
+        "precious alloy": 63189,
+        "crystal compound": 75564,
+        "reactive metals": 20051,
+        "toxic metals": 19886
+    },
+    "ore requirements": {
+        "tritanium": 35410779,
+        "pyrite": 7402221,
+        "mexallon": 3125867,
+        "isogen": 426617,
+        "noxium": 110747,
+        "zydrine": 48477,
+        "megacyte": 24344
+    }
+}

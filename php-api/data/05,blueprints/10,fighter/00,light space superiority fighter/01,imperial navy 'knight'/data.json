@@ -1,0 +1,25 @@
+{
+    "name": "Imperial Navy 'Knight' Blueprint",
+    "volume": 0.01,
+    "products": "Imperial Navy 'Knight'",
+    "tech level": 10,
+    "manufacturing time": "03:00:00",
+    "manufacturing cost": 6500000,
+    "pi requirements": {
+        "precious alloy": 39948,
+        "lucent compound": 52050,
+        "glossy compound": 38813,
+        "crystal compound": 48678,
+        "toxic metals": 9773
+    },
+    "ore requirements": {
+        "tritanium": 2000570,
+        "pyrite": 451554,
+        "mexallon": 115083,
+        "isogen": 20729,
+        "noxium": 7257,
+        "zydrine": 2673,
+        "megacyte": 1281,
+        "morphite": 416
+    }
+}

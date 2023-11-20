@@ -1,0 +1,15 @@
+{
+	"name": "Core Defense Field Extender IV Blueprint",
+	"volume": 0.01,
+	"products": "Core Defense Field Extender IV",
+	"tech level": 10,
+    "manufacturing time": "62:20:00",
+    "manufacturing cost": 700000,
+    "salvaged part requirements": {
+        "charred micro circuit": 1440,
+        "fried interface circuit": 2400,
+        "tripped power circuit": 4500,
+        "burned logic circuit": 900,
+        "defective current pump": 5010
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "name": "MK9 Hammerhead Blueprint",
+    "volume": 0.01,
+    "products": "MK9 Hammerhead",
+    "production amount": 5,
+    "tech level": 9,
+    "manufacturing time": "01:00:00",
+    "manufacturing cost": 3500000,
+    "pi requirements": {
+        "sheen compound": 4935,
+        "fiber composite": 6005,
+        "crystal compound": 6306,
+        "heavy mentals": 4804,
+        "toxic metals": 1206
+    },
+    "ore requirements": {
+        "tritanium": 188352,
+        "pyrite": 45905,
+        "mexallon": 18918,
+        "isogen": 3521,
+        "noxium": 689,
+        "zydrine": 306,
+        "megacyte": 123
+    }
+}

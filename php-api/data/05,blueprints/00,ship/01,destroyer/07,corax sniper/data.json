@@ -1,0 +1,22 @@
+{
+    "name": "Corax Sniper Blueprint",
+    "volume": 0.01,
+    "products": "Corax Sniper",
+    "tech level": 6,
+    "manufacturing time": "01:40:00",
+    "manufacturing cost": 3500000,
+    "pi requirements": {
+        "lustering alloy": 6732,
+        "gleaming alloy": 6776,
+        "lucent compound": 7254,
+        "noble metals": 7677,
+        "reactive metals": 1910
+    },
+    "ore requirements": {
+        "tritanium": 1246214,
+        "pyrite": 353235,
+        "mexallon": 110720,
+        "isogen": 18932,
+        "noxium": 4509
+    }
+}

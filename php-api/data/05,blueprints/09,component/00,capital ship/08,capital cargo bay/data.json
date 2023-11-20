@@ -1,0 +1,25 @@
+{
+    "name": "Capital Cargo bay Blueprint",
+    "volume": 0.01,
+    "products": "Capital Cargo bay",
+    "tech level": 9,
+    "manufacturing time": "24:00:00",
+    "manufacturing cost": 150000000,
+    "pi requirements": {
+        "sheen compound": 91613,
+        "fiber composite": 96962,
+        "opulent compound": 96962,
+        "dark compound": 91613,
+        "base metals": 25517
+    },
+    "ore requirements": {
+        "tritanium": 6540306,
+        "pyrite": 1593966,
+        "mexallon": 559356,
+        "isogen": 114624,
+        "noxium": 30956,
+        "zydrine": 9978,
+        "megacyte": 5064,
+        "morphite": 1481
+    }
+}

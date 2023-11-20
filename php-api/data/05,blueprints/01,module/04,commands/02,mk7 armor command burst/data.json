@@ -1,0 +1,24 @@
+{
+	"name": "MK7 Armored Command Burst Blueprint",
+	"volume": 0.01,
+	"products": "MK7 Armored Command Burst",
+	"tech level": 7,
+	"manufacturing time": "00:35:00",
+	"manufacturing cost": 1500000,
+	"pi requirements": {
+		"sheen compound": 1475,
+		"opulent compound": 1562,
+		"glossy compound": 1365,
+		"heavy mentals": 1421,
+		"reactive metals": 356
+	},
+	"ore requirements": {
+		"tritanium": 105659,
+		"pyrite": 22713,
+		"mexallon": 8544,
+		"isogen": 1619,
+		"noxium": 447,
+		"zydrine": 140,
+		"megacyte": 80
+	}
+}

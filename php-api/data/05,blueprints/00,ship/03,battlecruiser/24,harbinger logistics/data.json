@@ -1,0 +1,24 @@
+{
+    "name": "Harbinger Logistics Blueprint",
+    "volume": 0.01,
+    "products": "Harbinger Logistics",
+    "tech level": 9,
+    "manufacturing time": "20:00:00",
+    "manufacturing cost": 70000000,
+    "pi requirements": {
+        "sheen compound": 77733,
+        "precious alloy": 64467,
+        "glossy compound": 72614,
+        "heavy mentals": 77733,
+        "reactive metals": 20457
+    },
+    "ore requirements": {
+        "tritanium": 20306505,
+        "pyrite": 4487207,
+        "mexallon": 1684182,
+        "isogen": 322848,
+        "noxium": 74897,
+        "zydrine": 29865,
+        "megacyte": 17768
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Remote Shield Booster Amplifier II Blueprint",
+    "volume": 0.01,
+    "products": "Remote Shield Booster Amplifier II",
+    "tech level": 6,
+    "manufacturing time": "02:30:00",
+    "manufacturing cost": 30000,
+    "salvaged part requirements": {
+        "fried interface circuit": 225,
+        "defective current pump": 75
+    }
+}

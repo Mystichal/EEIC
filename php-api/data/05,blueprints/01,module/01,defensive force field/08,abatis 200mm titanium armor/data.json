@@ -1,0 +1,26 @@
+{
+    "name": "Abatis 200mm Titanium Armor Blueprint",
+    "volume": 0.01,
+    "products": "Abatis 200mm Titanium Armor",
+    "tech level": 5,
+    "manufacturing time": "02:00:00",
+    "manufacturing cost": 2500000,
+    "pi requirements": {
+        "gleaming alloy": 2688,
+        "condensed alloy": 2961,
+        "opulent compound": 2562,
+        "crystal compound": 2814,
+        "reactive metals": 779,
+        "precious metals": 485,
+        "non-cs crystals": 527
+    },
+    "ore requirements": {
+        "tritanium": 143873,
+        "pyrite": 28886,
+        "mexallon": 13107,
+        "isogen": 2198,
+        "noxium": 684,
+        "zydrine": 215,
+        "megacyte": 119
+    }
+}

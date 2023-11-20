@@ -1,0 +1,12 @@
+{
+    "name": "Ore Hold Optimization II Blueprint",
+    "volume": 0.01,
+    "products": "Ore Hold Optimization II",
+    "tech level": 10,
+    "manufacturing time": "02:30:00",
+    "manufacturing cost": 40000,
+    "salvage part requirements": {
+        "fried interface circuit": 170,
+        "contaminated nanite polymer": 65
+    }
+}

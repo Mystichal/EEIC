@@ -1,0 +1,22 @@
+{
+    "name": "Stabber Fleet Issue Blueprint",
+    "volume": 0.01,
+    "products": "Stabber Fleet Issue",
+    "tech level": 6,
+    "manufacturing time": "02:13:20",
+    "manufacturing cost": 7500000,
+    "pi requirements": {
+        "lustering alloy": 14336,
+        "gleaming alloy": 14429,
+        "opulent compound": 16347,
+        "noble metals": 16347,
+        "reactive metals": 4065
+    },
+    "ore requirements": {
+        "tritanium": 2710830,
+        "pyrite": 622272,
+        "mexallon": 215369,
+        "isogen": 47792,
+        "noxium": 12110
+    }
+}

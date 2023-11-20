@@ -1,0 +1,12 @@
+{
+    "name": "Capital Cargohold Optimization I Blueprint",
+    "volume": 0.01,
+    "products": "Capital Cargohold Optimization I",
+    "tech level": 10,
+    "manufacturing time": "62:30:00",
+    "manufacturing cost": 15000000,
+    "salvage part requirements": {
+        "capital burned logic circuit": 1140,
+        "capital contaminated nanite compound": 713
+    }
+}

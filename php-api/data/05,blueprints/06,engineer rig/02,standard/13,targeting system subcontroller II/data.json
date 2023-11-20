@@ -1,0 +1,12 @@
+{
+    "name": "Targeting System Subcontroller II Blueprint",
+    "volume": 0.01,
+    "products": "Targeting System Subcontroller II",
+    "tech level": 6,
+    "manufacturing time": "02:30:00",
+    "manufacturing cost": 25000,
+    "salvage part requirements": {
+        "damaged close-in weapon system": 38,
+        "conductive polymer": 209
+    }
+}

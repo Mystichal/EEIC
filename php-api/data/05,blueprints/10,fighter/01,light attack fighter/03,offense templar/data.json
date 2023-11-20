@@ -1,0 +1,25 @@
+{
+    "name": "Offense Templar Blueprint",
+    "volume": 0.01,
+    "products": "Offense Templar",
+    "tech level": 10,
+    "manufacturing time": "05:00:00",
+    "manufacturing cost": 15000000,
+    "pi requirements": {
+        "sheen compound": 91256,
+        "condensed alloy": 109124,
+        "opulent compound": 103380,
+        "crystal compound": 97362,
+        "reactive metals": 27134
+    },
+    "ore requirements": {
+        "tritanium": 3484611,
+        "pyrite": 944166,
+        "mexallon": 265680,
+        "isogen": 53804,
+        "noxium": 16214,
+        "zydrine": 5750,
+        "megacyte": 2795,
+        "morphite": 896
+    }
+}

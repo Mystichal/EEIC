@@ -1,0 +1,12 @@
+{
+    "name": "3P Combat Integrated Module + Blueprint",
+    "volume": 0.01,
+    "products": "Enchance 3P Combat Integrated Module",
+    "tech level": 9,
+    "manufacturing time": "01:06:40",
+    "manufacturing cost": 1400000,
+    "salvaged part requirements": {
+        "integrated module control": 240,
+        "capacitor control center": 120
+    }
+}

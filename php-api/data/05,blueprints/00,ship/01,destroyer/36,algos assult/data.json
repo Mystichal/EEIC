@@ -1,0 +1,23 @@
+{
+    "name": "Algos Assault Blueprint",
+    "volume": 0.01,
+    "products": "Algos Assault",
+    "tech level": 7,
+    "manufacturing time": "03:20:00",
+    "manufacturing cost": 8500000,
+    "pi requirements": {
+        "sheen compound": 9881,
+        "precious alloy": 8195,
+        "lucent compound": 9881,
+        "heavy mentals": 9881,
+        "reactive metals": 2601
+    },
+    "ore requirements": {
+        "tritanium": 3061007,
+        "pyrite": 753323,
+        "mexallon": 258384,
+        "isogen": 38884,
+        "noxium": 12671,
+        "zydrine": 3971
+    }
+}

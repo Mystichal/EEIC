@@ -1,0 +1,25 @@
+{
+    "name": "Capital Turret Hardpoint Blueprint",
+    "volume": 0.01,
+    "products": "Capital Turret Hardpoint",
+    "tech level": 9,
+    "manufacturing time": "24:00:00",
+    "manufacturing cost": 150000000,
+    "pi requirements": {
+        "condensed alloy": 96962,
+        "crystal compound": 90858,
+        "noble metals": 96962,
+        "reactive metals": 24110,
+        "toxic metals": 23910
+    },
+    "ore requirements": {
+        "tritanium": 6332678,
+        "pyrite": 1619135,
+        "mexallon": 605252,
+        "isogen": 108030,
+        "noxium": 29825,
+        "zydrine": 10926,
+        "megacyte": 5114,
+        "morphite": 1373
+    }
+}

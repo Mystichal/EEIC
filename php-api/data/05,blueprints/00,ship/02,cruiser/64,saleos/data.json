@@ -1,0 +1,33 @@
+{
+	"name": "Saleos Blueprint",
+	"volume": 0.01,
+	"products": "Saleos",
+	"tech level": 10,
+	"manufacturing time": "26:40:00",
+	"manufacturing cost": 450000000,
+	"pi requirements": {
+		"condensed alloy": 3662313,
+		"precious alloy": 2869761,
+		"opulent compound": 3662313,
+		"reactive metals": 910604,
+		"toxic metals": 903105,
+		"super tensile plastics": 2111744,
+		"nanites": 910604
+	},
+	"ore requirements": {
+		"tritanium": 144300561,
+		"pyrite": 39926256,
+		"mexallon": 13391661,
+		"isogen": 2137919,
+		"noxium": 647067,
+		"zydrine": 228000,
+		"megacyte": 90447,
+		"morphite": 31406
+	},
+	"component requirements": {
+		"ppd fullerene fiber": 12000,
+	},
+	"ship requirements": {
+		"cynabal": 2
+	}
+}

@@ -1,0 +1,26 @@
+{
+    "name": "Wolf small shield generator Blueprint",
+    "volume": 0.01,
+    "products": "Wolf small shield generator",
+    "tech level": 5,
+    "manufacturing time": "02:00:00",
+    "manufacturing cost": 950000,
+    "pi requirements": {
+        "precious alloy": 744,
+        "dark compound": 1286,
+        "base metals": 293,
+        "reactive metals": 293,
+        "toxic metals": 285,
+        "precious metals": 194,
+        "non-cs crystals": 212
+    },
+    "ore requirements": {
+        "tritanium": 55451,
+        "pyrite": 16496,
+        "mexallon": 5541,
+        "isogen": 963,
+        "noxium": 207,
+        "zydrine": 78,
+        "megacyte": 44
+    }
+}

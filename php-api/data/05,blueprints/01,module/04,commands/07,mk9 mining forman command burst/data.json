@@ -1,0 +1,24 @@
+{
+    "name": "MK9 Mining Foreman Link Blueprint",
+    "volume": 0.01,
+    "products": "MK9 Mining Foreman Link",
+    "tech level": 9,
+    "manufacturing time": "01:00:00",
+    "manufacturing cost": 2500000,
+    "pi requirements": {
+        "precious alloy": 1902,
+        "lucent compound": 2043,
+        "crystal compound": 2094,
+        "heavy mentals": 2225,
+        "reactive metals": 545
+    },
+    "ore requirements": {
+        "tritanium": 155990,
+        "pyrite": 37403,
+        "mexallon": 13002,
+        "isogen": 2613,
+        "noxium": 698,
+        "zydrine": 246,
+        "megacyte": 128
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Capital Hybrid Collision Accelerator I Blueprint",
+    "volume": 0.01,
+    "products": "Capital Hybrid Collision Accelerator I",
+    "tech level": 10,
+    "manufacturing time": "62:30:40",
+    "manufacturing cost": 15000000,
+    "salvaged part requirements": {
+        "capital burned logic circuit": 1266,
+        "capital defective current pump": 1055
+    }
+}

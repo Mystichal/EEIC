@@ -1,0 +1,12 @@
+{
+    "name": "Core Defense Charge Economizer II Blueprint",
+    "volume": 0.01,
+    "products": "Core Defense Charge Economizer II",
+    "tech level": 6,
+    "manufacturing time": "02:30:00",
+    "manufacturing cost": 35000,
+    "salvage part requirements": {
+        "fried interface circuit": 155,
+        "defective current pump": 75
+    }
+}

@@ -1,0 +1,21 @@
+{
+	"name": "Beaver Industrial Core Module Blueprint",
+	"volume": 0.01,
+	"products": "Beaver Industrial Core Module",
+	"tech level": 10,
+	"manufacturing time": "72:00:00",
+	"manufacturing cost": 150000000,
+	"pi requirements": {
+		"smartfab units": 210185
+	},
+	"ore requirements": {
+		"tritanium": 22504277,
+		"pyrite": 10911492,
+		"mexallon": 1865444,
+		"isogen": 1319330,
+		"noxium": 275762,
+		"zydrine": 64886,
+		"megacyte": 16223,
+		"morphite": 5408
+	}
+}

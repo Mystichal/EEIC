@@ -1,0 +1,12 @@
+{
+    "name": "Drone Scope Chip III Blueprint",
+    "volume": 0.01,
+    "products": "Drone Scope Chip III",
+    "tech level": 8,
+    "manufacturing time": "12:30:00",
+    "manufacturing cost": 150000,
+    "salvage part requirements": {
+        "tripped power circuit": 272,
+        "scorched telemetry processor": 131
+    }
+}

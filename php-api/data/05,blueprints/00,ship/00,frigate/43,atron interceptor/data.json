@@ -1,0 +1,24 @@
+{
+    "name": "Atron Interceptor Blueprint",
+    "volume": 0.01,
+    "products": "Atron Interceptor",
+    "tech level": 8,
+    "manufacturing time": "04:26:40",
+    "manufacturing cost": 9000000,
+    "pi requirements": {
+        "sheen compound": 6960,
+        "precious alloy": 5772,
+        "fiber composite": 7365,
+        "heavy mentals": 6960,
+        "reactive metals": 1832
+    },
+    "ore requirements": {
+        "tritanium": 2389379,
+        "pyrite": 797849,
+        "mexallon": 226784,
+        "isogen": 36125,
+        "noxium": 12146,
+        "zydrine": 4433,
+        "megacyte": 1703
+    }
+}

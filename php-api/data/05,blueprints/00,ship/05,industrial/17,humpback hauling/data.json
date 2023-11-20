@@ -1,0 +1,24 @@
+{
+    "name": "Humpback Hauling Blueprint",
+    "volume": 0.01,
+    "products": "Humpback Hauling",
+    "tech level": 10,
+    "manufacturing time": "17:46:40",
+    "manufacturing cost": 100000000,
+    "pi requirements": {
+        "condensed alloy": 78671,
+        "precious alloy": 61647,
+        "crystal compound": 73719,
+        "reactive metals": 19562,
+        "toxic metals": 19401
+    },
+    "ore requirements": {
+        "tritanium": 34546611,
+        "pyrite": 7221578,
+        "mexallon": 3049584,
+        "isogen": 416207,
+        "noxium": 108044,
+        "zydrine": 47294,
+        "megacyte": 23748
+    }
+}

@@ -1,0 +1,24 @@
+{
+	"name": " Blueprint",
+	"volume": 0.01,
+	"products": "Celestis Interdictor",
+	"tech level": 8,
+	"manufacturing time": "08:53:20",
+	"manufacturing cost": 30000000,
+	"pi requirements": {
+		"sheen compound": 20601,
+		"precious alloy": 17087,
+		"opulent compound": 21804,
+		"heavy mentals": 20601,
+		"reactive metals": 5423
+	},
+	"ore requirements": {
+		"tritanium": 7073720,
+		"pyrite": 2362017,
+		"mexallon": 671387,
+		"isogen": 106946,
+		"noxium": 35957,
+		"zydrine": 13122,
+		"megacyte": 5037
+	}
+}

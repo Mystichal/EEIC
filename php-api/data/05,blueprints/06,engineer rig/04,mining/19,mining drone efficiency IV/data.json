@@ -1,0 +1,19 @@
+{
+    "name": "Mining Drone Efficiency IV Blueprint",
+    "volume": 0.01,
+    "products": "Mining Drone Efficiency IV",
+    "tech level": 10,
+    "manufacturing time": "62:30:00",
+    "manufacturing cost": 4000000,
+    "salvaged part requirements": {
+        "charred micro circuit": 1290,
+        "fried interface circuit": 2130,
+        "tripped power circuit": 3990,
+        "burned logic circuit": 798,
+        "smashed trigger unit": 705,
+        "damaged close-in weapon system": 1170,
+        "scorched telemetry processor": 2190,
+        "damaged artificial neural network": 437,
+        "conductive polymer": 13365
+    }
+}

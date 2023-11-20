@@ -1,0 +1,25 @@
+{
+    "name": "Offense Wasp Blueprint",
+    "volume": 0.01,
+    "products": "Offense Wasp",
+    "tech level": 10,
+    "manufacturing time": "05:00:00",
+    "manufacturing cost": 25000000,
+    "pi requirements": {
+        "precious alloy": 110630,
+        "lucent compound": 164177,
+        "glossy compound": 160736,
+        "dark compound": 157073,
+        "toxic metals": 42437
+    },
+    "ore requirements": {
+        "tritanium": 5098340,
+        "pyrite": 1395017,
+        "mexallon": 430031,
+        "isogen": 93077,
+        "noxium": 26793,
+        "zydrine": 10230,
+        "megacyte": 4106,
+        "morphite": 1434
+    }
+}

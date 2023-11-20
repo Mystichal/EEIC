@@ -1,0 +1,22 @@
+{
+    "name": "MK5 Small Group Capacitor Transmitter Blueprint",
+    "volume": 0.01,
+    "products": "MK5 Small Group Capacitor Transmitter",
+    "tech level": 5,
+    "manufacturing time": "00:25:00",
+    "manufacturing cost": 750000,
+    "pi requirements": {
+        "lustering alloy": 1080,
+        "motley compound": 1136,
+        "fiber composite": 1268,
+        "dark compound": 1199,
+        "base metals": 315
+    },
+    "ore requirements": {
+        "tritanium": 70382,
+        "pyrite": 15288,
+        "mexallon": 4832,
+        "isogen": 944,
+        "noxium": 255
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Cannon Ambit Extension IV Blueprint",
+    "volume": 0.01,
+    "products": "Cannon Ambit Extension IV",
+    "tech level": 10,
+    "manufacturing time": "62:30:00",
+    "manufacturing cost": 600000,
+    "salvaged part requirements": {
+        "charred micro circuit": 1020,
+        "fried interface circuit": 1695,
+        "tripped power circuit": 3165,
+        "burned logic circuit": 632,
+        "contaminated nanite polymer": 3795
+    }
+}

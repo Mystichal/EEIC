@@ -1,0 +1,12 @@
+{
+    "name": "Capital Algid Hybrid Administrations Unit I Blueprint",
+    "volume": 0.01,
+    "products": "Capital Algid Hybrid Administrations Unit I",
+    "tech level": 10,
+    "manufacturing time": "62:30:40",
+    "manufacturing cost": 7000000,
+    "salvaged part requirements": {
+        "capital burned logic circuit": 633,
+        "capital defective current pump": 528
+    }
+}

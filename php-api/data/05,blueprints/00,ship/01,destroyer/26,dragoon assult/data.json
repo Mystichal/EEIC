@@ -1,0 +1,23 @@
+{
+    "name": "Dragoon Assault Blueprint",
+    "volume": 0.01,
+    "products": "Dragoon Assault",
+    "tech level": 7,
+    "manufacturing time": "03:20:00",
+    "manufacturing cost": 8500000,
+    "pi requirements": {
+        "sheen compound": 10038,
+        "precious alloy": 8325,
+        "lucent compound": 10038,
+        "heavy mentals": 10038,
+        "reactive metals": 2643
+    },
+    "ore requirements": {
+        "tritanium": 4056663,
+        "pyrite": 685221,
+        "mexallon": 249785,
+        "isogen": 40356,
+        "noxium": 12746,
+        "zydrine": 2861
+    }
+}

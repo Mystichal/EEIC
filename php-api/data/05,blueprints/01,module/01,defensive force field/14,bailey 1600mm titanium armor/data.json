@@ -1,0 +1,26 @@
+{
+	"name": "Bailey 1600mm Titanium Armor Blueprint",
+	"volume": 0.01,
+	"products": "Bailey 1600mm Titanium Armor",
+	"tech level": 5,
+	"manufacturing time": "02:00:00",
+	"manufacturing cost": 15000000,
+	"pi requirements": {
+		"sheen compound": 11714,
+		"precious alloy": 11136,
+		"glossy compound": 13698,
+		"dark compound": 12951,
+		"heavy mentals": 13904,
+		"precious metals": 2321,
+		"non-cs crystals": 2525
+	},
+	"ore requirements": {
+		"tritanium": 701373,
+		"pyrite": 142133,
+		"mexallon": 56649,
+		"isogen": 11967,
+		"noxium": 3012,
+		"zydrine": 1095,
+		"megacyte": 543
+	}
+}

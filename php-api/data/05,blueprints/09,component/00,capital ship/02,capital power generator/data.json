@@ -1,0 +1,25 @@
+{
+    "name": "Capital Power Generator Blueprint",
+    "volume": 0.01,
+    "products": "Capital Power Generator",
+    "tech level": 9,
+    "manufacturing time": "24:00:00",
+    "manufacturing cost": 150000000,
+    "pi requirements": {
+        "sheen compound": 91613,
+        "motley compound": 85578,
+        "fiber composite": 96962,
+        "crystal compound": 90858,
+        "noble metals": 96962
+    },
+    "ore requirements": {
+        "tritanium": 6851750,
+        "pyrite": 1669470,
+        "mexallon": 602384,
+        "isogen": 97887,
+        "noxium": 27281,
+        "zydrine": 10926,
+        "megacyte": 5463,
+        "morphite": 1406
+    }
+}

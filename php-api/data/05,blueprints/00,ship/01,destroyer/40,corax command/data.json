@@ -1,0 +1,24 @@
+{
+	"name": "Corax Command Blueprint",
+	"volume": 0.01,
+	"products": "Corax Command",
+	"tech level": 8,
+	"manufacturing time": "06:40:00",
+	"manufacturing cost": 15000000,
+	"pi requirements": {
+		"gleaming alloy": 10616,
+		"precious alloy": 9425,
+		"opulent compound": 12027,
+		"noble metals": 12027,
+		"reactive metals": 2991
+	},
+	"ore requirements": {
+		"tritanium": 3944186,
+		"pyrite": 1364900,
+		"mexallon": 373925,
+		"isogen": 61527,
+		"noxium": 17282,
+		"zydrine": 7107,
+		"megacyte": 2895
+	}
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Miner Efficiency Upgrade IV Blueprint",
+    "volume": 0.01,
+    "products": "Miner Efficiency Upgrade IV",
+    "tech level": 10,
+    "manufacturing time": "62:30:00",
+    "manufacturing cost": 650000,
+    "salvaged part requirements": {
+        "smashed trigger unit": 705,
+        "damaged close-in weapon system": 1170,
+        "scorched telemetry processor": 2190,
+        "damaged artificial neural network": 437,
+        "conductive polymer": 13365
+    }
+}

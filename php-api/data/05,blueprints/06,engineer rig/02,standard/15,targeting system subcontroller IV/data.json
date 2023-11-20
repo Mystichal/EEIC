@@ -1,0 +1,15 @@
+{
+	"name": "Targeting System Subcontroller IV Blueprint",
+	"volume": 0.01,
+	"products": "Targeting System Subcontroller IV",
+	"tech level": 10,
+    "manufacturing time": "62:30:00",
+    "manufacturing cost": 400000,
+    "salvaged part requirements": {
+        "smashed trigger unit": 225,
+        "damaged close-in weapon system": 374,
+        "scorched telemetry processor": 705,
+        "damaged artificial neural network": 140,
+        "conductive polymer": 12960
+    }
+}

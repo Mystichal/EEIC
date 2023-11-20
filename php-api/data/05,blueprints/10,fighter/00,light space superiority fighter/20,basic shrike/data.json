@@ -1,0 +1,26 @@
+{
+    "name": "Basic Shrike Blueprint",
+    "volume": 0.01,
+    "products": "Basic Shrike",
+    "tech level": 10,
+    "manufacturing time": "03:00:00",
+    "manufacturing cost": 15000000,
+    "pi requirements": {
+        "lustering alloy": 50082,
+        "motley compound": 50405,
+        "lucent compound": 53960,
+        "glossy compound": 50405,
+        "base metals": 15030,
+        "precious metals": 13148
+    },
+    "ore requirements": {
+        "tritanium": 4076394,
+        "pyrite": 988247,
+        "mexallon": 337905,
+        "isogen": 59747,
+        "noxium": 16652,
+        "zydrine": 5877,
+        "megacyte": 2939,
+        "morphite": 980
+    }
+}

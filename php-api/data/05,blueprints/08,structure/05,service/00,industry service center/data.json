@@ -1,0 +1,24 @@
+{
+    "name": "Industry Service Center Blueprint",
+    "volume": 0.01,
+    "products": "Industry Service Center",
+    "tech level": 6,
+    "manufacturing time": "06:00:00",
+    "manufacturing cost": 50000000,
+    "pi requirements": {
+        "reactive gas": 412488,
+        "super tensile plastics": 180827,
+        "condensates": 204525,
+        "construction blocks": 342588,
+        "silicate glass": 126320
+    },
+    "ore requirements": {
+        "tritanium": 6787634,
+        "pyrite": 1696065,
+        "mexallon": 551129,
+        "isogen": 113535,
+        "noxium": 23072,
+        "zydrine": 9446,
+        "megacyte": 5975
+    }
+}

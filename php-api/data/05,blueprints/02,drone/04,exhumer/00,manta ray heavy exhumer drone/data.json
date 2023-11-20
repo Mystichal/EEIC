@@ -1,0 +1,24 @@
+{
+    "name": "Manta Ray Heavy Exhumer Drone Blueprint",
+    "volume": 0.01,
+    "products": "Manta Ray Heavy Exhumer Drone",
+    "tech level": 10,
+    "manufacturing time": "06:00:00",
+    "manufacturing cost": 250000000,
+    "pi requirements": {
+        "lustering alloy": 695640,
+        "motley compound": 658944,
+        "crystal compound": 747302,
+        "base metals": 274614,
+        "reactive metals": 214113
+    },
+    "ore requirements": {
+        "tritanium": 27251271,
+        "pyrite": 8551835,
+        "mexallon": 2145989,
+        "isogen": 494820,
+        "noxium": 108837,
+        "zydrine": 42342,
+        "megacyte": 24336
+    }
+}

@@ -1,0 +1,24 @@
+{
+	"name": "Caracal II Blueprint",
+	"volume": 0.01,
+	"products": "Caracal II",
+	"tech level": 10,
+	"manufacturing time": "20:00:00",
+	"manufacturing cost": 200000000,
+	"pi requirements": {
+		"gleaming alloy": 61697,
+		"precious alloy": 54776,
+		"opulent compound": 69902,
+		"noble metals": 69902,
+		"reactive metals": 17381
+	},
+	"ore requirements": {
+		"tritanium": 52678314,
+		"pyrite": 14146851,
+		"mexallon": 5259033,
+		"isogen": 908235,
+		"noxium": 227430,
+		"zydrine": 76787,
+		"megacyte": 49043
+	}
+}

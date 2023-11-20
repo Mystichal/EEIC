@@ -1,0 +1,24 @@
+{
+    "name": "Stabber Sniper Blueprint",
+    "volume": 0.01,
+    "products": "Stabber Sniper",
+    "tech level": 8,
+    "manufacturing time": "08:53:20",
+    "manufacturing cost": 30000000,
+    "pi requirements": {
+        "gleaming alloy": 19907,
+        "precious alloy": 17673,
+        "opulent compound": 22555,
+        "noble metals": 22555,
+        "reactive metals": 5609
+    },
+    "ore requirements": {
+        "tritanium": 7555326,
+        "pyrite": 2117409,
+        "mexallon": 640514,
+        "isogen": 136788,
+        "noxium": 40875,
+        "zydrine": 12833,
+        "megacyte": 4830
+    }
+}

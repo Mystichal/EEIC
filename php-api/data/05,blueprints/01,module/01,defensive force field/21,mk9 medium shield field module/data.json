@@ -1,0 +1,24 @@
+{
+    "name": "MK9 Medium Shield Field Module Blueprint",
+    "volume": 0.01,
+    "products": "MK9 Medium Shield Field Module",
+    "tech level": 9,
+    "manufacturing time": "01:00:00",
+    "manufacturing cost": 6000000,
+    "pi requirements": {
+        "lustering alloy": 8778,
+        "condensed alloy": 6846,
+        "crystal compound": 8733,
+        "reactive metals": 1631,
+        "toxic metals": 1859
+    },
+    "ore requirements": {
+        "tritanium": 410586,
+        "pyrite": 104517,
+        "mexallon": 33354,
+        "isogen": 5507,
+        "noxium": 1469,
+        "zydrine": 599,
+        "megacyte": 347
+    }
+}

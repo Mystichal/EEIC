@@ -1,0 +1,27 @@
+{
+    "name": "Integrated Shrike Blueprint",
+    "volume": 0.01,
+    "products": "Integrated Shrike",
+    "tech level": 10,
+    "manufacturing time": "06:00:00",
+    "manufacturing cost": 35000000,
+    "pi requirements": {
+        "lustering alloy": 126186,
+        "motley compound": 127001,
+        "lucent compound": 135956,
+        "glossy compound": 127001,
+        "base metals": 37868,
+        "precious metals": 33126,
+        "non-cs crystals": 36042
+    },
+    "ore requirements": {
+        "tritanium": 10270911,
+        "pyrite": 2489993,
+        "mexallon": 851385,
+        "isogen": 150536,
+        "noxium": 41954,
+        "zydrine": 14808,
+        "megacyte": 7404,
+        "morphite": 2469
+    }
+}

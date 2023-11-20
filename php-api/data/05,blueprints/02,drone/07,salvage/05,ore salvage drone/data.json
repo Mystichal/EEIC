@@ -1,0 +1,24 @@
+{
+    "name": "ORE Salvage Drone Blueprint",
+    "volume": 0.01,
+    "products": "ORE Salvage Drone",
+    "tech level": 10,
+    "manufacturing time": "06:00:00",
+    "manufacturing cost": 4500000,
+    "pi requirements": {
+        "lustering alloy": 14843,
+        "motley compound": 14060,
+        "crystal compound": 15944,
+        "base metals": 5859,
+        "reactive metals": 4569,
+    },
+    "ore requirements": {
+        "tritanium": 581391,
+        "pyrite": 182450,
+        "mexallon": 45785,
+        "isogen": 10557,
+        "noxium": 2322,
+        "zydrine": 905,
+        "megacyte": 521
+    }
+}

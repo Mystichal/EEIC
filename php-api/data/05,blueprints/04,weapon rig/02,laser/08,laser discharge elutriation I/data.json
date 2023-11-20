@@ -1,0 +1,12 @@
+{
+    "name": "Laser Discharge Elutriation I Blueprint",
+    "volume": 0.01,
+    "products": "Laser Discharge Elutriation I",
+    "tech level": 4,
+    "manufacturing time": "00:30:00",
+    "manufacturing cost": 7500,
+    "salvage part requirements": {
+        "smashed trigger unit": 26,
+        "conductive polymer": 80
+    }
+}

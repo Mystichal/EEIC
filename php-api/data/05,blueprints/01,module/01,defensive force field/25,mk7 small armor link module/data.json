@@ -1,0 +1,23 @@
+{
+    "name": "MK7 Small Armor Link Module Blueprint",
+    "volume": 0.01,
+    "products": "MK7 Small Armor Link Module",
+    "tech level": 7,
+    "manufacturing time": "00:35:00",
+    "manufacturing cost": 2000000,
+    "pi requirements": {
+        "gleaming alloy": 2685,
+        "condensed alloy": 2697,
+        "opulent compound": 2393,
+        "crystal compound": 2813,
+        "reactive metals": 762
+    },
+    "ore requirements": {
+        "tritanium": 115052,
+        "pyrite": 35787,
+        "mexallon": 11278,
+        "isogen": 2420,
+        "noxium": 563,
+        "zydrine": 242
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "name": "2P Combat Integrated Module - Blueprint",
+    "volume": 0.01,
+    "products": "Frequency-reducing 2P Combat Integrated Module",
+    "tech level": 4,
+    "manufacturing time": "01:00:00",
+    "manufacturing cost": 45000,
+    "salvaged part requirements": {
+        "integrated trigger unit": 30,
+        "capacitor control center": 15
+    }
+}

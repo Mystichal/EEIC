@@ -1,0 +1,22 @@
+{
+    "name": "Base Detection Array Blueprint",
+    "volume": 0.01,
+    "products": "Base Detection Array",
+    "tech level": 6,
+    "manufacturing time": "12:00:00",
+    "manufacturing cost": 400000000,
+    "components requirements": {
+        "structure construction parts": 2,
+        "structure hangar array": 2,
+        "structure storage bay": 3,
+        "structure factory": 2,
+        "structure repair facility": 2,
+        "structure docking bay": 2,
+        "structure market network": 5,
+        "structure medical center": 2,
+        "structure office center": 2,
+        "structure mission network": 3,
+        "structure acceleration coils": 2,
+        "structure advertisement nexus": 3
+    }
+}

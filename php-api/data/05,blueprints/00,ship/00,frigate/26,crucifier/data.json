@@ -1,0 +1,20 @@
+{
+    "name": "Crucifier Blueprint",
+    "volume": 0.01,
+    "products": "Crucifier",
+    "tech level": 4,
+    "manufacturing time": "00:16:40",
+    "manufacturing cost": 200000,
+    "pi requirements": {
+        "lustering alloy": 1034,
+        "sheen compound": 1115,
+        "motley compound": 1041,
+        "base metals": 311,
+        "heavy mentals": 1115
+    },
+    "ore requirements": {
+        "tritanium": 73470,
+        "pyrite": 12144,
+        "mexallon": 4887
+    },
+}

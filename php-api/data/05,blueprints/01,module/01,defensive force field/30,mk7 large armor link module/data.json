@@ -1,0 +1,23 @@
+{
+    "name": "MK7 Large Armor Link Module Blueprint",
+    "volume": 0.01,
+    "products": "MK7 Large Armor Link Module",
+    "tech level": 7,
+    "manufacturing time": "00:35:00",
+    "manufacturing cost": 9500000,
+    "pi requirements": {
+        "sheen compound": 12224,
+        "precious alloy": 11814,
+        "glossy compound": 9873,
+        "dark compound": 14522,
+        "heavy mentals": 12776
+    },
+    "ore requirements": {
+        "tritanium": 669979,
+        "pyrite": 180098,
+        "mexallon": 53523,
+        "isogen": 10125,
+        "noxium": 2795,
+        "zydrine": 1056
+    }
+}

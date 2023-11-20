@@ -1,0 +1,26 @@
+{
+    "name": "Citadella 100mm Titanium Armor Blueprint",
+    "volume": 0.01,
+    "products": "Citadella 100mm Titanium Armor",
+    "tech level": 8,
+    "manufacturing time": "16:00:00",
+    "manufacturing cost": 2500000,
+    "pi requirements": {
+        "gleaming alloy": 2408,
+        "condensed alloy": 2529,
+        "opulent compound": 2289,
+        "crystal compound": 2676,
+        "reactive metals": 602,
+        "precious metals": 422,
+        "non-cs crystals": 459
+    },
+    "ore requirements": {
+        "tritanium": 131321,
+        "pyrite": 35322,
+        "mexallon": 11483,
+        "isogen": 1619,
+        "noxium": 527,
+        "zydrine": 185,
+        "megacyte": 96
+    }
+}

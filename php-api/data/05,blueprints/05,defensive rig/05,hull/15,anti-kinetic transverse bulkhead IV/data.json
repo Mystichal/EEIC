@@ -1,0 +1,15 @@
+{
+	"name": "Anti-Kinetic Transverse Bulkhead IV Blueprint",
+	"volume": 0.01,
+	"products": "Anti-Kinetic Transverse Bulkhead IV",
+	"tech level": 10,
+    "manufacturing time": "62:30:00",
+    "manufacturing cost": 750000,
+    "salvaged part requirements": {
+        "charred micro circuit": 1290,
+        "fried interface circuit": 2145,
+        "tripped power circuit": 4020,
+        "burned logic circuit": 804,
+        "contaminated lorentz fluid": 3495
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Stabber Blueprint",
+    "volume": 0.01,
+    "products": "Stabber",
+    "tech level": 5,
+    "manufacturing time": "01:06:40",
+    "manufacturing cost": 2000000,
+    "pi requirements": {
+        "lustering alloy": 4755,
+        "gleaming alloy": 4785,
+        "motley compound": 4785,
+        "base metals": 1428,
+        "noble metals": 5423
+    },
+    "ore requirements": {
+        "tritanium": 830708,
+        "pyrite": 189518,
+        "mexallon": 60356,
+        "isogen": 11717
+    }
+}

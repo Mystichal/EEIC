@@ -1,0 +1,12 @@
+{
+    "name": "Capital Fighter Control Enhancer I Blueprint",
+    "volume": 0.01,
+    "products": "Capital Fighter Control Enhancer I",
+    "tech level": 10,
+    "manufacturing time": "62:30:00",
+    "manufacturing cost": 25000000,
+    "salvaged part requirements": {
+        "capital burned logic circuit": 1140,
+        "capital damaged artificial neural network": 570
+    }
+}

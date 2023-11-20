@@ -1,0 +1,26 @@
+{
+    "name": "Bhaalgorn Blueprint",
+    "volume": 0.01,
+    "products": "Bhaalgorn",
+    "tech level": 8,
+    "manufacturing time": "120:00:00",
+    "manufacturing cost": 650000000,
+    "material efficiency": 150,
+    "time efficiency": 100,
+    "pi requirements": {
+        "condensed alloy": 451422,
+        "precious alloy": 353730,
+        "crystal compound": 423008,
+        "reactive metals": 112242,
+        "toxic metals": 111318
+    },
+    "ore requirements": {
+        "tritanium": 204301052,
+        "pyrite": 50620907,
+        "mexallon": 16690245,
+        "isogen": 2840067,
+        "noxium": 778431,
+        "zydrine": 290445,
+        "megacyte": 130991
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Hydraulic Bay Thrusters III Blueprint",
+    "volume": 0.01,
+    "products": "Hydraulic Bay Thrusters III",
+    "tech level": 8,
+    "manufacturing time": "12:30:00",
+    "manufacturing cost": 95000,
+    "salvage part requirements": {
+        "tripped power circuit": 174,
+        "scorched telemetry processor": 125
+    }
+}

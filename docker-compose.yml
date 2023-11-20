@@ -1,0 +1,41 @@
+version: '3'
+
+services:
+  php-api:
+    image: php:latest
+    container_name: php-api-container
+    volumes:
+      - ./php-api:/var/www/html
+    ports:
+      - "${PHP_API_PORT:-8080}:80"
+    networks:
+      - eeicnet
+
+  postgres-db:
+    image: postgres:latest
+    container_name: postgres-container
+    environment:
+      POSTGRES_DB: ${POSTGRES_DB}
+      POSTGRES_USER: ${POSTGRES_USER}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
+    ports:
+      - "${POSTGRES_PORT:-5432}:5432"
+    networks:
+      - eeicnet
+
+  eeic-app:
+    image: node:latest
+    container_name: nextjs-container
+    volumes:
+      - ./eeic:/app
+    ports:
+      - "${NEXTJS_PORT:-3000}:3000"
+    depends_on:
+      - php-api
+      - postgres-db
+    networks:
+      - eeicnet
+
+networks:
+  eeicnet:
+    driver: bridge

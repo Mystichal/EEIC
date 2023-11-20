@@ -1,0 +1,23 @@
+{
+	"name": "Naglafar Blueprint",
+	"volume": 0.01,
+	"products": "Naglafar",
+	"tech level": 10,
+	"manufacturing time": "666:00:00",
+	"manufacturing cost": 2500000000,
+	"components requirements": {
+		"capital ship maintenance bay": 8,
+		"capital capacitor battery": 5,
+		"capital power generator": 3,
+		"capital armor plates": 6,
+		"capital sensor cluster": 6,
+		"capital shield emitter": 8,
+		"capital seige array": 21,
+		"capital computer system": 11,
+		"capital construction parts": 6,
+		"capital corporate hangar bay": 5,
+		"capital turret hardpoint": 24,
+		"capital jump drive": 6,
+		"capital propulsion engine": 6
+	}
+}

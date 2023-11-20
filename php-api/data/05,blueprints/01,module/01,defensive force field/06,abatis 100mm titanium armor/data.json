@@ -1,0 +1,26 @@
+{
+    "name": "Abatis 100mm Titanium Armor Blueprint",
+    "volume": 0.01,
+    "products": "Abatis 100mm Titanium Armor",
+    "tech level": 5,
+    "manufacturing time": "02:00:00",
+    "manufacturing cost": 950000,
+    "pi requirements": {
+        "gleaming alloy": 1076,
+        "condensed alloy": 1185,
+        "opulent compound": 1026,
+        "crystal compound": 1127,
+        "reactive metals": 312,
+        "precious metals": 194,
+        "non-cs crystals": 212
+    },
+    "ore requirements": {
+        "tritanium": 57549,
+        "pyrite": 11555,
+        "mexallon": 5243,
+        "isogen": 879,
+        "noxium": 275,
+        "zydrine": 87,
+        "megacyte": 48
+    }
+}

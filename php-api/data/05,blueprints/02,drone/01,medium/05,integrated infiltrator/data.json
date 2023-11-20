@@ -1,0 +1,27 @@
+{
+    "name": "Integrated Infiltrator Blueprint",
+    "volume": 0.01,
+    "products": "Integrated Infiltrator",
+    "tech level": 10,
+    "manufacturing time": "06:00:00",
+    "manufacturing cost": 7000000,
+    "pi requirements": {
+        "precious alloy": 43176,
+        "lucent compound": 56255,
+        "glossy compound": 41948,
+        "crystal compound": 52611,
+        "toxic metals": 10562,
+        "precious metals": 6012,
+        "non-cs crystals": 6542
+    },
+    "ore requirements": {
+        "tritanium": 2162205,
+        "pyrite": 488037,
+        "mexallon": 124382,
+        "isogen": 22403,
+        "noxium": 7842,
+        "zydrine": 2889,
+        "megacyte": 1385,
+        "morphite": 449
+    }
+}

@@ -1,0 +1,24 @@
+{
+	"name": "Cyclone II Commnad Blueprint",
+	"volume": 0.01,
+	"products": "Cyclone II Commnad",
+	"tech level": 10,
+	"manufacturing time": "33:20:00",
+	"manufacturing cost": 300000000,
+	"pi requirements": {
+		"gleaming alloy": 103794,
+		"precious alloy": 92150,
+		"glossy compound": 103794,
+		"noble metals": 117600,
+		"reactive metals": 29241
+	},
+	"ore requirements": {
+		"tritanium": 88144469,
+		"pyrite": 23557139,
+		"mexallon": 7667977,
+		"isogen": 1754507,
+		"noxium": 418866,
+		"zydrine": 135569,
+		"megacyte": 72737
+	}
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Drone Control Range Augmentor I Blueprint",
+    "volume": 0.01,
+    "products": "Drone Control Range Augmentor I",
+    "tech level": 4,
+    "manufacturing time": "00:30:00",
+    "manufacturing cost": 15000,
+    "salvage part requirements": {
+        "charred micro circuit": 129,
+        "smashed trigger unit": 38
+    }
+}

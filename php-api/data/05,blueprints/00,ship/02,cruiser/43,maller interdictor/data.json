@@ -1,0 +1,24 @@
+{
+	"name": "Maller Interdictor Blueprint",
+	"volume": 0.01,
+	"products": "Maller Interdictor",
+	"tech level": 10,
+	"manufacturing time": "20:00:00",
+	"manufacturing cost": 200000000,
+	"pi requirements": {
+		"sheen compound": 79256,
+		"precious alloy": 65730,
+		"opulent compound": 83882,
+		"heavy mentals": 79256,
+		"reactive metals": 20858
+	},
+	"ore requirements": {
+		"tritanium": 69022829,
+		"pyrite": 17236061,
+		"mexallon": 6250737,
+		"isogen": 996017,
+		"noxium": 280098,
+		"zydrine": 93156,
+		"megacyte": 57044
+	}
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Drone Control Range Augmentor III Blueprint",
+    "volume": 0.01,
+    "products": "Drone Control Range Augmentor III",
+    "tech level": 8,
+    "manufacturing time": "12:30:00",
+    "manufacturing cost": 150000,
+    "salvage part requirements": {
+        "tripped power circuit": 399,
+        "scorched telemetry processor": 119
+    }
+}

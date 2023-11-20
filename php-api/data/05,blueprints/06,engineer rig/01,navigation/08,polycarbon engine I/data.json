@@ -1,0 +1,12 @@
+{
+    "name": "Polycarbon Engine Housing I Blueprint",
+    "volume": 0.01,
+    "products": "Polycarbon Engine Housing I",
+    "tech level": 4,
+    "manufacturing time": "00:30:00",
+    "manufacturing cost": 15000,
+    "salvage part requirements": {
+        "charred micro circuit": 103,
+        "contaminated nanite polymer": 22
+    }
+}

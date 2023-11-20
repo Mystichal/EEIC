@@ -1,0 +1,27 @@
+{
+    "name": "Integrated Bouncer Blueprint",
+    "volume": 0.01,
+    "products": "Integrated Bouncer",
+    "tech level": 10,
+    "manufacturing time": "06:00:00",
+    "manufacturing cost": 35000000,
+    "pi requirements": {
+        "sheen compound": 252899,
+        "fiber composite": 287249,
+        "dark compound": 245498,
+        "heavy mentals": 218357,
+        "toxic metals": 64073,
+        "precious metals": 30059,
+        "non-cs crystals": 32705
+    },
+    "ore requirements": {
+        "tritanium": 7502475,
+        "pyrite": 1841432,
+        "mexallon": 784137,
+        "isogen": 150257,
+        "noxium": 43398,
+        "zydrine": 13302,
+        "megacyte": 7626,
+        "morphite": 2240
+    }
+}

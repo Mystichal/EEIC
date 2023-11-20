@@ -1,0 +1,12 @@
+{
+    "name": "Drone Firepower Augmentor I Blueprint",
+    "volume": 0.01,
+    "products": "Drone Firepower Augmentor I",
+    "tech level": 4,
+    "manufacturing time": "00:30:00",
+    "manufacturing cost": 15000,
+    "salvaged part requirements": {
+        "charred micro circuit": 123,
+        "smashed trigger unit": 35
+    }
+}

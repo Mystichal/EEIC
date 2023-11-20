@@ -1,0 +1,25 @@
+{
+    "name": "Assult Mantis Blueprint",
+    "volume": 0.01,
+    "products": "Assult Mantis",
+    "tech level": 10,
+    "manufacturing time": "05:00:00",
+    "manufacturing cost": 40000000,
+    "pi requirements": {
+        "precious alloy": 102383,
+        "lucent compound": 151938,
+        "glossy compound": 148754,
+        "dark compound": 145364,
+        "toxic metals": 39273
+    },
+    "ore requirements": {
+        "tritanium": 4718277,
+        "pyrite": 1291023,
+        "mexallon": 397974,
+        "isogen": 86139,
+        "noxium": 24795,
+        "zydrine": 9468,
+        "megacyte": 3800,
+        "morphite": 1326
+    }
+}

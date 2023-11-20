@@ -1,0 +1,25 @@
+{
+    "name": "Offense Hobgoblin Blueprint",
+    "volume": 0.01,
+    "products": "Offense Hobgoblin",
+    "tech level": 10,
+    "manufacturing time": "05:00:00",
+    "manufacturing cost": 3000000,
+    "pi requirements": {
+        "gleaming alloy": 14931,
+        "lucent compound": 21510,
+        "crystal compound": 20550,
+        "noble metals": 23810,
+        "toxic metals": 4688
+    },
+    "ore requirements": {
+        "tritanium": 670835,
+        "pyrite": 200580,
+        "mexallon": 69510,
+        "isogen": 12236,
+        "noxium": 2574,
+        "zydrine": 1092,
+        "megacyte": 476,
+        "morphite": 180
+    }
+}

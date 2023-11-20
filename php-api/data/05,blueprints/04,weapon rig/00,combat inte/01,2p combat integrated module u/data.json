@@ -1,0 +1,12 @@
+{
+    "name": "2P Combat Integrated Module U Blueprint",
+    "volume": 0.01,
+    "products": "Universal 2P Combat Integrated Module",
+    "tech level": 6,
+    "manufacturing time": "05:00:00",
+    "manufacturing cost": 90000,
+    "salvaged part requirements": {
+        "integrated trigger unit": 60,
+        "capacitor control center": 30
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "name": "Burst II Blueprint",
+    "volume": 0.01,
+    "products": "Burst II",
+    "tech level": 6,
+    "manufacturing time": "01:06:40",
+    "manufacturing cost": 2500000,
+    "pi requirements": {
+        "lustering alloy": 4566,
+        "gleaming alloy": 4596,
+        "fiber composite": 5207,
+        "noble metals": 5207,
+        "reactive metals": 1296
+    },
+    "ore requirements": {
+        "tritanium": 863394,
+        "pyrite": 198194,
+        "mexallon": 68595,
+        "isogen": 15222,
+        "noxium": 3858
+    }
+}

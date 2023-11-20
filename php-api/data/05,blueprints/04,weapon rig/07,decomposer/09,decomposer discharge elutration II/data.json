@@ -1,0 +1,12 @@
+{
+    "name": "Decomposer Discharge Elutriation II Blueprint",
+    "volume": 0.01,
+    "products": "Decomposer Discharge Elutriation II",
+    "tech level": 6,
+    "manufacturing time": "02:30:00",
+    "manufacturing cost": 60000,
+    "salvage part requirements": {
+        "damaged close-in weapon system": 41,
+        "conductive polymer": 198
+    }
+}

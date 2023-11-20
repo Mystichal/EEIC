@@ -1,0 +1,24 @@
+{
+    "name": "'Dust' Salvage Drone Blueprint",
+    "volume": 0.01,
+    "products": "'Dust' Salvage Drone",
+    "tech level": 10,
+    "manufacturing time": "06:00:00",
+    "manufacturing cost": 2500000,
+    "pi requirements": {
+        "lustering alloy": 7632,
+        "motley compound": 7229,
+        "crystal compound": 8199,
+        "base metals": 3014,
+        "reactive metals": 2349,
+    },
+    "ore requirements": {
+        "tritanium": 298937,
+        "pyrite": 93812,
+        "mexallon": 23541,
+        "isogen": 5429,
+        "noxium": 1194,
+        "zydrine": 465,
+        "megacyte": 267
+    }
+}

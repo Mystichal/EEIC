@@ -1,0 +1,24 @@
+{
+    "name": "Standard Standup Stasis Webifier Blueprint",
+    "volume": 0.01,
+    "products": "Standard Standup Stasis Webifier",
+    "tech level": 6,
+    "manufacturing time": "06:00:00",
+    "manufacturing cost": 15000000,
+    "pi requirements": {
+        "noble gas": 94856,
+        "industrial fibers": 32774,
+        "condensates": 78005,
+        "construction blocks": 77417,
+        "nanites": 26615
+    },
+    "ore requirements": {
+        "tritanium": 1996046,
+        "pyrite": 495882,
+        "mexallon": 171684,
+        "isogen": 27344,
+        "noxium": 7202,
+        "zydrine": 2337,
+        "megacyte": 1577
+    }
+}

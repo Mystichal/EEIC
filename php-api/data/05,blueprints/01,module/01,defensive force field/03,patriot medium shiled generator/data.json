@@ -1,0 +1,26 @@
+{
+    "name": "Patriot Medium Shield Generator Blueprint",
+    "volume": 0.01,
+    "products": "Patriot Medium Shield Generator",
+    "tech level": 8,
+    "manufacturing time": "16:00:00",
+    "manufacturing cost": 8500000,
+    "pi requirements": {
+        "lustering alloy": 7964,
+        "condensed alloy": 9740,
+        "crystal compound": 10704,
+        "reactive metals": 2877,
+        "toxic metals": 2330,
+        "precious metals": 1686,
+        "non-cs crystals": 1835
+    },
+    "ore requirements": {
+        "tritanium": 415521,
+        "pyrite": 134315,
+        "mexallon": 43110,
+        "isogen": 8045,
+        "noxium": 2339,
+        "zydrine": 780,
+        "megacyte": 366
+    }
+}

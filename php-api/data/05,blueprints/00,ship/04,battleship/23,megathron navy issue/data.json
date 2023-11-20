@@ -1,0 +1,33 @@
+{
+	"name": "Megathron Navy Issue Blueprint",
+	"volume": 0.01,
+	"products": "Megathron Navy Issue",
+	"tech level": 10,
+	"manufacturing time": "44:26:40",
+	"manufacturing cost": 65000000,
+	"pi requirements": {
+		"sheen compound": 4669799,
+		"precious alloy": 3872858,
+		"crystal compound": 4631349,
+		"heavy mentals": 4669799,
+		"reactive metals": 1228895,
+		"super tensile plastics": 2849883,
+		"nanites": 1228895
+	},
+	"ore requirements": {
+		"tritanium": 190153092,
+		"pyrite": 38016794,
+		"mexallon": 15820818,
+		"isogen": 2200098,
+		"noxium": 577839,
+		"zydrine": 253277,
+		"megacyte": 124731,
+		"morphite": 42383
+	},
+	"component requirements": {
+		"ppd fullerene fiber": 18000
+	},
+	"ship requirements": {
+		"megathron": 2
+	}
+}

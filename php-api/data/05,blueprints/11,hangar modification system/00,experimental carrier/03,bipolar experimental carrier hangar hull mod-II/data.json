@@ -1,0 +1,25 @@
+{
+    "name": "Bipolar Experimental Carrier Hangar Hull MOD-II Blueprint",
+    "volume": 0.01,
+    "products": "Bipolar Experimental Carrier Hangar Hull MOD-II",
+    "tech level": 10,
+    "manufacturing time": "48:00:00",
+    "manufacturing cost": 650000000,
+    "ore requirements": {
+        "morphite": 276930
+    },
+    "salvaged part requirements": {
+        "capital burned logic circuit": 9407,
+        "capital damaged artificial neural network": 1569,
+        "capital contaminated lorentz fluid": 13064,
+        "capital conductive polymer": 78378,
+        "capital contaminated nanite compound": 19595,
+        "capital defective current pump": 26127
+    },
+    "component requirements": {
+        "capital ship maintenance bay": 18,
+        "capital power generator": 18,
+        "capital computer system": 18,
+        "capital corporate hangar bay": 18
+    }
+}

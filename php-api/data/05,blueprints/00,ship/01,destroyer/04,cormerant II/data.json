@@ -1,0 +1,20 @@
+{
+    "name": "Cormorant II Blueprint",
+    "volume": 0.01,
+    "products": "Cormorant II",
+    "tech level": 4,
+    "manufacturing time": "00:25:00",
+    "manufacturing cost": 250000,
+    "pi requirements": {
+        "lustering alloy": 1554,
+        "gleaming alloy": 1565,
+        "motley compound": 1565,
+        "base metals": 467,
+        "noble metals": 1772
+    },
+    "ore requirements": {
+        "tritanium": 85610,
+        "pyrite": 21366,
+        "mexallon": 7797
+    }
+}

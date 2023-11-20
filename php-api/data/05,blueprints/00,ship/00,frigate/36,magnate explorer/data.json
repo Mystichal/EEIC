@@ -1,0 +1,24 @@
+{
+    "name": "Magnate Explorer Blueprint",
+    "volume": 0.01,
+    "products": "Magnate Explorer",
+    "tech level": 10,
+    "manufacturing time": "13:20:00",
+    "manufacturing cost": 60000000,
+    "pi requirements": {
+        "sheen compound": 22146,
+        "precious alloy": 18366,
+        "fiber composite": 23438,
+        "heavy mentals": 22146,
+        "reactive metals": 5829
+    },
+    "ore requirements": {
+        "tritanium": 18903894,
+        "pyrite": 4936962,
+        "mexallon": 1561802,
+        "isogen": 308898,
+        "noxium": 77060,
+        "zydrine": 30981,
+        "megacyte": 13632
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Warhead Calefaction Catalyst II Blueprint",
+    "volume": 0.01,
+    "products": "Warhead Calefaction Catalyst II",
+    "tech level": 6,
+    "manufacturing time": "02:30:00",
+    "manufacturing cost": 45000,
+    "salvage part requirements": {
+        "fried interface circuit": 245,
+        "damaged close-in weapon system": 66
+    }
+}

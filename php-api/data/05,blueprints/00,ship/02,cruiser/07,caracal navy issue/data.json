@@ -1,0 +1,22 @@
+{
+    "name": "Caracal Navy Issue Blueprint",
+    "volume": 0.01,
+    "products": "Caracal Navy Issue",
+    "tech level": 6,
+    "manufacturing time": "02:13:20",
+    "manufacturing cost": 7000000,
+    "pi requirements": {
+        "lustering alloy": 13808,
+        "gleaming alloy": 13896,
+        "opulent compound": 15744,
+        "noble metals": 15744,
+        "reactive metals": 3915
+    },
+    "ore requirements": {
+        "tritanium": 2555856,
+        "pyrite": 724446,
+        "mexallon": 227073,
+        "isogen": 38825,
+        "noxium": 9246
+    }
+}

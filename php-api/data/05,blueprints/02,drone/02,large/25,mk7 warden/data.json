@@ -1,0 +1,24 @@
+{
+    "name": "MK7 Warden Blueprint",
+    "volume": 0.01,
+    "products": "MK7 Warden",
+    "production amount": 3,
+    "tech level": 7,
+    "manufacturing time": "00:35:00",
+    "manufacturing cost": 6000000,
+    "pi requirements": {
+        "condensed alloy": 9308,
+        "opulent compound": 11169,
+        "dark compound": 11107,
+        "heavy mentals": 10101,
+        "reactive metals": 2553
+    },
+    "ore requirements": {
+        "tritanium": 404312,
+        "pyrite": 86054,
+        "mexallon": 28481,
+        "isogen": 6149,
+        "noxium": 1722,
+        "zydrine": 484
+    }
+}

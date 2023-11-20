@@ -1,0 +1,15 @@
+{
+    "name": "Auxiliary Thrusters IV Blueprint",
+    "volume": 0.01,
+    "products": "Auxiliary Thrusters IV",
+    "tech level": 10,
+    "manufacturing time": "62:30:00",
+    "manufacturing cost": 650000,
+    "salvaged part requirements": {
+        "charred micro circuit": 1470,
+        "fried interface circuit": 2445,
+        "tripped power circuit": 4575,
+        "burned logic circuit": 915,
+        "contaminated nanite polymer": 3090
+    }
+}

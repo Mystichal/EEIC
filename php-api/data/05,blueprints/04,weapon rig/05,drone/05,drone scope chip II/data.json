@@ -1,0 +1,12 @@
+{
+    "name": "Drone Scope Chip II Blueprint",
+    "volume": 0.01,
+    "products": "Drone Scope Chip II",
+    "tech level": 6,
+    "manufacturing time": "02:30:00",
+    "manufacturing cost": 35000,
+    "salvage part requirements": {
+        "fried interface circuit": 146,
+        "damaged close-in weapon system": 71
+    }
+}

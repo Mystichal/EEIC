@@ -1,0 +1,24 @@
+{
+    "name": "MK9 Medium Group Armor Repairer Blueprint",
+    "volume": 0.01,
+    "products": "MK9 Medium Group Armor Repairer",
+    "tech level": 9,
+    "manufacturing time": "01:00:00",
+    "manufacturing cost": 5000000,
+    "pi requirements": {
+        "sheen compound": 5633,
+        "glossy compound": 5472,
+        "dark compound": 7076,
+        "heavy mentals": 6354,
+        "noble metals": 7011
+    },
+    "ore requirements": {
+        "tritanium": 403379,
+        "pyrite": 76337,
+        "mexallon": 25397,
+        "isogen": 5538,
+        "noxium": 1483,
+        "zydrine": 413,
+        "megacyte": 240
+    }
+}

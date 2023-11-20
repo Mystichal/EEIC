@@ -1,0 +1,27 @@
+{
+    "name": "Integrated Ogre Blueprint",
+    "volume": 0.01,
+    "products": "Integrated Ogre",
+    "tech level": 10,
+    "manufacturing time": "06:00:00",
+    "manufacturing cost": 30000000,
+    "pi requirements": {
+        "lustering alloy": 166713,
+        "motley compound": 218495,
+        "crystal compound": 176184,
+        "base metals": 50304,
+        "reactive metals": 56619,
+        "precious metals": 24048,
+        "non-cs crystals": 26163
+    },
+    "ore requirements": {
+        "tritanium": 8350581,
+        "pyrite": 1681013,
+        "mexallon": 525333,
+        "isogen": 110370,
+        "noxium": 34110,
+        "zydrine": 10212,
+        "megacyte": 5483,
+        "morphite": 1793
+    }
+}

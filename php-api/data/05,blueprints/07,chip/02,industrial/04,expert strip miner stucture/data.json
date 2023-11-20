@@ -1,0 +1,23 @@
+{
+    "name": "Expert Strip Miner Structure Blueprint",
+    "volume": 0.01,
+    "products": "Expert Strip Miner Structure",
+    "tech level": 8,
+    "manufacturing time": "24:00:00",
+    "manufacturing cost": 25000000,
+    "pi requirements": {
+        "nanites": 506274
+    },
+    "nanocore material requirements": {
+        "construction stream computing chip III": 300,
+        "industry efficiancy data bank III": 3000
+    },
+    "data requirements": {
+        "scan experiment data": 600,
+        "mining experiment data": 300
+    },
+    "implant component requirements": {
+        "willpower mimetic neuron": 600,
+        "memory mimetic neuron": 450
+    }
+}

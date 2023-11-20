@@ -1,0 +1,25 @@
+{
+    "name": "Offense Warrior Blueprint",
+    "volume": 0.01,
+    "products": 10,
+    "tech level": "Offense Warrior",
+    "manufacturing time": "05:00:00",
+    "manufacturing cost": 3000000,
+    "pi requirements": {
+        "sheen compound": 18549,
+        "condensed alloy": 21408,
+        "opulent compound": 17544,
+        "dark compound": 22595,
+        "reactive metals": 5453
+    },
+    "ore requirements": {
+        "tritanium": 689469,
+        "pyrite": 143658,
+        "mexallon": 58698,
+        "isogen": 12072,
+        "noxium": 3456,
+        "zydrine": 1205,
+        "megacyte": 522,
+        "morphite": 180
+    }
+}

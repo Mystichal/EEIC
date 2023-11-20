@@ -1,0 +1,12 @@
+{
+    "name": "Drone Firepower Augmentor III Blueprint",
+    "volume": 0.01,
+    "products": "Drone Firepower Augmentor III",
+    "tech level": 8,
+    "manufacturing time": "12:30:00",
+    "manufacturing cost": 150000,
+    "salvaged part requirements": {
+        "tripped power circuit": 384,
+        "scorched telemetry processor": 104
+    }
+}

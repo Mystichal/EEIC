@@ -1,0 +1,23 @@
+{
+    "name": "MK5 Warrior Blueprint",
+    "volume": 0.01,
+    "products": "MK5 Warrior",
+    "production amount": 10,
+    "tech level": 5,
+    "manufacturing time": "00:25:00",
+    "manufacturing cost": 850000,
+    "pi requirements": {
+        "sheen compound": 1553,
+        "condensed alloy": 2096,
+        "opulent compound": 1490,
+        "dark compound": 1795,
+        "reactive metals": 356
+    },
+    "ore requirements": {
+        "tritanium": 65622,
+        "pyrite": 15243,
+        "mexallon": 4530,
+        "isogen": 801,
+        "noxium": 276
+    }
+}

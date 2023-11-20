@@ -1,0 +1,24 @@
+{
+    "name": "Nereus Blueprint",
+    "volume": 0.01,
+    "products": "Nereus",
+    "tech level": "8",
+    "manufacturing time": "08:53:20",
+    "manufacturing cost": 20000000,
+    "pi requirements": {
+        "sheen compound": 15335,
+        "precious alloy": 12719,
+        "opulent compound": 16230,
+        "heavy mentals": 15335,
+        "reactive metals": 4037
+    },
+    "ore requirements": {
+        "tritanium": 5265347,
+        "pyrite": 1758176,
+        "mexallon": 499749,
+        "isogen": 79607,
+        "noxium": 26765,
+        "zydrine": 9768,
+        "megacyte": 3750
+    }
+}

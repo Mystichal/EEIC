@@ -1,0 +1,24 @@
+{
+    "name": "Structure Acceleration Coils Blueprint",
+    "volume": 0.01,
+    "products": "Structure Acceleration Coils",
+    "tech level": 6,
+    "manufacturing time": "24:00:00",
+    "manufacturing cost": 20000000,
+    "pi requirements": {
+        "noble gas": 28017,
+        "polyaramids": 20384,
+        "condensates": 27438,
+        "nanites": 10590,
+        "smartfab units": 24126
+    },
+    "ore requirements": {
+        "tritanium": 3820157,
+        "pyrite": 1201637,
+        "mexallon": 478722,
+        "isogen": 85110,
+        "noxium": 19076,
+        "zydrine": 8022,
+        "megacyte": 3858
+    }
+}

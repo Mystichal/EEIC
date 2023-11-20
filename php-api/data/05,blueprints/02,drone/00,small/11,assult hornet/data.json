@@ -1,0 +1,25 @@
+{
+    "name": "Assult Hornet Blueprint",
+    "volume": 0.01,
+    "products": "Assult Hornet",
+    "tech level": 10,
+    "manufacturing time": "04:00:00",
+    "manufacturing cost": 2000000,
+    "pi requirements": {
+        "sheen compound": 14172,
+        "precious alloy": 13511,
+        "fiber composite": 12758,
+        "dark compound": 14903,
+        "heavy mentals": 15633
+    },
+    "ore requirements": {
+        "tritanium": 535290,
+        "pyrite": 149171,
+        "mexallon": 48489,
+        "isogen": 7199,
+        "noxium": 2435,
+        "zydrine": 753,
+        "megacyte": 375,
+        "morphite": 134
+    }
+}

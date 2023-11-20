@@ -1,0 +1,24 @@
+{
+	"name": "Orca Blueprint",
+	"volume": 0.01,
+	"products": "Orca",
+	"tech level": 10,
+	"manufacturing time": "44:26:40",
+	"manufacturing cost": 300000000,
+	"pi requirements": {
+		"condensed alloy": 228827,
+		"precious alloy": 179307,
+		"opulent compound": 214424,
+		"reactive metals": 56897,
+		"toxic metals": 56429
+	},
+	"ore requirements": {
+		"tritanium": 100484616,
+		"pyrite": 21005166,
+		"mexallon": 8870223,
+		"isogen": 1210604,
+		"noxium": 314261,
+		"zydrine": 137559,
+		"megacyte": 69075
+	}
+}

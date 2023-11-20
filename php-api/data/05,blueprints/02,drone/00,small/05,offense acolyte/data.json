@@ -1,0 +1,25 @@
+{
+    "name": "Offense Acolyte Blueprint",
+    "volume": 0.01,
+    "products": "Offense Acolyte",
+    "tech level": 10,
+    "manufacturing time": "05:00:00",
+    "manufacturing cost": 3000000,
+    "pi requirements": {
+        "lustering alloy": 19781,
+        "motley compound": 16959,
+        "crystal compound": 17516,
+        "base metals": 4920,
+        "reactive metals": 6284
+    },
+    "ore requirements": {
+        "tritanium": 644747,
+        "pyrite": 166247,
+        "mexallon": 55917,
+        "isogen": 11855,
+        "noxium": 3776,
+        "zydrine": 990,
+        "megacyte": 573,
+        "morphite": 180
+    }
+}

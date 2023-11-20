@@ -1,0 +1,24 @@
+{
+    "name": "Hound II Blueprint",
+    "volume": 0.01,
+    "products": "Hound II",
+    "tech level": 9,
+    "manufacturing time": "06:40:00",
+    "manufacturing cost": 15000000,
+    "pi requirements": {
+        "gleaming alloy": 15425,
+        "precious alloy": 13695,
+        "fiber composite": 17477,
+        "noble metals": 17477,
+        "reactive metals": 4346
+    },
+    "ore requirements": {
+        "tritanium": 4105647,
+        "pyrite": 1197099,
+        "mexallon": 374538,
+        "isogen": 58682,
+        "noxium": 19227,
+        "zydrine": 6414,
+        "megacyte": 3602
+    }
+}

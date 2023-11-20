@@ -1,0 +1,14 @@
+{
+	"name": "Obelisk Blueprint",
+	"volume": 0.01,
+	"products": "Obelisk",
+	"tech level": 9,
+	"manufacturing time": "416:00:00",
+	"manufacturing cost": 1500000000,
+	"component requirements": {
+		"capital armor plates": 5,
+		"capital cargo bay": 26,
+		"capital construction parts": 17,
+		"capital propulsion engine": 6
+	}
+}

@@ -1,0 +1,24 @@
+{
+    "name": "ORE Heavy Exhumer Drone Blueprint",
+    "volume": 0.01,
+    "products": "ORE Heavy Exhumer Drone",
+    "tech level": 10,
+    "manufacturing time": "06:00:00",
+    "manufacturing cost": 350000000,
+    "pi requirements": {
+        "lustering alloy": 1015560,
+        "motley compound": 1330992,
+        "crystal compound": 1073250,
+        "base metals": 306429,
+        "reactive metals": 344900
+    },
+    "ore requirements": {
+        "tritanium": 50869040,
+        "pyrite": 10240179,
+        "mexallon": 3200159,
+        "isogen": 672335,
+        "noxium": 207779,
+        "zydrine": 62204,
+        "megacyte": 33393
+    }
+}

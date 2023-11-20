@@ -1,0 +1,12 @@
+{
+    "name": "Decomposer Ambit Extension II Blueprint",
+    "volume": 0.01,
+    "products": "Decomposer Ambit Extension II",
+    "tech level": 6,
+    "manufacturing time": "02:30:00",
+    "manufacturing cost": 95000,
+    "salvage part requirements": {
+        "damaged close-in weapon system": 86,
+        "conductive polymer": 244
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Emission Scope Sharpener III Blueprint",
+    "volume": 0.01,
+    "products": "Emission Scope Sharpener III",
+    "tech level": 8,
+    "manufacturing time": "12:30:00",
+    "manufacturing cost": 60000,
+    "salvage part requirements": {
+        "tripped power circuit": 119,
+        "contaminated nanite polymer": 74
+    }
+}

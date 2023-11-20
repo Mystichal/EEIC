@@ -1,0 +1,24 @@
+{
+	"name": "Noctis II Blueprint",
+	"volume": 0.01,
+	"products": "Noctis II",
+	"tech level": 10,
+	"manufacturing time": "33:20:00",
+	"manufacturing cost": 400000000,
+	"pi requirements": {
+		"condensed alloy": 225050,
+		"precious alloy": 176348,
+		"opulent compound": 225050,
+		"reactive metals": 55958,
+		"toxic metals": 55497
+	},
+	"ore requirements": {
+		"tritanium": 183350817,
+		"pyrite": 46475750,
+		"mexallon": 16125356,
+		"isogen": 2798172,
+		"noxium": 770756,
+		"zydrine": 271664,
+		"megacyte": 138503
+	}
+}

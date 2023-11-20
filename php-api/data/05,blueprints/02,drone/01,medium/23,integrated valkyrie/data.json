@@ -1,0 +1,27 @@
+{
+    "name": "Integrated Valkyrie Blueprint",
+    "volume": 0.01,
+    "products": "Integrated Valkyrie",
+    "tech level": 10,
+    "manufacturing time": "06:00:00",
+    "manufacturing cost": 7000000,
+    "pi requirements": {
+        "gleaming alloy": 51398,
+        "motley compound": 36647,
+        "lucent compound": 42932,
+        "dark compound": 51567,
+        "noble metals": 61368,
+        "precious metals": 6012,
+        "non-cs crystals": 6542
+    },
+    "ore requirements": {
+        "tritanium": 2041047,
+        "pyrite": 492555,
+        "mexallon": 161463,
+        "isogen": 24452,
+        "noxium": 8604,
+        "zydrine": 2393,
+        "megacyte": 1149,
+        "morphite": 449
+    }
+}

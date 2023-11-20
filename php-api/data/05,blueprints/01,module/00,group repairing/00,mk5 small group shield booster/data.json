@@ -1,0 +1,22 @@
+{
+    "name": "MK5 Small Group Shield Booster Blueprint",
+    "volume": 0.01,
+    "products": "MK5 Small Group Shield Booster",
+    "tech level": 5,
+    "manufacturing time": "00:25:00",
+    "manufacturing cost": 750000,
+    "pi requirements": {
+        "condensed alloy": 1295,
+        "motley compound": 1158,
+        "glossy compound": 947,
+        "noble metals": 1473,
+        "reactive metals": 273
+    },
+    "ore requirements": {
+        "tritanium": 63057,
+        "pyrite": 15134,
+        "mexallon": 4410,
+        "isogen": 1023,
+        "noxium": 287
+    }
+}

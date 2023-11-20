@@ -1,0 +1,24 @@
+{
+	"name": "Thorax Interdictor Blueprint",
+	"volume": 0.01,
+	"products": "Thorax Interdictor",
+	"tech level": 10,
+	"manufacturing time": "20:00:00",
+	"manufacturing cost": 250000000,
+	"pi requirements": {
+		"sheen compound": 79256,
+		"precious alloy": 65730,
+		"opulent compound": 83882,
+		"heavy mentals": 79256,
+		"reactive metals": 20858
+	},
+	"ore requirements": {
+		"tritanium": 65947554,
+		"pyrite": 16976220,
+		"mexallon": 5499447,
+		"isogen": 1188962,
+		"noxium": 303081,
+		"zydrine": 102776,
+		"megacyte": 48011
+	}
+}

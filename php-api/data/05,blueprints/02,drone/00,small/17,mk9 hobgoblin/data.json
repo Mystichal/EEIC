@@ -1,0 +1,25 @@
+{
+    "name": "MK9 Hobgoblin Blueprint",
+    "volume": 0.01,
+    "products": "MK9 Hobgoblin",
+    "production amount": 10,
+    "tech level": 9,
+    "manufacturing time": "01:00:00",
+    "manufacturing cost": 3500000,
+    "pi requirements": {
+        "gleaming alloy": 4289,
+        "lucent compound": 5621,
+        "crystal compound": 5469,
+        "noble metals": 5195,
+        "toxic metals": 1502
+    },
+    "ore requirements": {
+        "tritanium": 201306,
+        "pyrite": 54843,
+        "mexallon": 15036,
+        "isogen": 3258,
+        "noxium": 770,
+        "zydrine": 252,
+        "megacyte": 146
+    }
+}

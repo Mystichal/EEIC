@@ -1,0 +1,12 @@
+{
+    "name": "Auxiliary Nano Pump III Blueprint",
+    "volume": 0.01,
+    "products": "Auxiliary Nano Pump III",
+    "tech level": 8,
+    "manufacturing time": "12:30:00",
+    "manufacturing cost": 150000,
+    "salvage part requirements": {
+        "scorched telemetry processor": 146,
+        "contaminated lorentz fluid": 93
+    }
+}

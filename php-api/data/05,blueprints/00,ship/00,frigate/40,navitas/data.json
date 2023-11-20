@@ -1,0 +1,21 @@
+{
+    "name": "Navitas Blueprint",
+    "volume": 0.01,
+    "products": "Navitas",
+    "tech level": 5,
+    "manufacturing time": "00:33:20",
+    "manufacturing cost": 550000,
+    "pi requirements": {
+        "lustering alloy": 1446,
+        "sheen compound": 1559,
+        "motley compound": 1455,
+        "base metals": 435,
+        "heavy mentals": 1559
+    },
+    "ore requirements": {
+        "tritanium": 244614,
+        "pyrite": 66492,
+        "mexallon": 19898,
+        "isogen": 2882,
+    }
+}

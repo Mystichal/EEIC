@@ -1,0 +1,26 @@
+{
+    "name": "Nestor Blueprint",
+    "volume": 0.01,
+    "products": "Nestor",
+    "tech level": 8,
+    "manufacturing time": "120:00:00",
+    "manufacturing cost": 600000000,
+    "material efficiency": 150,
+    "time efficiency": 100,
+    "pi requirements": {
+        "condensed alloy": 433853,
+        "precious alloy": 339963,
+        "crystal compound": 406545,
+        "reactive metals": 107874,
+        "toxic metals": 106986
+    },
+    "ore requirements": {
+        "tritanium": 161003252,
+        "pyrite": 51741833,
+        "mexallon": 14268734,
+        "isogen": 2864391,
+        "noxium": 790482,
+        "zydrine": 257406,
+        "megacyte": 151926
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "name": "Procurer Blueprint",
+    "volume": 0.01,
+    "products": "Procurer",
+    "tech level": 9,
+    "manufacturing time": "06:40:00",
+    "manufacturing cost": 30000000,
+    "pi requirements": {
+        "condensed alloy": 33384,
+        "precious alloy": 26160,
+        "opulent compound": 33384,
+        "reactive metals": 8301,
+        "toxic metals": 8234
+    },
+    "ore requirements": {
+        "tritanium": 9171455,
+        "pyrite": 2056827,
+        "mexallon": 722580,
+        "isogen": 133103,
+        "noxium": 32504,
+        "zydrine": 12803,
+        "megacyte": 5258
+    }
+}

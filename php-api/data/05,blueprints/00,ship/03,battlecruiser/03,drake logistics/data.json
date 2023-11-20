@@ -1,0 +1,24 @@
+{
+    "name": "Drake Logistics Blueprint",
+    "volume": 0.01,
+    "products": "Drake Logistics",
+    "tech level": 9,
+    "manufacturing time": "20:00:00",
+    "manufacturing cost": 65000000,
+    "pi requirements": {
+        "gleaming alloy": 74019,
+        "precious alloy": 65717,
+        "glossy compound": 74019,
+        "noble metals": 83865,
+        "reactive metals": 20853
+    },
+    "ore requirements": {
+        "tritanium": 18013106,
+        "pyrite": 5151683,
+        "mexallon": 1834955,
+        "isogen": 297123,
+        "noxium": 92267,
+        "zydrine": 27248,
+        "megacyte": 13145
+    }
+}

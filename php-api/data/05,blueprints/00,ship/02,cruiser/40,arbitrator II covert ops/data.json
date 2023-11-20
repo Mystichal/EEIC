@@ -1,0 +1,24 @@
+{
+    "name": "Arbitrator II Covert Ops Blueprint",
+    "volume": 0.01,
+    "products": "Arbitrator II Covert Ops",
+    "tech level": 9,
+    "manufacturing time": "13:20:00",
+    "manufacturing cost": 45000000,
+    "pi requirements": {
+        "sheen compound": 52839,
+        "precious alloy": 43821,
+        "opulent compound": 55923,
+        "heavy mentals": 52839,
+        "reactive metals": 13905
+    },
+    "ore requirements": {
+        "tritanium": 13803116,
+        "pyrite": 3050129,
+        "mexallon": 1144803,
+        "isogen": 219453,
+        "noxium": 50910,
+        "zydrine": 20300,
+        "megacyte": 12077
+    }
+}

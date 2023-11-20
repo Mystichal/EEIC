@@ -1,0 +1,22 @@
+{
+    "name": "Venture III Blueprint",
+    "volume": 0.01,
+    "products": "Venture III",
+    "tech level": 6,
+    "manufacturing time": "00:33:20",
+    "manufacturing cost": 1500000,
+    "pi requirements": {
+        "condensed alloy": 2345,
+        "precious alloy": 1838,
+        "fiber composite": 2345,
+        "reactive metals": 584,
+        "toxic metals": 579
+    },
+    "ore requirements": {
+        "tritanium": 376418,
+        "pyrite": 102951,
+        "mexallon": 33482,
+        "isogen": 5543,
+        "noxium": 1581
+    }
+}

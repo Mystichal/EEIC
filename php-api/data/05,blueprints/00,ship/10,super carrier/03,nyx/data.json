@@ -1,0 +1,28 @@
+{
+	"name": "Nyx Blueprint",
+	"volume": 0.01,
+	"products": "Nyx",
+	"tech level": 10,
+	"manufacturing time": "984:00:00",
+	"manufacturing cost": 5000000000,
+	"components requirements": {
+		"capital ship maintenance bay": 150,
+		"capital capacitor battery": 75,
+		"capital power generator": 75,
+		"capital armor plates": 188,
+		"capital sensor cluster": 75,
+		"capital shield emitter": 113,
+		"capital computer system": 75,
+		"capital construction parts": 75,
+		"capital corporate hangar bay": 150,
+		"capital jump drive": 75,
+		"capital propulsion engine": 75,
+		"capital drone bay": 375,
+		"nural link circuit": 300,
+		"nural link defense unit": 38,
+		"ftl interlink communication system": 150,
+		"core structure automated restoration": 1200,
+		"life support unit": 600,
+		"core temprature regulator": 75,
+	}
+}

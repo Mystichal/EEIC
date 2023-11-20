@@ -1,0 +1,24 @@
+{
+	"name": "Rupture Interdictor Blueprint",
+	"volume": 0.01,
+	"products": "Rupture Interdictor",
+	"tech level": 10,
+	"manufacturing time": "20:00:00",
+	"manufacturing cost": 200000000,
+	"pi requirements": {
+		"gleaming alloy": 74036,
+		"precious alloy": 65730,
+		"opulent compound": 83882,
+		"noble metals": 83882,
+		"reactive metals": 20858
+	},
+	"ore requirements": {
+		"tritanium": 69706223,
+		"pyrite": 16369928,
+		"mexallon": 6250737,
+		"isogen": 1037735,
+		"noxium": 303081,
+		"zydrine": 101763,
+		"megacyte": 48527
+	}
+}

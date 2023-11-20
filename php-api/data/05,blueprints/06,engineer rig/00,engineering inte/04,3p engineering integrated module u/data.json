@@ -1,0 +1,12 @@
+{
+	"name": "3P Engineering Integrated Module U Blueprint",
+	"volume": 0.01,
+	"products": "Universal 3P Engineering Integrated Module",
+	"tech level": 7,
+    "manufacturing time": "07:30:00",
+    "manufacturing cost": 200000,
+    "salvaged part requirements": {
+        "integrated simulation network": 120,
+        "power generator": 60
+    }
+}

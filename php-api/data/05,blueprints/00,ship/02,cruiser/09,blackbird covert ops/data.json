@@ -1,0 +1,23 @@
+{
+    "name": "Blackbird Covert Ops Blueprint",
+    "volume": 0.01,
+    "products": "Blackbird Covert Ops",
+    "tech level": 7,
+    "manufacturing time": "04:26:40",
+    "manufacturing cost": 20000000,
+    "pi requirements": {
+        "gleaming alloy": 18746,
+        "precious alloy": 16643,
+        "opulent compound": 21239,
+        "noble metals": 21239,
+        "reactive metals": 5282,
+    },
+    "ore requirements": {
+        "tritanium": 6284916,
+        "pyrite": 1602966,
+        "mexallon": 529908,
+        "isogen": 82374,
+        "noxium": 22422,
+        "zydrine": 7917
+    }
+}

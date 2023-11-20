@@ -1,0 +1,24 @@
+{
+    "name": "Lightweight Slasher Blueprint",
+    "volume": 0.01,
+    "products": "Lightweight Slasher",
+    "tech level": 10,
+    "manufacturing time": "05:20:00",
+    "manufacturing cost": 9500000,
+    "pi requirements": {
+        "lustering alloy": 38264,
+        "base metals": 11483
+    },
+    "ore requirements": {
+        "noxium": 6362,
+        "zydrine": 2246,
+        "megacyte": 1124,
+        "morphite": 749
+    },
+    "module requirements": {
+        "republic fleet small autocannon": 9
+    },
+    "ship requirements": {
+        "slasher II": 2
+    }
+}

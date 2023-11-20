@@ -1,0 +1,12 @@
+{
+	"name": "Capital Warhead Rigor Catalyst I Blueprint",
+	"volume": 0.01,
+	"products": "Capital Warhead Rigor Catalyst I",
+	"tech level": 10,
+    "manufacturing time": "62:30:00",
+    "manufacturing cost": 20000000,
+    "salvaged part requirements": {
+        "capital burned logic circuit": 1115,
+        "capital damaged artificial neural network": 557
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "name": "Structure Advertisement Nexus Blueprint",
+    "volume": 0.01,
+    "products": "Structure Advertisement Nexus",
+    "tech level": 6,
+    "manufacturing time": "24:00:00",
+    "manufacturing cost": 20000000,
+    "pi requirements": {
+        "noble gas": 35742,
+        "super tensile plastics": 25518,
+        "coolant": 21438,
+        "construction blocks": 31865,
+        "silicate glass": 13922
+    },
+    "ore requirements": {
+        "tritanium": 4696022,
+        "pyrite": 1079969,
+        "mexallon": 497436,
+        "isogen": 84279,
+        "noxium": 21405,
+        "zydrine": 6108,
+        "megacyte": 3996
+    }
+}

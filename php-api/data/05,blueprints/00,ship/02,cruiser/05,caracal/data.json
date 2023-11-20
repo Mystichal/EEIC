@@ -1,0 +1,21 @@
+{
+    "name": "Caracal Blueprint",
+    "volume": 0.01,
+    "products": "Caracal",
+    "tech level": 5,
+    "manufacturing time": "01:06:40",
+    "manufacturing cost": 2000000,
+    "pi requirements": {
+        "lustering alloy": 4853,
+        "gleaming alloy": 4883,
+        "motley compound": 4883,
+        "base metals": 1457,
+        "noble metals": 5532
+    },
+    "ore requirements": {
+        "tritanium": 829805,
+        "pyrite": 233760,
+        "mexallon": 67421,
+        "isogen": 10085
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Coercer Guardian Blueprint",
+    "volume": 0.01,
+    "products": "Coercer Guardian",
+    "tech level": 5,
+    "manufacturing time": "00:50:00",
+    "manufacturing cost": 900000,
+    "pi requirements": {
+        "lustering alloy": 2372,
+        "sheen compound": 2555,
+        "motley compound": 2387,
+        "base metals": 713,
+        "heavy mentals": 2555
+    },
+    "ore requirements": {
+        "tritanium": 523154,
+        "pyrite": 97602,
+        "mexallon": 31043,
+        "isogen": 4827
+    }
+}

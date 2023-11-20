@@ -1,0 +1,21 @@
+{
+    "name": "Catalyst Guardian Blueprint",
+    "volume": 0.01,
+    "products": "Catalyst Guardian",
+    "tech level": 5,
+    "manufacturing time": "00:50:00",
+    "manufacturing cost": 850000,
+    "pi requirements": {
+        "lustering alloy": 2375,
+        "sheen compound": 2559,
+        "motley compound": 2390,
+        "base metals": 713,
+        "heavy mentals": 2559
+    },
+    "ore requirements": {
+        "tritanium": 401723,
+        "pyrite": 109197,
+        "mexallon": 32678,
+        "isogen": 4733
+    }
+}

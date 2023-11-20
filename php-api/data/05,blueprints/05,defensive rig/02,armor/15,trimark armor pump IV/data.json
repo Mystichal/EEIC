@@ -1,0 +1,15 @@
+{
+	"name": "Trimark Armor Pump IV Blueprint",
+	"volume": 0.01,
+	"products": "Trimark Armor Pump IV",
+	"tech level": 10,
+    "manufacturing time": "62:30:00",
+    "manufacturing cost": 700000,
+    "salvaged part requirements": {
+        "smashed trigger unit": 720,
+        "damaged close-in weapon system": 1200,
+        "scorched telemetry processor": 2250,
+        "damaged artificial neural network": 450,
+        "contaminated lorentz fluid": 2505
+    }
+}

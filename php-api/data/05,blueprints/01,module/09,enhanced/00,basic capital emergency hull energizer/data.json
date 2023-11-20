@@ -1,0 +1,29 @@
+{
+	"name": "Basic Capital Emergency Hull Engergizer Blueprint",
+	"volume": 0.01,
+	"products": "Basic Capital Emergency Hull Engergizer",
+	"tech level": 10,
+	"manufacturing time": "48:00:00",
+	"manufacturing cost": 150000000,
+	"ore requirements": {
+		"morphite": 0
+	},
+	"salvaged part requirements": {
+		"capital burned logic circuit": 1131,
+		"capital damaged artificial neural network": 284,
+		"capital contaminated lorentz fluid": 473,
+		"capital conductive polymer": 5655,
+		"capital contaminated nanite compound": 1415,
+		"capital defective current pump": 473
+	},
+	"modified device part requirements": {
+		"serpentis device construction unit": 467,
+		"x-large device compilation optimization medium": 36,
+		"amarr device construction unit": 9302,
+		"gallente device construction unit": 9302,
+		"x-large device improvement device medium": 720
+	},
+	"module requirements": {
+		"'basic' damage control": 15
+	}
+}

@@ -1,0 +1,24 @@
+{
+	"name": "Venture IV Blueprint",
+	"volume": 0.01,
+	"products": "Venture IV",
+	"tech level": 10,
+	"manufacturing time": "01:06:40",
+	"manufacturing cost": 70000000,
+	"pi requirements": {
+		"condensed alloy": 27083,
+		"precious alloy": 21222,
+		"fiber composite": 27083,
+		"reactive metals": 6734,
+		"toxic metals": 6680
+	},
+	"ore requirements": {
+		"tritanium": 24049071,
+		"pyrite": 5368917,
+		"mexallon": 1940432,
+		"isogen": 331665,
+		"noxium": 87185,
+		"zydrine": 31547,
+		"megacyte": 18000
+	}
+}

@@ -1,0 +1,24 @@
+{
+    "name": "Dominix Blueprint",
+    "volume": 0.01,
+    "products": "Dominix",
+    "tech level": 9,
+    "manufacturing time": "26:40:00",
+    "manufacturing cost": 95000000,
+    "pi requirements": {
+        "sheen compound": 110513,
+        "precious alloy": 91652,
+        "crystal compound": 109602,
+        "heavy mentals": 110513,
+        "reactive metals": 29082
+    },
+    "ore requirements": {
+        "tritanium": 32133891,
+        "pyrite": 7206475,
+        "mexallon": 2531691,
+        "isogen": 466349,
+        "noxium": 113880,
+        "zydrine": 44853,
+        "megacyte": 18417
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "name": "'Beatnik' Large Armor Maintenance Drone Blueprint",
+    "volume": 0.01,
+    "products": "'Beatnik' Large Armor Maintenance Drone",
+    "tech level": 10,
+    "manufacturing time": "05:20:00",
+    "manufacturing cost": 35000000,
+    "pi requirements": {
+        "lustering alloy": 136047,
+        "fiber composite": 310274,
+        "glossy compound": 205386,
+        "noble metals": 232706,
+        "reactive metals": 38574
+    },
+    "ore requirements": {
+        "tritanium": 4152576,
+        "pyrite": 671144,
+        "mexallon": 229481,
+        "isogen": 20288,
+        "noxium": 8481,
+        "zydrine": 3992,
+        "megacyte": 2495
+    }
+}

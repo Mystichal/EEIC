@@ -1,0 +1,25 @@
+{
+    "name": "Capital Capacitor Battery Blueprint",
+    "volume": 0.01,
+    "products": "Capital Capacitor Battery",
+    "tech level": 9,
+    "manufacturing time": "24:00:00",
+    "manufacturing cost": 150000000,
+    "pi requirements": {
+        "lustering alloy": 85029,
+        "glossy compound": 85578,
+        "dark compound": 91613,
+        "reactive metals": 24110,
+        "toxic metals": 23910
+    },
+    "ore requirements": {
+        "tritanium": 6886353,
+        "pyrite": 1820477,
+        "mexallon": 562224,
+        "isogen": 95351,
+        "noxium": 28128,
+        "zydrine": 10478,
+        "megacyte": 4815,
+        "morphite": 1647
+    }
+}

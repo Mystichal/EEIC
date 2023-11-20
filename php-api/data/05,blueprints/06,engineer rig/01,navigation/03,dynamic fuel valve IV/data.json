@@ -1,0 +1,15 @@
+{
+    "name": "Dynamic Fuel Valve IV Blueprint",
+    "volume": 0.01,
+    "products": "Dynamic Fuel Valve IV",
+    "tech level": 10,
+    "manufacturing time": "62:30:00",
+    "manufacturing cost": 400000,
+    "salvaged part requirements": {
+        "charred micro circuit": 450,
+        "fried interface circuit": 735,
+        "tripped power circuit": 1365,
+        "burned logic circuit": 273,
+        "contaminated nanite polymer": 3165
+    }
+}

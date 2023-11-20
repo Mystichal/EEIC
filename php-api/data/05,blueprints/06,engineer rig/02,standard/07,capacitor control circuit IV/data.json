@@ -1,0 +1,15 @@
+{
+    "name": "Capacitor Control Circuit IV Blueprint",
+    "volume": 0.01,
+    "products": "Capacitor Control Circuit IV",
+    "tech level": 10,
+    "manufacturing time": "62:30:00",
+    "manufacturing cost": 650000,
+    "salvaged part requirements": {
+        "smashed trigger unit": 600,
+        "damaged close-in weapon system": 990,
+        "scorched telemetry processor": 1845,
+        "damaged artificial neural network": 369,
+        "conductive polymer": 15090
+    }
+}

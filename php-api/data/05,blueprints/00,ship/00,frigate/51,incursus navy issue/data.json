@@ -1,0 +1,31 @@
+{
+	"name": "Incursus Navy Issue Blueprint",
+	"volume": 0.01,
+	"products": "Incursus Navy Issue",
+	"tech level": 10,
+	"manufacturing time": "24:00:00",
+	"manufacturing cost": 15000000,
+	"pi requirements": {
+		"condensed alloy": 557181,
+		"precious alloy": 436604,
+		"reactive metals": 138539,
+		"supertensile plastics": 160640,
+		"nanites": 69270,
+		"precious metals": 128271,
+		"non-cs crystals": 139559
+	},
+	"ore requirements": {
+		"tritanium": 39771266,
+		"pyrite": 7231358,
+		"mexallon": 4120943,
+		"isogen": 582905
+	},
+	"component requirements": {
+		"ppd fullerene fiber": 12128,
+		"fullero-ferrocene": 32765,
+		"fullerene intercalated graphite": 3582,
+	},
+	"ship requirements": {
+		"incursus": 2
+	}
+}

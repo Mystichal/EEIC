@@ -1,0 +1,12 @@
+{
+    "name": "Laser Ambit Extension II Blueprint",
+    "volume": 0.01,
+    "products": "Laser Ambit Extension II",
+    "tech level": 6,
+    "manufacturing time": "02:30:00",
+    "manufacturing cost": 40000,
+    "salvage part requirements": {
+        "damaged close-in weapon system": 86,
+        "conductive polymer": 244
+    }
+}

@@ -1,0 +1,24 @@
+{
+	"name": "Imicus Explorer Blueprint",
+	"volume": 0.01,
+	"products": "Imicus Explorer",
+	"tech level": 10,
+	"manufacturing time": "13:20:00",
+	"manufacturing cost": 60000000,
+	"pi requirements": {
+		"sheen compound": 22146,
+		"precious alloy": 18366,
+		"fiber composite": 23438,
+		"heavy mentals": 22146,
+		"reactive metals": 5829
+	},
+	"ore requirements": {
+		"tritanium": 19954110,
+		"pyrite": 5227373,
+		"mexallon": 1670960,
+		"isogen": 256443,
+		"noxium": 92712,
+		"zydrine": 24332,
+		"megacyte": 14208
+	}
+}

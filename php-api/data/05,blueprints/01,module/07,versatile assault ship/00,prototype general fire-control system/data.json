@@ -1,0 +1,25 @@
+{
+	"name": "Prototype General Fire-control System Blueprint",
+	"volume": 0.01,
+	"products": "Prototype General Fire-control System",
+	"tech level": 10,
+	"manufacturing time": "36:00:00",
+	"manufacturing cost": 15000000,
+	"ore requirements": {
+		"morphite": 7761
+	},
+	"component requirements": {
+		"small device improvement device medium": 5019,
+		"medium device improvement device medium": 11510,
+		"large device improvement device medium": 7769,
+		"x-large device improvement device medium": 389
+	},
+	"module requirements": {
+		"imperial navy heatsink": 12,
+		"federation navy magnetic field stabilizer": 12,
+		"caldari navy ballistic control system": 12,
+		"republic fleet gyrostabilizer": 12,
+		"federation navy tracking computer": 6,
+		"caldari navy missle guidence computer": 6
+	}
+}

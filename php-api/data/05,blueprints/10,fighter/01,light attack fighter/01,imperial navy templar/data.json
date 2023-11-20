@@ -1,0 +1,25 @@
+{
+    "name": "Imperial Navy Templar Blueprint",
+    "volume": 0.01,
+    "products": "Imperial Navy Templar",
+    "tech level": 10,
+    "manufacturing time": "03:00:00",
+    "manufacturing cost": 7000000,
+    "pi requirements": {
+        "sheen compound": 46926,
+        "condensed alloy": 56109,
+        "opulent compound": 53156,
+        "crystal compound": 50061,
+        "reactive metals": 13952
+    },
+    "ore requirements": {
+        "tritanium": 1791698,
+        "pyrite": 4854466,
+        "mexallon": 136607,
+        "isogen": 27665,
+        "noxium": 8337,
+        "zydrine": 2957,
+        "megacyte": 1437,
+        "morphite": 461
+    }
+}

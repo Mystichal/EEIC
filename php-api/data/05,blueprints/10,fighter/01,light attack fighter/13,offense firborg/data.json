@@ -1,0 +1,25 @@
+{
+    "name": "Offense Firbolg Blueprint",
+    "volume": 0.01,
+    "products": "Offense Firbolg",
+    "tech level": 10,
+    "manufacturing time": "05:00:00",
+    "manufacturing cost": 15000000,
+    "pi requirements": {
+        "lustering alloy": 83333,
+        "motley compound": 109217,
+        "crystal compound": 88067,
+        "base metals": 25145,
+        "reactive metals": 28302
+    },
+    "ore requirements": {
+        "tritanium": 4174080,
+        "pyrite": 840263,
+        "mexallon": 262592,
+        "isogen": 55170,
+        "noxium": 17051,
+        "zydrine": 5105,
+        "megacyte":2741,
+        "morphite": 896
+    }
+}

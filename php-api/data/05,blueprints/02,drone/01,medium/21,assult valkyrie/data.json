@@ -1,0 +1,25 @@
+{
+    "name": "Assult Valkyrie Blueprint",
+    "volume": 0.01,
+    "products": "Assult Valkyrie",
+    "tech level": 10,
+    "manufacturing time": "04:00:00",
+    "manufacturing cost": 4000000,
+    "pi requirements": {
+        "gleaming alloy": 30434,
+        "motley compound": 21699,
+        "lucent compound": 25421,
+        "dark compound": 30534,
+        "noble gas": 36338
+    },
+    "ore requirements": {
+        "tritanium": 1208543,
+        "pyrite": 291651,
+        "mexallon": 95606,
+        "isogen": 14478,
+        "noxium": 5096,
+        "zydrine": 1418,
+        "megacyte": 681,
+        "morphite": 266
+    }
+}

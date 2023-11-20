@@ -1,0 +1,25 @@
+{
+    "name": "MK9 Acolyte Blueprint",
+    "volume": 0.01,
+    "products": "MK9 Acolyte",
+    "production amount": 10,
+    "tech level": 9,
+    "manufacturing time": "01:00:00",
+    "manufacturing cost": 3500000,
+    "pi requirements": {
+        "lustering alloy": 4409,
+        "motley compound": 5817,
+        "crystal compound": 5104,
+        "base metals": 1353,
+        "reactive metals": 1424
+    },
+    "ore requirements": {
+        "tritanium": 189348,
+        "pyrite": 41073,
+        "mexallon": 16026,
+        "isogen": 3287,
+        "noxium": 909,
+        "zydrine": 285,
+        "megacyte": 144
+    }
+}

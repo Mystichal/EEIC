@@ -1,0 +1,23 @@
+{
+    "name": "Rupture Guardian Blueprint",
+    "volume": 0.01,
+    "products": "Rupture Guardian",
+    "tech level": 7,
+    "manufacturing time": "04:26:40",
+    "manufacturing cost": 20000000,
+    "pi requirements": {
+        "gleaming alloy": 17595,
+        "precious alloy": 15621,
+        "opulent compound": 19935,
+        "noble metals": 19935,
+        "reactive metals": 4958
+    },
+    "ore requirements": {
+        "tritanium": 6026144,
+        "pyrite": 1244723,
+        "mexallon": 454350,
+        "isogen": 91667,
+        "noxium": 26546,
+        "zydrine": 7157
+    }
+}

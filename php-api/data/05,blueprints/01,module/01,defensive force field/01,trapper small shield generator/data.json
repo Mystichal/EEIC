@@ -1,0 +1,26 @@
+{
+    "name": "Trapper Small Shield Generator Blueprint",
+    "volume": 0.01,
+    "products": "Trapper Small Shield Generator",
+    "tech level": 8,
+    "manufacturing time": "16:00:00",
+    "manufacturing cost": 2500000,
+    "pi requirements": {
+        "precious alloy": 1751,
+        "dark compound": 2388,
+        "base metals": 762,
+        "reactive metals": 620,
+        "toxic metals": 660,
+        "precious metals": 422,
+        "non-cs crystals": 459
+    },
+    "ore requirements": {
+        "tritanium": 109761,
+        "pyrite": 31995,
+        "mexallon": 9533,
+        "isogen": 2328,
+        "noxium": 519,
+        "zydrine": 206,
+        "megacyte": 95
+    }
+}
